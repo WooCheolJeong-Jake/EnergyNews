@@ -121,13 +121,14 @@ def send_email(html_body: str):
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
     msg["From"] = f"Energy News <{gmail_addr}>"
-    msg["To"] = recipient
+    recipients = [r.strip() for r in recipient.split(",") if r.strip()]
+    msg["To"] = ", ".join(recipients)
 
     msg.attach(MIMEText(html_body, "html", "utf-8"))
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
         server.login(gmail_addr, gmail_pw)
-        server.sendmail(gmail_addr, [recipient], msg.as_string())
+        server.sendmail(gmail_addr, recipients, msg.as_string())
 
     print(f"[OK] 이메일 발송 완료 → {recipient}")
 
