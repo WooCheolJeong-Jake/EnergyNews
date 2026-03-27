@@ -61,8 +61,9 @@ def build_email_html(data: dict) -> str:
 
     html += """
       </div>
-      <div style="background:#f8fafc;padding:14px 24px;border-radius:0 0 12px 12px;border:1px solid #e2e8f0;border-top:none;text-align:center;">
-        <p style="margin:0;font-size:12px;color:#94a3b8;">Energy News Briefing &mdash; 자동 수집 by GitHub Actions</p>
+      <div style="background:#f8fafc;padding:18px 24px;border-radius:0 0 12px 12px;border:1px solid #e2e8f0;border-top:none;text-align:center;">
+        <a href="https://jeong-jake.github.io/EnergyNews/" style="display:inline-block;background:#1d4ed8;color:white;text-decoration:none;font-size:13px;font-weight:600;padding:10px 24px;border-radius:8px;margin-bottom:10px;">웹에서 전체 기사 보기</a>
+        <p style="margin:8px 0 0;font-size:12px;color:#94a3b8;">Energy News Briefing &mdash; 자동 수집 by GitHub Actions</p>
       </div>
     </div>
     """
