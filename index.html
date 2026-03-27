@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>에너지 뉴스 브리핑</title>
+<style>
+  :root {
+    --bg: #f0f2f5;
+    --card-bg: #ffffff;
+    --text: #1a1a2e;
+    --text-sub: #6b7280;
+    --accent: #2563eb;
+    --accent-light: #dbeafe;
+    --priority: #f59e0b;
+    --priority-light: #fef3c7;
+    --border: #e5e7eb;
+    --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.06);
+    --shadow-hover: 0 10px 25px rgba(0,0,0,0.1);
+    --radius: 12px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* ── 헤더 ── */
+  .header {
+    background: linear-gradient(135deg, #1e3a5f 0%, #2563eb 100%);
+    color: white;
+    padding: 2rem 1.5rem 1.5rem;
+    text-align: center;
+  }
+  .header h1 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 0.3rem;
+    letter-spacing: -0.02em;
+  }
+  .header .subtitle {
+    font-size: 0.85rem;
+    opacity: 0.85;
+  }
+  .header .update-info {
+    margin-top: 0.8rem;
+    font-size: 0.78rem;
+    opacity: 0.7;
+  }
+  .header .stats {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 1rem;
+  }
+  .header .stat-item {
+    text-align: center;
+  }
+  .header .stat-num {
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  .header .stat-label {
+    font-size: 0.7rem;
+    opacity: 0.75;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  /* ── 필터 바 ── */
+  .filter-bar {
+    background: var(--card-bg);
+    border-bottom: 1px solid var(--border);
+    padding: 0.8rem 1.5rem;
+    display: flex;
+    gap: 0.5rem;
+    overflow-x: auto;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    -webkit-overflow-scrolling: touch;
+  }
+  .filter-bar::-webkit-scrollbar { display: none; }
+  .filter-btn {
+    flex-shrink: 0;
+    padding: 0.4rem 0.9rem;
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    background: transparent;
+    color: var(--text-sub);
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-family: inherit;
+  }
+  .filter-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .filter-btn.active {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+  }
+  .filter-btn.priority-filter.active {
+    background: var(--priority);
+    border-color: var(--priority);
+  }
+
+  /* ── 컨텐츠 ── */
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 1rem 1rem 3rem;
+  }
+
+  .section-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--text-sub);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin: 1.2rem 0 0.6rem 0.2rem;
+  }
+
+  /* ── 카드 ── */
+  .card {
+    background: var(--card-bg);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 1.1rem 1.2rem;
+    margin-bottom: 0.7rem;
+    transition: box-shadow 0.2s, transform 0.2s;
+    cursor: pointer;
+    position: relative;
+    border-left: 3px solid transparent;
+  }
+  .card:hover {
+    box-shadow: var(--shadow-hover);
+    transform: translateY(-1px);
+  }
+  .card.priority {
+    border-left-color: var(--priority);
+    background: linear-gradient(135deg, var(--priority-light) 0%, var(--card-bg) 30%);
+  }
+  .card-top {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.15rem 0.55rem;
+    border-radius: 10px;
+    font-size: 0.68rem;
+    font-weight: 600;
+  }
+  .badge.category {
+    background: var(--accent-light);
+    color: var(--accent);
+  }
+  .badge.priority-badge {
+    background: var(--priority-light);
+    color: #92400e;
+  }
+  .card-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 0.4rem;
+    color: var(--text);
+  }
+  .card-title a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .card-title a:hover {
+    color: var(--accent);
+  }
+  .card-desc {
+    font-size: 0.82rem;
+    color: var(--text-sub);
+    line-height: 1.5;
+    margin-bottom: 0.6rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    font-size: 0.72rem;
+    color: var(--text-sub);
+  }
+  .card-meta .source {
+    font-weight: 600;
+    color: var(--text);
+  }
+  .card-meta .dot {
+    color: var(--border);
+  }
+
+  /* ── 빈 상태 ── */
+  .empty-state {
+    text-align: center;
+    padding: 4rem 1rem;
+    color: var(--text-sub);
+  }
+  .empty-state .icon { font-size: 3rem; margin-bottom: 1rem; }
+  .empty-state p { font-size: 0.9rem; }
+
+  /* ── 로딩 ── */
+  .loading {
+    text-align: center;
+    padding: 4rem 1rem;
+    color: var(--text-sub);
+  }
+  .spinner {
+    width: 32px; height: 32px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 1rem;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── 반응형 ── */
+  @media (min-width: 768px) {
+    .header { padding: 2.5rem 2rem 2rem; }
+    .header h1 { font-size: 1.8rem; }
+    .container { padding: 1.2rem 1.5rem 3rem; }
+    .card { padding: 1.3rem 1.5rem; }
+  }
+
+  /* ── 스크롤 탑 버튼 ── */
+  .scroll-top {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: white;
+    border: none;
+    box-shadow: var(--shadow-hover);
+    cursor: pointer;
+    font-size: 1.1rem;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.2s;
+    z-index: 200;
+  }
+  .scroll-top.visible { display: flex; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Energy News Briefing</h1>
+  <div class="subtitle">전력시장 / ESS / 태양광 / VPP / RPS / AI / 제도개선 / 전기요금</div>
+  <div class="stats">
+    <div class="stat-item">
+      <div class="stat-num" id="totalCount">-</div>
+      <div class="stat-label">전체 기사</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-num" id="priorityCount">-</div>
+      <div class="stat-label">VPP 주요</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-num" id="categoryCount">-</div>
+      <div class="stat-label">카테고리</div>
+    </div>
+  </div>
+  <div class="update-info" id="updateInfo">데이터를 불러오는 중...</div>
+</div>
+
+<div class="filter-bar" id="filterBar">
+  <button class="filter-btn active" data-filter="all">전체</button>
+  <button class="filter-btn priority-filter" data-filter="priority">VPP 주요</button>
+</div>
+
+<div class="container" id="container">
+  <div class="loading">
+    <div class="spinner"></div>
+    <p>뉴스를 불러오는 중...</p>
+  </div>
+</div>
+
+<button class="scroll-top" id="scrollTop" title="맨 위로">↑</button>
+
+<script>
+(function () {
+  const DATA_URL = 'data/news.json';
+  let allArticles = [];
+  let currentFilter = 'all';
+
+  // ── 데이터 로드 ──
+  async function loadData() {
+    try {
+      const resp = await fetch(DATA_URL + '?t=' + Date.now());
+      if (!resp.ok) throw new Error('데이터 없음');
+      const data = await resp.json();
+
+      allArticles = data.articles || [];
+      updateStats(data);
+      buildFilters();
+      renderCards();
+    } catch (e) {
+      document.getElementById('container').innerHTML =
+        '<div class="empty-state"><div class="icon">📡</div>' +
+        '<p>아직 수집된 뉴스가 없습니다.<br>GitHub Actions가 실행되면 자동으로 채워집니다.</p></div>';
+      document.getElementById('updateInfo').textContent = '데이터 없음';
+    }
+  }
+
+  // ── 통계 업데이트 ──
+  function updateStats(data) {
+    const total = allArticles.length;
+    const priority = allArticles.filter(a => a.priority).length;
+    const categories = new Set(allArticles.map(a => a.category));
+
+    document.getElementById('totalCount').textContent = total;
+    document.getElementById('priorityCount').textContent = priority;
+    document.getElementById('categoryCount').textContent = categories.size;
+
+    if (data.lastUpdated) {
+      const d = new Date(data.lastUpdated);
+      document.getElementById('updateInfo').textContent =
+        '마지막 업데이트: ' + formatDateTime(d);
+    }
+  }
+
+  // ── 필터 버튼 생성 ──
+  function buildFilters() {
+    const bar = document.getElementById('filterBar');
+    const categories = [...new Set(allArticles.map(a => a.category))];
+
+    categories.forEach(cat => {
+      const btn = document.createElement('button');
+      btn.className = 'filter-btn';
+      btn.dataset.filter = cat;
+      btn.textContent = cat;
+      bar.appendChild(btn);
+    });
+
+    bar.addEventListener('click', function (e) {
+      if (!e.target.classList.contains('filter-btn')) return;
+      bar.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      e.target.classList.add('active');
+      currentFilter = e.target.dataset.filter;
+      renderCards();
+    });
+  }
+
+  // ── 카드 렌더링 ──
+  function renderCards() {
+    const container = document.getElementById('container');
+    let filtered = allArticles;
+
+    if (currentFilter === 'priority') {
+      filtered = allArticles.filter(a => a.priority);
+    } else if (currentFilter !== 'all') {
+      filtered = allArticles.filter(a => a.category === currentFilter);
+    }
+
+    if (filtered.length === 0) {
+      container.innerHTML =
+        '<div class="empty-state"><div class="icon">📭</div>' +
+        '<p>해당 카테고리의 기사가 없습니다.</p></div>';
+      return;
+    }
+
+    let html = '';
+
+    // 우선순위 기사
+    const priorityArticles = filtered.filter(a => a.priority);
+    const normalArticles = filtered.filter(a => !a.priority);
+
+    if (priorityArticles.length > 0 && currentFilter !== 'priority') {
+      html += '<div class="section-label">VPP 주요 기사</div>';
+      priorityArticles.forEach(a => { html += cardHTML(a); });
+    }
+
+    if (normalArticles.length > 0 && currentFilter !== 'priority') {
+      html += '<div class="section-label">최신 기사</div>';
+      normalArticles.forEach(a => { html += cardHTML(a); });
+    }
+
+    if (currentFilter === 'priority') {
+      priorityArticles.forEach(a => { html += cardHTML(a); });
+    }
+
+    container.innerHTML = html;
+
+    // 카드 클릭 이벤트
+    container.querySelectorAll('.card').forEach(card => {
+      card.addEventListener('click', function (e) {
+        if (e.target.tagName === 'A') return;
+        const link = this.dataset.link;
+        if (link) window.open(link, '_blank');
+      });
+    });
+  }
+
+  function cardHTML(article) {
+    const timeStr = article.pubDate ? timeAgo(new Date(article.pubDate)) : '';
+    const dateStr = article.pubDate ? formatDateTime(new Date(article.pubDate)) : '';
+
+    return `
+      <div class="card ${article.priority ? 'priority' : ''}" data-link="${escapeHtml(article.link)}">
+        <div class="card-top">
+          <span class="badge category">${escapeHtml(article.category)}</span>
+          ${article.priority ? '<span class="badge priority-badge">VPP 주요</span>' : ''}
+        </div>
+        <div class="card-title">
+          <a href="${escapeHtml(article.link)}" target="_blank" rel="noopener">${escapeHtml(article.title)}</a>
+        </div>
+        ${article.description ? `<div class="card-desc">${escapeHtml(article.description)}</div>` : ''}
+        <div class="card-meta">
+          <span class="source">${escapeHtml(article.source)}</span>
+          <span class="dot">·</span>
+          <span title="${dateStr}">${timeStr}</span>
+        </div>
+      </div>`;
+  }
+
+  // ── 유틸 ──
+  function timeAgo(date) {
+    const now = new Date();
+    const diff = Math.floor((now - date) / 1000);
+    if (diff < 60) return '방금 전';
+    if (diff < 3600) return Math.floor(diff / 60) + '분 전';
+    if (diff < 86400) return Math.floor(diff / 3600) + '시간 전';
+    return Math.floor(diff / 86400) + '일 전';
+  }
+
+  function formatDateTime(date) {
+    const m = date.getMonth() + 1;
+    const d = date.getDate();
+    const h = date.getHours();
+    const min = String(date.getMinutes()).padStart(2, '0');
+    return `${m}/${d} ${h}:${min}`;
+  }
+
+  function escapeHtml(str) {
+    if (!str) return '';
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  // ── 스크롤 탑 ──
+  const scrollBtn = document.getElementById('scrollTop');
+  window.addEventListener('scroll', function () {
+    scrollBtn.classList.toggle('visible', window.scrollY > 400);
+  });
+  scrollBtn.addEventListener('click', function () {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+
+  // ── 초기화 ──
+  loadData();
+})();
+</script>
+</body>
+</html>
