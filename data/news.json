@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-28T00:09:00.708398+09:00",
-  "totalCount": 70,
+  "lastUpdated": "2026-03-28T00:19:03.627403+09:00",
+  "totalCount": 65,
   "articles": [
     {
       "id": "6dcf1e169c4b",
@@ -60,16 +60,6 @@
       "pubDate": "2026-03-27T10:07:18+00:00",
       "description": "LS일렉트릭, 내수기업 넘어 수출주도 기업으로 체질 개선 산업저널",
       "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "c18325dbe34b",
-      "title": "구자균 회장, “AI·직류(DC)·ESS 등 차세대 산업 대응 집중…서해안 HVDC사업 수주 기대” - 한국전력신문",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tUnloMEV5ZTJ6X3JyOTF2dUlJLVE4U0JkSHRBYzlLejJyQzZndU96OEhzN1RKQWV6dUdheHRiTEZSX2hDOTVjVDJ3YjZLeFBfcEJLS2xMLXVLM1JXeDQ2dGViRUhYanhjdlE?oc=5",
-      "source": "한국전력신문",
-      "pubDate": "2026-03-27T10:04:27+00:00",
-      "description": "구자균 회장, “AI·직류(DC)·ESS 등 차세대 산업 대응 집중…서해안 HVDC사업 수주 기대” 한국전력신문",
-      "category": "전력시장",
       "priority": false
     },
     {
@@ -140,16 +130,6 @@
       "pubDate": "2026-03-27T08:42:29+00:00",
       "description": "AI 전력 인프라 재편 속 ESS 부상...LG엔솔, 배터리 경쟁력 앞세워 확장 the-pr.co.kr",
       "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "e0519e3ba613",
-      "title": "[오늘의 주목주] '전력기기 투심 위축' 효성중공업 주가 6%대 하락, 코스닥 펄어비스 15%대 올라 - 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZOERyMVJ0TG5fMU80Y2RiMTVhZWx1NmpDZ2lzNDZ0MlVUVDBnblRpeE9LNUR6bmhDbmpKUkI5bnRZLVgxNzRRTGNPdGt5d0JQNDBNbVdxUE5vZFpDWmxfMzZQUXhUVzVCWE5OclBrOGgyWFU?oc=5",
-      "source": "비즈니스포스트",
-      "pubDate": "2026-03-27T08:39:10+00:00",
-      "description": "[오늘의 주목주] '전력기기 투심 위축' 효성중공업 주가 6%대 하락, 코스닥 펄어비스 15%대 올라 비즈니스포스트",
-      "category": "전력시장",
       "priority": false
     },
     {
@@ -323,9 +303,9 @@
       "priority": false
     },
     {
-      "id": "b9fd45ad4361",
+      "id": "3166fa7025d3",
       "title": "모회사도 선그은 매각설…배터리 살리기 나선 SK - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MOTNvdWtCUXcyaUYxamF0R1pUdnl6eVk3eDRXanJKTTZPdzJLTUpnUGRNX1VuN3Y5bTRkMEpYLUpvOGR0czlqVzN5ZEYxQ2s?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9sSl83d3FnNzRVSWV0eGZfZjBnYlktRjN0OXBXOWR3cDF6ckM0V2dvUjJfdF9ZNTJzUXNtUG1jbzRnZUJ5Vmc?oc=5",
       "source": "v.daum.net",
       "pubDate": "2026-03-27T05:10:02+00:00",
       "description": "모회사도 선그은 매각설…배터리 살리기 나선 SK v.daum.net",
@@ -523,26 +503,6 @@
       "priority": false
     },
     {
-      "id": "9812e8ab0137",
-      "title": "남동발전, ‘보는 AI’ CCTV 전사 확대… 안전관리 패러다임 전환 - 에너지데일리",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zV0FqcXR2enEtSERqREpNdktRbTVvZGFiYklyTFBrZmNCM2YtM2w1UUx2NXUxX0Y4VWVRTURrOVdTWV9rZUN5bXRqUi16emhQZFZyR0lEcjc5U19SUjNrTUhlU1M1TzJJOGpqYmUwOFJQdw?oc=5",
-      "source": "에너지데일리",
-      "pubDate": "2026-03-26T23:57:41+00:00",
-      "description": "남동발전, ‘보는 AI’ CCTV 전사 확대… 안전관리 패러다임 전환 에너지데일리",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "76ecc6cd17f7",
-      "title": "피노, 삼성SDI와 글로벌 기관투자자로부터 700억 투자 유치…\"이차전지 소재 공급망 핵심 위상 확… - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fY0lsMHpyekt2VG56dUFtR21LQ1NGYkFGQklCR3dDTU5STG13YUtBOEotLTUxNF82WGhLSnhtNHhyX00tOWJfUjZHWjBNR0VXU3B1enZ6ME4zRFhaSFFNbA?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-03-26T23:25:00+00:00",
-      "description": "피노, 삼성SDI와 글로벌 기관투자자로부터 700억 투자 유치…\"이차전지 소재 공급망 핵심 위상 확… 네이트",
-      "category": "AI",
-      "priority": false
-    },
-    {
       "id": "6bd3cb369579",
       "title": "피노, 삼성SDI와 글로벌 기관투자자로부터 700억원 투자 유치 - 네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NXzl0SGJnUkp6UGJpek5GdVNtbmxjSDFWMjF5dGFmOFJOblBsVDV6QjQ4UHJQM216N1d6eGZBcVJ4Z0xEeUw3R29PXzhSdnluazMw?oc=5",
@@ -613,16 +573,6 @@
       "priority": false
     },
     {
-      "id": "dd0c656b637d",
-      "title": "닐 소마니, 호머 발전소 신규 설비 확충 사업 평가 - FinanceFeeds",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFYyRGxLUFQ5SHZsb1hLbThnSEQyMllPNTNZYXpuaWVYb1Z6djNQSUdENkhmOVZ6RTh2ZUFDSWpfaWc0Rm1saG5qTFFUNEtNZC1XdmRKRlZVXzVZeTBmemRQNkItRFRzUVlFc2oydUJKMVhyYXlmRTRsSjBLRktnalVpcWZMdUQ4SGpGYXY3V3hpam5Da29sTA?oc=5",
-      "source": "FinanceFeeds",
-      "pubDate": "2026-03-26T21:44:12+00:00",
-      "description": "닐 소마니, 호머 발전소 신규 설비 확충 사업 평가 FinanceFeeds",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
       "id": "b9291806c9c6",
       "title": "'스페이스X 상장 임박' 수혜주 찾는 시장…증권가 꼽은 '이 업종' - 뉴스1",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrT2NwbjhFLWZ4c0Q0T0dXVlVIMDR4M3lDaXl1MmFFOTNQbkxBZHdTV2pBVXA5emVIUDdhamJiTjNwMXM4VUJBbzZZX0lYbG41UDc5OHB3SGl6dWgtN0xVemxjbm8?oc=5",
@@ -633,6 +583,16 @@
       "priority": false
     },
     {
+      "id": "e0dd4302d723",
+      "title": "Southern Company Rose 9% Year to Date. Here’s Where the Stock Could Go in 2026 - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEdpUTYwQWZwZlhIdHlGVW5Ob1FKYjNBQXFNZXJ4bmFsNUdic2U5MG5sb3NHLW9lX2Y3dV9kbWVmdHp5TU9NRU5fOFVqb292bEFyNm1haUVDNFdjOFl5aEFoM0JmVzNWNHBBaS1iVzR2d3pPa3JTakI0c0tOLTFjazQ0aWF5QWMtSTEyR2xBbm15U0E?oc=5",
+      "source": "TIKR.com",
+      "pubDate": "2026-03-26T20:50:49+00:00",
+      "description": "Southern Company Rose 9% Year to Date. Here’s Where the Stock Could Go in 2026 TIKR.com",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
       "id": "b1c2e743a489",
       "title": "“구글이 무릎 꿇고 머스크가 매달린다” 인류 지능의 숨통 쥔 K-반도체의 ‘전력 족쇄’ - 초이스스탁US",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtU1ZEUEZCZkhPdFZvSHEzeC01ZXRMU1JFNTYybHZNLVJLdzJyLVhiNFRBNlBuaUhia09WYU1qdm92OHdDblVfSzZPQ3VoaGlYbUFfdDBTbWRYbG1uaVRXMmQxZWZ2V3M?oc=5",
@@ -640,16 +600,6 @@
       "pubDate": "2026-03-26T20:42:00+00:00",
       "description": "“구글이 무릎 꿇고 머스크가 매달린다” 인류 지능의 숨통 쥔 K-반도체의 ‘전력 족쇄’ 초이스스탁US",
       "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "a7000bad47d4",
-      "title": "Southern Company Rose 9% Year to Date. Here’s Where the Stock Could Go in 2026 - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeldNU0FtOWhiOUt2d2g4TUIzOFRzVFhxejdpeUdfZTJJYlBqdVUyaFJIakpFZW44UjN6aXR0RHRqNzlrYThNTVNvQi1OcDZTQ0hDVVgtT0xaTTc2UEh2MjN1djR6N3ZONHFOcC1uaHBma1RpRmhNSUZuejRlUXZlemRySWVlZl9ydkdCWGFnbVF3R1ZC?oc=5",
-      "source": "TIKR.com",
-      "pubDate": "2026-03-26T20:25:12+00:00",
-      "description": "Southern Company Rose 9% Year to Date. Here’s Where the Stock Could Go in 2026 TIKR.com",
-      "category": "전력시장",
       "priority": false
     },
     {
