@@ -15,6 +15,9 @@ jobs:
   fetch-and-deploy:
     runs-on: ubuntu-latest
 
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: 레포지토리 체크아웃
         uses: actions/checkout@v4
