@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-03-28T00:19:03.627403+09:00",
+  "lastUpdated": "2026-03-28T08:21:02.515583+09:00",
   "totalCount": 65,
   "articles": [
+    {
+      "id": "932f0c40c4d7",
+      "title": "[인터뷰] 최동구 포스텍 교수 “전력시장 열리면 VPP 기술 꽃 피울 것” - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GUi14aEwyOUxfMFhDUGNfcWpVdG1kQ1dKczFXZm5VY1o0c2lnMkZ4VHNYeUpXUUFFNVhWZWdiU1dzdUl1Y095cUVaeEZhM0lMYmVwRVp3NGRPcEF6OGlIMWJoSQ?oc=5",
+      "source": "에너지경제신문",
+      "pubDate": "2026-03-27T21:53:00+00:00",
+      "description": "[인터뷰] 최동구 포스텍 교수 “전력시장 열리면 VPP 기술 꽃 피울 것” 에너지경제신문",
+      "category": "전력시장",
+      "priority": true
+    },
     {
       "id": "6dcf1e169c4b",
       "title": "에너닷, VPP 운영 역량 확인… 제주 시범사업 RPCF 평가서 최상위권 기록 - 인더스트리뉴스",
@@ -11,6 +21,66 @@
       "description": "에너닷, VPP 운영 역량 확인… 제주 시범사업 RPCF 평가서 최상위권 기록 인더스트리뉴스",
       "category": "VPP",
       "priority": true
+    },
+    {
+      "id": "5ee5b46a231e",
+      "title": "AI 넘어 전력·방산·조선까지…‘한국 제조업’ 담는 액티브 ETF 출격 - marketin.edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xLWJJc0FJTlpPRHdCWnF4dGJvZEkwQjFoMzZFeGdvUGp3MUMyeHNXaV9TQUZMazAzdjNWUTc0ZVlwaG9aQzlVVkpvUlRTb1pNNzJXYlVuZkVhUjhPakhobVEyazU4ZEc2VlJEZV9lTFl1d1U?oc=5",
+      "source": "marketin.edaily.co.kr",
+      "pubDate": "2026-03-27T22:30:05+00:00",
+      "description": "AI 넘어 전력·방산·조선까지…‘한국 제조업’ 담는 액티브 ETF 출격 marketin.edaily.co.kr",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "a1fa34545006",
+      "title": "미국 AI 데이터센터 ‘전력 셧다운’ 현실화… 메타, 텍사스에 13조 원 투입 1GW 승부수 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzJudzJDR1lUWThxcE92c1JkZk1TR3ZaclRza2MxZVRDX2hnaTZ4Mk1sOEtDX0t5MGZvQTNKTGdMWDJDTG1CUXFEcWZTYnRWdG9XblREQ0hMc1dvUUl1UzRzNXUtQXduV0pHVzdqUFd5WGJVUks5eGNxMEZaMEY3Vk9sLTJOQjZq?oc=5",
+      "source": "글로벌이코노믹",
+      "pubDate": "2026-03-27T21:46:18+00:00",
+      "description": "미국 AI 데이터센터 ‘전력 셧다운’ 현실화… 메타, 텍사스에 13조 원 투입 1GW 승부수 글로벌이코노믹",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "35b4c0359088",
+      "title": "심판이 없는 전력시장, 전기위원회 독립은 가능한가[이유범의 에코&에너지] - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ub0xFa1NMTTMtRDBGUl9QV2xZWUhGaElrVlhWUkFSZXoxQmprb0tFMk9GTEpvVlNmMWdSOC1WSDNrTU4wRjI0SXpVNXF0VE9RWlBn?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-03-27T21:01:00+00:00",
+      "description": "심판이 없는 전력시장, 전기위원회 독립은 가능한가[이유범의 에코&에너지] 네이트",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "4a0f429410c9",
+      "title": "원자력 부활: 한국·유럽의 새로운 선택 - kairnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVdGZOZk1UVy1YOGVocUYtR2h6cHRHZ0tNQzlLMnplWFo3N0M4Y0dGWmI1QVdiRHBQaGZEQWFVcVc5QWk4eWlEUi1lUnQ?oc=5",
+      "source": "kairnews.com",
+      "pubDate": "2026-03-27T19:55:41+00:00",
+      "description": "원자력 부활: 한국·유럽의 새로운 선택 kairnews.com",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "bb6a8f0e80e0",
+      "title": "메타, 세계최대 데이터센터 가동 위해 가스발전소 7곳 추가건설 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vNHBwMzQ3cXc1ek9zcXplVm5xTXNvbWNad2ljUk5mbERTNjF5a0V1R2ZlQ1h5WU0tNkc3WG5SVjVDZVhFaUFUZHB5NjJGWnJSYTdneTl2NDM0U2tnTnl1ZdIBYEFVX3lxTE9vNHBwMzQ3cXc1ek9zcXplVm5xTXNvbWNad2ljUk5mbERTNjF5a0V1R2ZlQ1h5WU0tNkc3WG5SVjVDZVhFaUFUZHB5NjJGWnJSYTdneTl2NDM0U2tnTnl1ZQ?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "2026-03-27T18:02:18+00:00",
+      "description": "메타, 세계최대 데이터센터 가동 위해 가스발전소 7곳 추가건설 연합뉴스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "63aed066efb2",
+      "title": "현재 투자자들 최대관심 3가지 핵심 섹터별 대장주 심층 분석 - 더페어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zQXZRSXRrSzFYamNPSWVrTHZXUnA1TktCOFhiX01OazVDekVtdElWcFBDWFNuVERVekEwNzJFd1pld2JGcXBwWkoyZ1kwQU5DMDJDbll0djVjVk1jNlBleVVVd3JnZVgzbVk2VUhnbnnSAXRBVV95cUxNTjFPOTgwUnNkQXducENOUThTWFh0VGJZN0JfMUkteDcxcnZfRzN3MnUyaFFEWmUwR2k4RVNWdU1sTkxkbDFRV2lhWjBBN2ZkY3hnU0tiSzhSWnJ4akpoZ29aTzc1RW5LRkhxVktRcmRQT3d6Ug?oc=5",
+      "source": "더페어",
+      "pubDate": "2026-03-27T15:00:00+00:00",
+      "description": "현재 투자자들 최대관심 3가지 핵심 섹터별 대장주 심층 분석 더페어",
+      "category": "ESS",
+      "priority": false
     },
     {
       "id": "2a3df6e250a2",
@@ -60,6 +130,16 @@
       "pubDate": "2026-03-27T10:07:18+00:00",
       "description": "LS일렉트릭, 내수기업 넘어 수출주도 기업으로 체질 개선 산업저널",
       "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "c18325dbe34b",
+      "title": "구자균 회장, “AI·직류(DC)·ESS 등 차세대 산업 대응 집중…서해안 HVDC사업 수주 기대” - 한국전력신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tUnloMEV5ZTJ6X3JyOTF2dUlJLVE4U0JkSHRBYzlLejJyQzZndU96OEhzN1RKQWV6dUdheHRiTEZSX2hDOTVjVDJ3YjZLeFBfcEJLS2xMLXVLM1JXeDQ2dGViRUhYanhjdlE?oc=5",
+      "source": "한국전력신문",
+      "pubDate": "2026-03-27T10:04:27+00:00",
+      "description": "구자균 회장, “AI·직류(DC)·ESS 등 차세대 산업 대응 집중…서해안 HVDC사업 수주 기대” 한국전력신문",
+      "category": "전력시장",
       "priority": false
     },
     {
@@ -173,9 +253,9 @@
       "priority": false
     },
     {
-      "id": "8756821dbaef",
+      "id": "0128b8231576",
       "title": "차세대 ESS 플랫폼…LS일렉의 신무기? - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSbXBrQXBBMWxyQjlsSkdYR19sTW5pMzZLaU1XeExmVGdXaE44bnlqc0ZJdUdRdzl3c0VJMGxjUDdDRTRkWFQ5MDRsa2tpMWpCc0pqRw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BVXpxV2Z1Smg0eHQ5a2h1VDF4MGd2NUdobzkxWlI2bE5GSG5NN0FMMlVnLVNsX3hyc2NHN3VQR0Q2ajRUdEY5YzFvUGJwajEtOGh5NDdB?oc=5",
       "source": "매일경제",
       "pubDate": "2026-03-27T07:05:35+00:00",
       "description": "차세대 ESS 플랫폼…LS일렉의 신무기? 매일경제",
@@ -284,12 +364,22 @@
     },
     {
       "id": "a7c2de541d95",
-      "title": "호주 에너지의 미래를 설계하다, PV 및 ESS 혁신 주도 - 이슈투데이",
+      "title": "호주 에너지의 미래를 설계하다, PV 및 ESS 혁신 주도 - issuetoday.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jTkRCZzBvNE13YldsTWt6b3BtNUM1RnFWeV96eXpVTlQ1ZzBkTDQyT1c4VlRTblp3c2VWSjJ2LXJyMkhTX0JjX25DUzdpbXBWdHlCb1c4RHRqMkxpVGdyM2E3VnVoQQ?oc=5",
-      "source": "이슈투데이",
+      "source": "issuetoday.co.kr",
       "pubDate": "2026-03-27T05:39:56+00:00",
-      "description": "호주 에너지의 미래를 설계하다, PV 및 ESS 혁신 주도 이슈투데이",
+      "description": "호주 에너지의 미래를 설계하다, PV 및 ESS 혁신 주도 issuetoday.co.kr",
       "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "be9501c7110c",
+      "title": "이도, 당진 태양광 70MW 인허가 완료…AI 인프라 밸류체인 구축 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YTDEzMVAwVGx2NzBhWVhCSE1jZFI0TkZza19NWlhPZmxHWHlnSGxVXzdNb0lBWXVJYmo2a1JrNXVoVHdFa2xMVkxhMWpZaE9qNGtr?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-03-27T05:23:00+00:00",
+      "description": "이도, 당진 태양광 70MW 인허가 완료…AI 인프라 밸류체인 구축 네이트",
+      "category": "AI",
       "priority": false
     },
     {
@@ -303,9 +393,19 @@
       "priority": false
     },
     {
-      "id": "3166fa7025d3",
+      "id": "4ad7d186599a",
+      "title": "[어제미장] Southern Company, 주가 95.42달러 마감, 에너지 수요 급증과 대규모 투자 계획 시장 기대감 반영 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDLS1WZGhaRHVTeGVVdk4zX3lOUkRhMDFtWElCTnNER1JYX01sM3oyVEFxSXVrb0NPajFxaWlyQUZPRzdMMmhwNjRB?oc=5",
+      "source": "재경일보",
+      "pubDate": "2026-03-27T05:15:00+00:00",
+      "description": "[어제미장] Southern Company, 주가 95.42달러 마감, 에너지 수요 급증과 대규모 투자 계획 시장 기대감 반영 재경일보",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "58daac7fd0e6",
       "title": "모회사도 선그은 매각설…배터리 살리기 나선 SK - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9sSl83d3FnNzRVSWV0eGZfZjBnYlktRjN0OXBXOWR3cDF6ckM0V2dvUjJfdF9ZNTJzUXNtUG1jbzRnZUJ5Vmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsUWZLTzRCMDJPMndHYUpPOHd6N25aSGdWUVh6eURVeXBuZXdwbTUxMnJzcDg2NXpPeWJzU28xNG1QRzRiNmladDJGQQ?oc=5",
       "source": "v.daum.net",
       "pubDate": "2026-03-27T05:10:02+00:00",
       "description": "모회사도 선그은 매각설…배터리 살리기 나선 SK v.daum.net",
@@ -473,6 +573,16 @@
       "priority": false
     },
     {
+      "id": "bc3a58d38d35",
+      "title": "인텔리빅스-에스앤이노, '전기차 배터리 안전' 맞손 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FbDRsdzRSQ2FQT0JYTUp2WUlMVS14V1pNSlNSbG5KNm9jTmgtNS1xdVZnU1VYNF9BRFFsU2JUMkYyRmZYdmx0VUtnSzk5WlJ2WFhR?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-03-27T01:01:00+00:00",
+      "description": "인텔리빅스-에스앤이노, '전기차 배터리 안전' 맞손 네이트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
       "id": "a2ecc4cc8f4f",
       "title": "사람 대신 AI가 본다…남동발전, 안전 패러다임 전환 - 에너지타임즈",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jSFZpYUFvNzFKQ0h1UkVLZnZaWENabGt2Y2UxTktxVFlSeE5iN2hoLVloMmpzZndHU2J6U3FockxEV19oSjc0NlZrNzBNLVV5eFRNSDByRUJGd0plUTFCUlZVd2tVTURfTjA3dw?oc=5",
@@ -493,6 +603,16 @@
       "priority": false
     },
     {
+      "id": "fe67041986f6",
+      "title": "삼성SDI, 중국계 소재사 피노 지분 인수…전구체 공급망 직접 쥔다 - 노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKVFRqOVVFT0hCY0R1Q0pQaXFnTU42cXk3NWdFZy0wZVIzd0lYeUVOQ2JTc2Jxd05QbHlKS1ZOOW1DRm0tN0lGVXNHWnVrcWlWOHBWMA?oc=5",
+      "source": "노컷뉴스",
+      "pubDate": "2026-03-27T00:37:00+00:00",
+      "description": "삼성SDI, 중국계 소재사 피노 지분 인수…전구체 공급망 직접 쥔다 노컷뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
       "id": "b223974db509",
       "title": "파인디앤씨, 북미 EV 고객사 배터리 핵심 부품 양산 수주…글로벌 사업 확장 본격화 - 아시아경제",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsVWVOTlFJSU9jYkZBWlRGQUNDRDVBeC15UmhBY2t4bmE0SGxGTjZ6cmZ2X3lOZVh2RlBLWGZIX01OUVYtc0F4XzU4b3Q1dE5QZ1h4QVZ0ZDhkWXpUNkRlYQ?oc=5",
@@ -503,153 +623,33 @@
       "priority": false
     },
     {
-      "id": "6bd3cb369579",
-      "title": "피노, 삼성SDI와 글로벌 기관투자자로부터 700억원 투자 유치 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NXzl0SGJnUkp6UGJpek5GdVNtbmxjSDFWMjF5dGFmOFJOblBsVDV6QjQ4UHJQM216N1d6eGZBcVJ4Z0xEeUw3R29PXzhSdnluazMw?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-03-26T23:15:00+00:00",
-      "description": "피노, 삼성SDI와 글로벌 기관투자자로부터 700억원 투자 유치 네이트",
+      "id": "9812e8ab0137",
+      "title": "남동발전, ‘보는 AI’ CCTV 전사 확대… 안전관리 패러다임 전환 - 에너지데일리",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zV0FqcXR2enEtSERqREpNdktRbTVvZGFiYklyTFBrZmNCM2YtM2w1UUx2NXUxX0Y4VWVRTURrOVdTWV9rZUN5bXRqUi16emhQZFZyR0lEcjc5U19SUjNrTUhlU1M1TzJJOGpqYmUwOFJQdw?oc=5",
+      "source": "에너지데일리",
+      "pubDate": "2026-03-26T23:57:41+00:00",
+      "description": "남동발전, ‘보는 AI’ CCTV 전사 확대… 안전관리 패러다임 전환 에너지데일리",
       "category": "AI",
       "priority": false
     },
     {
-      "id": "a2a2076b659b",
-      "title": "삼성SDI, 전구체 기업 피노 300억 투자…ESS 공급망 강화 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XeHY2eEh1OWFRUmVtbk5YRG11aTI1bjVUVmk4dU5OLUU3eHh5XzhRYnBaTTRfTDNaWm96ZWctYWV0VGZtaUdKZU9WaXdYbTA?oc=5",
+      "id": "769a35e52ac2",
+      "title": "삼성SDI, 전구체 기업 '피노'에 300억 규모 지분 투자 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JZE03emd4S2hRMXlSMW0zcGpoc2FFVXdIM25nR3A1ZmFfMFZWU3h5NHFLckFzZDc2N053dm10X0VaMG4ybzhRNGlsajh0YzQ5c3JjTw?oc=5",
       "source": "v.daum.net",
-      "pubDate": "2026-03-26T23:03:04+00:00",
-      "description": "삼성SDI, 전구체 기업 피노 300억 투자…ESS 공급망 강화 v.daum.net",
+      "pubDate": "2026-03-26T23:43:03+00:00",
+      "description": "삼성SDI, 전구체 기업 '피노'에 300억 규모 지분 투자 v.daum.net",
       "category": "ESS",
       "priority": false
     },
     {
-      "id": "cbb8dcdc7722",
-      "title": "\"LFP도 놓칠 순 없어\"…배터리 '본진' 지키며 저가 시장도 잡는다 - mt.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hdG1ROHNMZGdPU3E0UHhnSVRwaWZ0dHYxN1RDTThCS2wteDVhbmRBTUFVakZDdnU0WU9UMlNyRFY1QlpPbElRc0FESk5qSjJsd1lncTgxNG1OZ0RsamVpRUM1em1pdUQ3bjhTUVlzTlNkdw?oc=5",
-      "source": "mt.co.kr",
-      "pubDate": "2026-03-26T23:00:00+00:00",
-      "description": "\"LFP도 놓칠 순 없어\"…배터리 '본진' 지키며 저가 시장도 잡는다 mt.co.kr",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "caa88eb535f5",
-      "title": "산업용 전기요금 개편, 철도 운영기관 절감 효과는 ‘1% 안팎’ - 전기신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VOVBmTnZFRDlMNzJtNGYtVFhLMEZmcFJpSi1oNVl3aFlMUm1hUU9SUmN4YTdEREpraFBaQ2FGTDcyM0VONVM0dzlZVTNqRnhfVThJbzc3TGFXWGVDaUsxaXdhb2tXTlViT2lyM9IBcEFVX3lxTE9BXzBtQ3k5RzZRdmFDTG9COTU0NENNN0xKTDRVTkpBTDJTcWMzTWduNlJGMmtIVlZuXzhkc3A0TTVRNS1FUHk5b01qa0VsOWExQThrOTVleTdUaUFWUlI2c2I4X3lQVjQ3MW5OOXcwTjk?oc=5",
-      "source": "전기신문",
-      "pubDate": "2026-03-26T23:00:00+00:00",
-      "description": "산업용 전기요금 개편, 철도 운영기관 절감 효과는 ‘1% 안팎’ 전기신문",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "f6e17a1823f0",
-      "title": "삼성SDI, 전구체 기업 '피노'에 300억 규모 지분 투자 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RemJRY0NKSi1XZU9UVkpZQzNFNkhhMjJwd2NaRVp0TDFkQ1BGWEdzbHExdUZSYjVuWDJHeEZBdVVCZzhXbHBHUXp1Uk5lblNHQ2hEVTRhOHVBOFM3?oc=5",
-      "source": "뉴스핌",
-      "pubDate": "2026-03-26T22:55:00+00:00",
-      "description": "삼성SDI, 전구체 기업 '피노'에 300억 규모 지분 투자 뉴스핌",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "3eaa69e617c8",
-      "title": "「전력 대란」의 경고음, 데이터센터가 삼키는 에너지의 블랙홀을 정조준하다 - 한국데이터경제신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zY01xMFozdTBpdjZCcWhFTnhiVGZBVXVSQ0VKRWJ1VFZPaVNLNWxvaHVzUzRTTUkzNzJ6U1F2SFg4Z0RMVkdRX01WT1Z6ZFBDQjdoLWRIMXFEZTEwaS1WVWdDMmFRU3FYZFhROFdtOA?oc=5",
-      "source": "한국데이터경제신문",
-      "pubDate": "2026-03-26T22:13:18+00:00",
-      "description": "「전력 대란」의 경고음, 데이터센터가 삼키는 에너지의 블랙홀을 정조준하다 한국데이터경제신문",
+      "id": "49c8e6fd1929",
+      "title": "피노, 삼성SDI와 글로벌 기관투자자로부터 700억 투자 유치…\"이차전지 소재 공급망 핵심 위상 확... - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWno5amhWX21EUkgyREJBa1NubWFVaGNvR3h0Q1R4OFptRWhEMmZQMXJXMGE4QnRnRkRaUFZhY0xQT3AzWUM3bjVMOXE0aFo1bzZnbDlhQkM4YU9HSzg0d001eFhOS1lSSklqeFB1dmJKcXJlOG1lN3Fzc0NQbVBEOA?oc=5",
+      "source": "edaily.co.kr",
+      "pubDate": "2026-03-26T23:23:52+00:00",
+      "description": "피노, 삼성SDI와 글로벌 기관투자자로부터 700억 투자 유치…\"이차전지 소재 공급망 핵심 위상 확... edaily.co.kr",
       "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "0d3d4ef63f53",
-      "title": "서울대 솔라봉사단, 탄자니아에 주민 생활 개선 위한 ‘AI 빌리지 테스트베드’ 구축 - 한국데이터경제신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hVmJDRXVTSGZxbWZqdkh4WEpHSF9Qc0paRnQ0Y2p3R1dfQ0pRR1c3NlQxOGtCTUNmaWJqeHg5eU95WTVyT2Nzc21LUnhMcDgzenItREJSQ3BLTE5LaWdrQkpETkpLMGhFRHlid3hlNA?oc=5",
-      "source": "한국데이터경제신문",
-      "pubDate": "2026-03-26T21:55:00+00:00",
-      "description": "서울대 솔라봉사단, 탄자니아에 주민 생활 개선 위한 ‘AI 빌리지 테스트베드’ 구축 한국데이터경제신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "b9291806c9c6",
-      "title": "'스페이스X 상장 임박' 수혜주 찾는 시장…증권가 꼽은 '이 업종' - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrT2NwbjhFLWZ4c0Q0T0dXVlVIMDR4M3lDaXl1MmFFOTNQbkxBZHdTV2pBVXA5emVIUDdhamJiTjNwMXM4VUJBbzZZX0lYbG41UDc5OHB3SGl6dWgtN0xVemxjbm8?oc=5",
-      "source": "뉴스1",
-      "pubDate": "2026-03-26T21:00:00+00:00",
-      "description": "'스페이스X 상장 임박' 수혜주 찾는 시장…증권가 꼽은 '이 업종' 뉴스1",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "e0dd4302d723",
-      "title": "Southern Company Rose 9% Year to Date. Here’s Where the Stock Could Go in 2026 - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEdpUTYwQWZwZlhIdHlGVW5Ob1FKYjNBQXFNZXJ4bmFsNUdic2U5MG5sb3NHLW9lX2Y3dV9kbWVmdHp5TU9NRU5fOFVqb292bEFyNm1haUVDNFdjOFl5aEFoM0JmVzNWNHBBaS1iVzR2d3pPa3JTakI0c0tOLTFjazQ0aWF5QWMtSTEyR2xBbm15U0E?oc=5",
-      "source": "TIKR.com",
-      "pubDate": "2026-03-26T20:50:49+00:00",
-      "description": "Southern Company Rose 9% Year to Date. Here’s Where the Stock Could Go in 2026 TIKR.com",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "b1c2e743a489",
-      "title": "“구글이 무릎 꿇고 머스크가 매달린다” 인류 지능의 숨통 쥔 K-반도체의 ‘전력 족쇄’ - 초이스스탁US",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtU1ZEUEZCZkhPdFZvSHEzeC01ZXRMU1JFNTYybHZNLVJLdzJyLVhiNFRBNlBuaUhia09WYU1qdm92OHdDblVfSzZPQ3VoaGlYbUFfdDBTbWRYbG1uaVRXMmQxZWZ2V3M?oc=5",
-      "source": "초이스스탁US",
-      "pubDate": "2026-03-26T20:42:00+00:00",
-      "description": "“구글이 무릎 꿇고 머스크가 매달린다” 인류 지능의 숨통 쥔 K-반도체의 ‘전력 족쇄’ 초이스스탁US",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "28e9fe3635f1",
-      "title": "“AI가 전력 수요도 조절한다”...차세대 데이터센터 전략 등장 - 테크데일리",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sS3BpMmFDNWctUGRKWnhEVU1jRmx3Z1pnMm9fN0tlaXNqVDl3NXR5a0RldkdORncxYlcta0JSZUdISmpySkJYXzlFWkdSV1c0b0Z1V2xFZHozSWNpWElvaUp5WjV4U3VIbGhyZk4xNHRJQdIBckFVX3lxTE5sS3BpMmFDNWctUGRKWnhEVU1jRmx3Z1pnMm9fN0tlaXNqVDl3NXR5a0RldkdORncxYlcta0JSZUdISmpySkJYXzlFWkdSV1c0b0Z1V2xFZHozSWNpWElvaUp5WjV4U3VIbGhyZk4xNHRJQQ?oc=5",
-      "source": "테크데일리",
-      "pubDate": "2026-03-26T19:31:03+00:00",
-      "description": "“AI가 전력 수요도 조절한다”...차세대 데이터센터 전략 등장 테크데일리",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "93547de90593",
-      "title": "원전-복합화력, 열교환 설비로 세계를 잇다 - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54QWNGSnJ0VThUdktTVWtKTi1VOUk3WTg5VHhWVFkzdUxwaU90UFFLX0FhRE1wdGV1ektzb1FHVy1yUVl1VHR1RGkxRFpfQ2tmWXMzZWFqWlRXUEc2Rzd5Qy02NWhiZ9IBZkFVX3lxTE54QWNGSnJ0VThUdktTVWtKTi1VOUk3WTg5VHhWVFkzdUxwaU90UFFLX0FhRE1wdGV1ektzb1FHVy1yUVl1VHR1RGkxRFpfQ2tmWXMzZWFqWlRXUEc2Rzd5Qy02NWhiZw?oc=5",
-      "source": "동아일보",
-      "pubDate": "2026-03-26T19:30:00+00:00",
-      "description": "원전-복합화력, 열교환 설비로 세계를 잇다 동아일보",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "5124b56ca13d",
-      "title": "기름값 4달러 뚫렸다... 美 CPI 4%대 재진입, 한국 유가도 비상 [미국 인플레이션 경고] - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNnhZbU1iYmV1T3JCaDJkbjhldEwzdHRudzNZV2NJcFpEb2EzSlczU1FQaFJRNDB0dG9mb0lpTVFELThyOVNwbGRNMXNNQnRLS2ZVc2YwNXdLTDNqenNFMTI3YUgyLTkzUlZUUzhsU0Uzc3ZOY0Z3NTkzeHZ4OUhlTnZDOE16MExv?oc=5",
-      "source": "글로벌이코노믹",
-      "pubDate": "2026-03-26T19:05:00+00:00",
-      "description": "기름값 4달러 뚫렸다... 美 CPI 4%대 재진입, 한국 유가도 비상 [미국 인플레이션 경고] 글로벌이코노믹",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "28f1d83a3739",
-      "title": "아르헨티나 YPF Luz, XRPL 기반 ‘에너토큰’ 출시…전력 계약 토큰화 본격화 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJR05tUUhUQW1VZVpxTmc1MGh4aDM3cGpBejhBT3R3X2pIOXVjOEpnYjROeHNpdnhaYk1lajdPT0R2RDRsMjlXcExEWUlhTUhITFBTMnRnOXhrUVFGUU5ZRdIBYEFVX3lxTFBJR05tUUhUQW1VZVpxTmc1MGh4aDM3cGpBejhBT3R3X2pIOXVjOEpnYjROeHNpdnhaYk1lajdPT0R2RDRsMjlXcExEWUlhTUhITFBTMnRnOXhrUVFGUU5ZRQ?oc=5",
-      "source": "tokenpost.kr",
-      "pubDate": "2026-03-26T17:23:21+00:00",
-      "description": "아르헨티나 YPF Luz, XRPL 기반 ‘에너토큰’ 출시…전력 계약 토큰화 본격화 tokenpost.kr",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "df7217f0ce0f",
-      "title": "Caterpillar Stock Is Trading Near Highs: How Power Demand and Tariffs Are Shaping 2026 - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObUJJS0haSE9CY2twVnpHaC16T0Q2T3pGVmpMbG1USHp5NGZJS0ltWWQ5MFhpUngtam1mb1BWb3VJSUctdU00bEJOV0NvM1JJNVVJdmJyWkludlJlTGUtTXo4bjNkN1VFdGRseXZ2ekhFV3pBTjZJY0ZWU0ZpMzNhdHNqT3pmRmIySzFxLVBrZUo2NHdmSWtISHJzRDUtYWxJeGNqdjRuZTVmMVhEN1VsNG9XeGg?oc=5",
-      "source": "TIKR.com",
-      "pubDate": "2026-03-26T16:18:45+00:00",
-      "description": "Caterpillar Stock Is Trading Near Highs: How Power Demand and Tariffs Are Shaping 2026 TIKR.com",
-      "category": "전력시장",
       "priority": false
     }
   ]
