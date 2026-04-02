@@ -1,44 +1,674 @@
 {
-  "lastUpdated": "2026-04-02T15:05:16.920956+09:00",
-  "totalCount": 129,
+  "lastUpdated": "2026-04-03T08:22:57.256809+09:00",
+  "totalCount": 123,
   "articles": [
     {
-      "id": "54f1dfc4758e",
-      "title": "중부발전, 창립 25주년 ‘AI 중심’ 에너지 혁신 가속화 선포 - 에너지데일리",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Pd3VrLWpFenU2MkE4QWtrcWxVdDVEN1RidG9kbkMxZ2tvWDNtemM2RGpZTVVrUUNORW4zM01lZUU1M1I4NUQ4OGdvV0lQSHNJQW1MYjd6UXV1LV9yV1hpMVNWb2pYMlVNRkZRUmVMZTg?oc=5",
-      "source": "에너지데일리",
-      "pubDate": "2026-04-02T05:57:20+00:00",
-      "description": "중부발전, 창립 25주년 ‘AI 중심’ 에너지 혁신 가속화 선포 에너지데일리",
+      "id": "16b232d7bef2",
+      "title": "[재계 AI 성적표 ①] 삼성, AI 서비스 대신 생태계·인프라 '승부수' - 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PQ09hamluT0VsMC1ZbUwxMWo0aElhZjljRUU2X0NZUGFiamJ1Q0ExeTE3RkhuOWktNkRqVzB4MHAxT2l2RjZybW1xUm5TUm1jd2JXdzZINnYxS3ZGWjBMV2IteTVUdC1UT1E?oc=5",
+      "source": "서울파이낸스",
+      "pubDate": "2026-04-02T23:00:00+00:00",
+      "description": "[재계 AI 성적표 ①] 삼성, AI 서비스 대신 생태계·인프라 '승부수' 서울파이낸스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "661ba3fd9de8",
+      "title": "“AI 전력난 뒤집을 빛의 혁신”…포스텍, 엑시톤 확산 8,300% 증폭 현상 최초 발견 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2WjNZN2VBWkxSYm9idWZGOHY0N0JmVC04MWEtNXhNNjkyX2NWd01QY1pqQ1Y3aVJnSXNMWkJ3MmJ4Nk9uM0xhRE5jakNldw?oc=5",
+      "source": "전자신문",
+      "pubDate": "2026-04-02T22:55:45+00:00",
+      "description": "“AI 전력난 뒤집을 빛의 혁신”…포스텍, 엑시톤 확산 8,300% 증폭 현상 최초 발견 전자신문",
       "category": "AI",
       "priority": false
     },
     {
-      "id": "520be4a7e592",
-      "title": "LG 구광모, ESS 비전 위해 미국·브라질 방문…신흥시장 공략에 박차 - 공감신문",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oSjJ5Ukdkam8wVDRESW1EdWlWMjFNUWNTRTNKN0JjdXBHY0ZBaWtaOEFNWEphelJ5a2FMVnR2Wk5QUjZaaEJKa0FpRVliWncwdzh3Uzh2d0RPeGZNb1NUb05QRDVVRTQ?oc=5",
-      "source": "공감신문",
-      "pubDate": "2026-04-02T05:40:06+00:00",
-      "description": "LG 구광모, ESS 비전 위해 미국·브라질 방문…신흥시장 공략에 박차 공감신문",
+      "id": "6c5ea17fd31f",
+      "title": "메타, 7.5GW 가스발전소 10기 기습 건설… AI발 ‘탄소 폭주’ 시작됐나 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2hzbFpqN01mNVlPcTE0ZzhSUUJzc0JndV9obWprRENnaC1Sb1JsMDFmYnRxMUJVd1hGeWJxRHJ0TWtxa0RTVVRrdE9Rcl92SnRfN2trM21IU0cydXM1cnoyS3htMG5sY1JydjVGdmR6aEM1WW1rLVZpV1VCNlpMTDFmWGEtVHBP?oc=5",
+      "source": "글로벌이코노믹",
+      "pubDate": "2026-04-02T22:52:10+00:00",
+      "description": "메타, 7.5GW 가스발전소 10기 기습 건설… AI발 ‘탄소 폭주’ 시작됐나 글로벌이코노믹",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "d3384ec856ac",
+      "title": "EV 둔화에 멈춘 성장공식…K-배터리, ESS로 돌파구 찾나 - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xWUlUdnppMVQ2REdrU3JUZHdwZzhnY0pldW5HcEtwbzI3c2VWUTJrRG5PUjVRV3EzV2J3X0Z3amFUd0Ntdm1OX1BkUmZXcVdSdTVveUVBS3lnbWM2U0E4bUFyMUJpX0R5b2E00gFvQVVfeXFMTTNhendWaElMSkJVY2hMSUlhRjU4T1A2cHByQ2hiM1YtUkY5RDROUTgwUnpWVU5MRzRFWHJ1eUllZk5WZjVYM2VNZ2g2UmJLcjRZQ2lpLXIzNDhGbm40cElSZXM3UFpFSUtkSEhoSWJN?oc=5",
+      "source": "한스경제",
+      "pubDate": "2026-04-02T22:30:00+00:00",
+      "description": "EV 둔화에 멈춘 성장공식…K-배터리, ESS로 돌파구 찾나 한스경제",
       "category": "ESS",
       "priority": false
     },
     {
-      "id": "a2d2cba8cdff",
-      "title": "구광모 LG 회장, 美 버테크 현장 점검…ESS 통합 솔루션 주도권 확보 강조 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xU3JsUjdQMXZmbWtxWTRDeDlncF9udGdrSFY1N3pHNngyX2FyVzk2UFZReXM3YlpLRmpFbE1QS2s0NGJMQVdERFprM2hpczJNSUFB?oc=5",
+      "id": "986966e1f9c8",
+      "title": "효성은 '드라이 에어', HD현대는 '170㎸ GIS'…K전력기기 3사, 친환경 차단기 열전 - 굿모닝경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyUjRqUVY1bFZDVlJGRUZpQmx2M3RCUEVRNFVMdGtPX09ySTNNQzNrZjFVOGMzZkdIMEI2NGVjY3hEd1BMdGdmR3lqOGtRVmF6MUwwRlBuMXR4eEdZb2NvcU94OHBINWRCVzQ3aA?oc=5",
+      "source": "굿모닝경제",
+      "pubDate": "2026-04-02T21:30:00+00:00",
+      "description": "효성은 '드라이 에어', HD현대는 '170㎸ GIS'…K전력기기 3사, 친환경 차단기 열전 굿모닝경제",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "641f13a451cd",
+      "title": "구광모 “흔들림 없는 사업 기반 확보해야” - segye.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EbE9DN3VIY2tIbUpMQTNSQ0NEdWhtUThOSFduczFMOTlQZ1loOUljYTl2UzdWUkQ2LUpTT0VEcXFYODEyWFlsdlpsdUpzMXlQS2xIYVdCelBMRHZicFpHTjZ3QXR2MlFQMzJz0gFUQVVfeXFMTmhMWjJVSW9YeDNHd0VkSTlXSU4zOUZXQlVVRGFWWXVlM25CMksxejM1V0JkT2pfdUxoY1pZV2JVaGJhdGFrckZNTU53bXNrOWJXUFRQ?oc=5",
+      "source": "segye.com",
+      "pubDate": "2026-04-02T21:00:00+00:00",
+      "description": "구광모 “흔들림 없는 사업 기반 확보해야” segye.com",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "c1b289aa8c35",
+      "title": "총수가 멱살잡고 캐리…이재용·구광모, 전기차·ESS 수요 발굴 ‘앞장’ - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14QnUzcUp4R0NrVE1PUjhGWVdVVVZDMWhWOEFNcDNGQkdJU2d5WkxTMXVreGpQa1d0UVNSUWxmTVdLLUF0TnFGRVc3TXNqc3F5UE1yUjFSc3RGSFVWbFRBZ21CSHYyR0tveWdWbFhRMDHSAXRBVV95cUxQQW5BMUxod2ctLTFHbmd1LUdzS05qZXBoaWlFUkRDa2hrbTQ4VDlJaFFlblpBRjlxNzZJMnpIdmMya2F6bkNHdWU3NG9rWUc3WnJTUnJUWW1oUXBRY3NiMGJYVmdJTlpvLWl0VFFfTjkzR1dTTQ?oc=5",
+      "source": "IT조선",
+      "pubDate": "2026-04-02T21:00:00+00:00",
+      "description": "총수가 멱살잡고 캐리…이재용·구광모, 전기차·ESS 수요 발굴 ‘앞장’ IT조선",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "2e1656419576",
+      "title": "ESS로 핵심축 옮기는 LG엔솔, 1분기 저점 찍고 실적 반등 나서 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0YWs4d29xbTN6OWdOU1NFNjJyMWJrUzFpSEV5bUlhdFBaTDE3dmMyd1U3Nnh3T1l5OTdEZ0g3M3MtNE84ejFFc3NnR0N4bFNvZV82MWczVDJfNEl3VmJxRE42MlBnMXhUSURhaXphaERyVnFMLXRUQw?oc=5",
       "source": "네이트",
-      "pubDate": "2026-04-02T05:31:00+00:00",
-      "description": "구광모 LG 회장, 美 버테크 현장 점검…ESS 통합 솔루션 주도권 확보 강조 네이트",
+      "pubDate": "2026-04-02T20:56:00+00:00",
+      "description": "ESS로 핵심축 옮기는 LG엔솔, 1분기 저점 찍고 실적 반등 나서 네이트",
       "category": "ESS",
       "priority": false
     },
     {
-      "id": "d6852f52dfdf",
-      "title": "구광모 LG 대표, 美·브라질 현장 경영···AI 시대 '에너지 인프라 주도권' 강조 - 현대경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pUGx2VjBLb2JnNllpYkx0LTNKaWVzNTNFbWFZTURRaGZCa3MxTlZ4bmFRanBOLXhEZF9fcExqbi1kd0ROWkJRc01CVmlKeVNsdC1BNjFJUDhZemgxRk1vaXd4Q1FiZUHSAWtBVV95cUxNRUpxZjY4QlJQdVMwbi1rckUyTWdvZWhWWWttVUtmQTVERVVGeFVYSWd5dXhRRTFnMFA1VFVWSEFPS1VKWmxqTTFKX0haYmZ1RURRWmlsRkxTV1pBUUl0bFh0Mjc4SGpQMU1CMA?oc=5",
+      "id": "958419009824",
+      "title": "中 리창 총리, ‘AI 기반 신형 전력 시스템’ 가속화 지시… 글로벌 에너지 위기 정면 돌파 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkoyM3RIODFZUzdSYjlqSTBUbUZFOENyTFMyQXJ3THc3Yk5zTExicHppbkM3Y0p0WXFGQjRoV3pDb2NzRkVSVjdiOFFsbEhqalBWblRudkw2SE12RHRXcmoybTR1UHNBRFlsT3hudmlCVDFkdndvWEVhdXBtWmpyd0x6ejB5LVVD?oc=5",
+      "source": "글로벌이코노믹",
+      "pubDate": "2026-04-02T20:45:00+00:00",
+      "description": "中 리창 총리, ‘AI 기반 신형 전력 시스템’ 가속화 지시… 글로벌 에너지 위기 정면 돌파 글로벌이코노믹",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "3135627f672d",
+      "title": "구광모, 미국·브라질 광폭 행보…AI 시대 에너지 인프라 '선점' - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4cXlqYjFOajVLSjVaWjRrLWpjQjd1dG9LQUpIeENmZFcyM19mcnhpWkZnX0Ffdkx2YzNUVEk1bm5zOTVieDI4cVoxWE9NUzBjcHNtaTVJaVlHRy1TNGdFUw?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-02T20:04:00+00:00",
+      "description": "구광모, 미국·브라질 광폭 행보…AI 시대 에너지 인프라 '선점' 네이트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "cbc6ae8dbefd",
+      "title": "산업용 전기요금 개편···철강업계 “연속조업 산업 외면, 지역요금제 시급” - 스틸데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMU0tMU1o3WDM3c0JPRHgydXQ3RG9Rdm02UEx0Zzl5TUxYa3dFUXYxZmFJOElHa29aa1V6NEVvOGlkaDRvTE1qdzhLNmkycFhHQmRIUWk1aW5pUU05WjNnT0J4TVhHQm9xNDhhM3FwazXSAXRBVV95cUxPOFdycHZ4eWFtVzAxbUV1aDdIc055RTJGbm5oTUUxZ1JndTR3dTY5ZGU0bEpDVG5FdEhESHBLSTdsVG1uM0Z6OVNDWHlvNUJsMEdQcnM2Tkl6TzhJanJzQTJ5SzBkUXU2WWtlNHZQNU5wLVIzTQ?oc=5",
+      "source": "스틸데일리",
+      "pubDate": "2026-04-02T20:00:00+00:00",
+      "description": "산업용 전기요금 개편···철강업계 “연속조업 산업 외면, 지역요금제 시급” 스틸데일리",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "ddb3aacda5d2",
+      "title": "지금 상황에선 원전 불가피… 재생에너지 성장하려면 함께 가야 - PressReader",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWG56b2IyeGV1amc5RHdSV25MSHhIdnJTR1dZUnN2QkhEcjlMSVJoUGpDWk1xN1pqU2VwVEV0bDlyakVPZVZ1VGE5NW81QzlJaFlDc2FUQjBmVk13NFo3LTA2SV9QZkhHT0o2cXJST1pFOE51Qi02NGxGUVFxSERkRDZKVS0?oc=5",
+      "source": "PressReader",
+      "pubDate": "2026-04-02T19:38:24+00:00",
+      "description": "지금 상황에선 원전 불가피… 재생에너지 성장하려면 함께 가야 PressReader",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "7d12643d8c54",
+      "title": "\"ESS 시장서 압도적 지위 구축\" 구광모, 글로벌 공략 잰걸음 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qWFUzTXdUUU9VRmJHYzFEOWNiVHBoTkc2TTd2WDFFTzV6bzMzMUlEYjBtUV94TF9meHdhYnllTHg3T2dfSVRBeEtQUDlndmR0UVlENUM2RURWaTFubmJ4VWdIQnhMMVNOS1VHelF0WEFPZw?oc=5",
+      "source": "머니투데이",
+      "pubDate": "2026-04-02T19:00:00+00:00",
+      "description": "\"ESS 시장서 압도적 지위 구축\" 구광모, 글로벌 공략 잰걸음 머니투데이",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "67a4681f8af8",
+      "title": "구광모 LG 회장, 美·브라질 방문… ESS 사업과 글로벌 사우스 점검 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMlFGemJ3LTVKbE53THVIVUl6elA3a1RfWnVma1J4aENtb1J0czc3STNPLTgtcUZCVVVVWWFIU0ZEOGZiTXZQNHBCbEZZckVYbThLVTBWaV9ncVB2NEpOWG1EbHRfRV8tRUFSZUhzMVJrLU8wZzhTdEpDdUVrLXVoME1iaTRueWo3cHdFc2ZpTdIBowFBVV95cUxOdDBFN3h6Sm1aVzlJOXVBQktlR3FialFxQ0pqUGFMbFk3aWpLTFczTmlKa1JINVA1QXdmMTZ1Q1hfNjBITkkzZ3pTSC1BMC04R0w5anFSX1l5dUhDNlhSUWdDTzlTYWpkOVhUazlUSGpnbUZ0cW96MjZYOG5QanNpVlU5UVRfMTVoWmJ3ZVhhS2tiYTNLVFUzZGVBWktlUWQ5WV9R?oc=5",
+      "source": "조선일보",
+      "pubDate": "2026-04-02T15:33:00+00:00",
+      "description": "구광모 LG 회장, 美·브라질 방문… ESS 사업과 글로벌 사우스 점검 조선일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b920f9058b2d",
+      "title": "“ESS 압도적 지위 구축”… 구광모 ‘AI 에너지 플랫폼’ 선언 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PME9PdlFBbFJWMTU0dDNKQ3ZYX2FpZEdIaVh5SlItY0tiT2tWN3JNRU8yczJvUVZYM1ppcEgzZWtSU0Y5MklBclVLUUp5RDg?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "2026-04-02T15:30:03+00:00",
+      "description": "“ESS 압도적 지위 구축”… 구광모 ‘AI 에너지 플랫폼’ 선언 v.daum.net",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "a736e4802204",
+      "title": "美 ESS 사업장 찾은 구광모 “시장 선도 압도적 지위 구축해야” - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LQjJWZXN3dnlSdmFDUGJyZnlvZE9BRVVhY2FqamhnRTAtR09SVW1qSVNKd1llMmlRbGFQVWJFWHBWcjhQSjdEU0VtMHRMOVdESzktMDliTU54WmRrVVlUTldkcW9VQdIBZkFVX3lxTE1LQjJWZXN3dnlSdmFDUGJyZnlvZE9BRVVhY2FqamhnRTAtR09SVW1qSVNKd1llMmlRbGFQVWJFWHBWcjhQSjdEU0VtMHRMOVdESzktMDliTU54WmRrVVlUTldkcW9VQQ?oc=5",
+      "source": "동아일보",
+      "pubDate": "2026-04-02T15:30:00+00:00",
+      "description": "美 ESS 사업장 찾은 구광모 “시장 선도 압도적 지위 구축해야” 동아일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "70b04dd94ba1",
+      "title": "구광모, LG엔솔 특명…‘배터리 통솔력’ 키워라 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pQ3l2M1drYi0xYWdKNlhQdm5naEJPSW9rRjdMZ0dVMUU0RjRVZVlVUWNQWndESW55anpnU3J0UWM1UThMM3ViekhIcTU2YmtaQWxKOTlB?oc=5",
+      "source": "중앙일보",
+      "pubDate": "2026-04-02T15:02:00+00:00",
+      "description": "구광모, LG엔솔 특명…‘배터리 통솔력’ 키워라 중앙일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "45b2afa1ac8f",
+      "title": "‘트럼프 리스크’ 전면화…국내 배터리 3사, 북미 가동률 하락에 ‘탈미국·탈전기차’로 응전 - 더페어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vV3Y0blQ2bkc1WFl5dmM2dVpjclppdURaVFJ0ZUZxY1RZU09lbmpveF9rQUp3RjIwVmNzWF95dTkySHZvQWtfbWdEczBwVW8yMXB3NlEyS3VuVFJMcTFnTmM3eEpkVm1OQ3RCR1kyLUrSAXRBVV95cUxQWVltQXR1N1F1UTdHV1VxdmhEdUpjMnJIdnRwUVdwOUR2RGFxdGZlajRocEVPbFh3UUdRWjFNcWl2dFc3bERGeXdKRU5jN1dyWkFfaGVOUkFaWVB5VEVDbUR5QUY0V0hzSnZLd0xNRVFvMzdiWg?oc=5",
+      "source": "더페어",
+      "pubDate": "2026-04-02T15:00:00+00:00",
+      "description": "‘트럼프 리스크’ 전면화…국내 배터리 3사, 북미 가동률 하락에 ‘탈미국·탈전기차’로 응전 더페어",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "ddb4e76ef146",
+      "title": "삼성SDI, 미 배터리 공급 계약…테슬라 ESS 물량 유력 - 뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUXRmZk5ORGZSbE54MU9jY1k1cnFXOW9OWUtxbmFOWDQwTU1XdHV1OW1QclJubDdscmN2NVhBZWN0TmxzUVR1amU0NXpZR2hjN3NrVW5mZzZuVVBEVndvVmtBU3dMY3RMLUZna2dsLXdoVFNXYmk1YnpRMUEwR1FqbFhmbWVlcVFiM3ZLX091MXdsSUI4MmNEeWsyV3dnSmVlazh5OWJ0QzBVZDR6?oc=5",
+      "source": "뉴스통",
+      "pubDate": "2026-04-02T14:05:46+00:00",
+      "description": "삼성SDI, 미 배터리 공급 계약…테슬라 ESS 물량 유력 뉴스통",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "fb6dc7e758aa",
+      "title": "동남아시아, 핵 노래, AI 데이터 센터 및 에너지 위기로 심각해지기 시작합니다 - VOI.id",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBUZExLcUNiU0c0aHphdWtNelpva3l4ZmZyNFZieUhLc3Q3YXpTZjdpMFh5d0VUMGxmVEtObWxKUzFFem1kbWfSAUJBVV95cUxQQjIxd1ZWSWx6QUMtTDNFQkJNQmNTMVN1ZEFuTFFkei1pNDRmbVJsV0lLbmVTZVRpUlZjLTlBSDJGNUE?oc=5",
+      "source": "VOI.id",
+      "pubDate": "2026-04-02T13:57:15+00:00",
+      "description": "동남아시아, 핵 노래, AI 데이터 센터 및 에너지 위기로 심각해지기 시작합니다 VOI.id",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "7ef5eefef319",
+      "title": "중부발전, 창립 25주년 맞아 ‘AX 비전’ 선포하다 - 에너지신문",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12dGQzUWx0ekZqMzBubXdjNm84Z05jT1gxYlEwOURmemFnSkwtT3VJRkQxODY3a2hQengtMHBoMnBUclZHUHE2S1BWYWh1c3dOTVFNbjV2cTlQbWJHbDNsWnJOQzRIRGdsb3JpSVdCVDhjQQ?oc=5",
+      "source": "에너지신문",
+      "pubDate": "2026-04-02T13:11:14+00:00",
+      "description": "중부발전, 창립 25주년 맞아 ‘AX 비전’ 선포하다 에너지신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "76370156dc9b",
+      "title": "한국과 인도네시아, 에너지안보와 탄소 포집·저장 협력 - 뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyVVN0S01XQ00yQWY1VlFBbkJZUGJVNGY4WUxpRl9uMUlPLTY2eUJLZ3JVcXZFNFJfeTFsTHIteXY3R3pfTWx4eFRmSG0zTXA4aU5fREhma1NDRzVnNzk1UTBrdzFibDktbDcyZjIwN1BSLTA?oc=5",
+      "source": "뉴스통",
+      "pubDate": "2026-04-02T12:50:11+00:00",
+      "description": "한국과 인도네시아, 에너지안보와 탄소 포집·저장 협력 뉴스통",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "13a555380de1",
+      "title": "구광모 회장, LG엔솔 미 자회사 찾아 “ESS 역량 강화” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LdDU2QmdDdklpTEs1LTRLaXo5LVRucTF1b0twWnpieFRRNlV3QlBCaUpEdzVRNGRvOUh5X1ZEOGlvazI2S2FTVWlQUnYzdzY4MWF3WURHcXdmUdIBX0FVX3lxTE0xdmNHbTh1VE9SUVMtRVRfZFBFaXBENDNYNnhQOE1JbmNHM1B0Vy1BWWxSczVlaV9SRERfclp1NFZBblJheUhybUZxWnBYODdteTNrSFNuUzlENXpkM2ZN?oc=5",
+      "source": "경향신문",
+      "pubDate": "2026-04-02T12:14:00+00:00",
+      "description": "구광모 회장, LG엔솔 미 자회사 찾아 “ESS 역량 강화” 경향신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "8489e30888b2",
+      "title": "구광모 LG 대표, 미국·브라질서 AI 에너지 전략 점검 - 퍼블릭뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11UWhSZ1VxbE5BVXpLQVB3M0ZWU2ROSUI4YUlkOVRvSEdrX0NPSHJYSE9SRG43ME1rWUpFOGRlTFNwNnE2bTJEM19RYUlOVVZYZ1owSVIxcTVIZVQzMThpRm81MkdFYnpGUFFV?oc=5",
+      "source": "퍼블릭뉴스통신",
+      "pubDate": "2026-04-02T12:03:36+00:00",
+      "description": "구광모 LG 대표, 미국·브라질서 AI 에너지 전략 점검 퍼블릭뉴스통신",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "7500e38dda45",
+      "title": "구광모 LG 회장, 美·브라질 광폭 행보…‘AI 시대 ESS·글로벌 사우스’ 정조준 - srtimes.kr",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NbERNOVRkQWwyN3ROSGptQTB1ajZmc1ZnQTMyNFh6dEJyb2NFWjRQQ09UcXVCc1RYTnVXWG1jOE9nTzV1WjJCRWhlRldJNFQxYlNUYmx2MlVpVDIyWUhTUnhWaGhxalZpSVNz0gFrQVVfeXFMTk1sRE05VGRBbDI3dE5Iam1BMHVqNmZzVmdBMzI0WHp0QnJvY0VaNFBDT1RxdUJzVFhOdVdYbWM4T2dPNXVaMkJFaGVGV0k0VDFiU1RibHYyVWlUMjJZSFNSeFZoaHFqVmlJU3M?oc=5",
+      "source": "srtimes.kr",
+      "pubDate": "2026-04-02T12:03:05+00:00",
+      "description": "구광모 LG 회장, 美·브라질 광폭 행보…‘AI 시대 ESS·글로벌 사우스’ 정조준 srtimes.kr",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b2f2c4f041bf",
+      "title": "차세대 ESS 플랫폼…LS일렉의 신무기? - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jbFhIVDRnQzYwemFWcmk4a1pRdDZpSE1zVG8xbURFR3ZIRmVVZ09rM3hURnYtYjNNV3RMaDFKMFY3ZFVtUG1UbFlpWDV1NU5Lb053?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-02T12:01:00+00:00",
+      "description": "차세대 ESS 플랫폼…LS일렉의 신무기? 네이트",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "98ac418bbc8b",
+      "title": "저유가 시대 뒤안길로…에너지 질서 흔드는 4가지 변수 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqQ0U0MXpPQ1JkcENBeHZPNUpwSEVLRGNMc0tYZGMyb3hUZmxhRkVXZWRkNzBCMm94dkNTQ1NZdmQxNTJCUks4blh3SXV0TzZub3Zj?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-02T12:01:00+00:00",
+      "description": "저유가 시대 뒤안길로…에너지 질서 흔드는 4가지 변수 네이트",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "6966535cd554",
+      "title": "구광모, 美 ESS 거점 점검…AI 에너지 인프라 주도권 강조 - 데일리포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3NnJoNVNZTXI2OXktdlZJWXJMdUhUR0VXQWdzallkZHdyZzdIRTY2QUU4TkliUWZWOS1mSzB3bmN0NHpKRzlNdllvR2pPblNYSUQzcHFmSl9xZVpESVhYaEYwd1F1Q2V6SmEtdElYcTlTMmPSAXNBVV95cUxQNzZyaDVTWU1yNjl5LXZWSVlyTHVIVEdFV0Fnc2pZZGR3cmc3SEU2NkFFOE5JYlFmVjktZkswd25jdDR6Skc5TXZZb0dqT25TWElEM3BxZkpfcWVaRElYWGhGMHdRdUNlekphLXRJWHE5UzJj?oc=5",
+      "source": "데일리포스트",
+      "pubDate": "2026-04-02T11:14:03+00:00",
+      "description": "구광모, 美 ESS 거점 점검…AI 에너지 인프라 주도권 강조 데일리포스트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "aafed8f3d669",
+      "title": "구광모, 미 ESS 사업장 방문…“압도적 지위 구축해야” - 뉴스통",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR29iVmVyaUE3YWRDZ3poaWIxRVlQZGY3RDdoOHVBRURNYzJrVW5VNGJPMHlFVFBhYXZqeUIwT0s1dmZIVHlma2I2VjNNUTgzbjNoTnYxdWJfX1doS0xhRVE5SzdqRDBZWTVrUTljRUVDT3dBajF3c0t1WVl0eC1QNlZTRHBVZ3FRa2NOMTV0djQ3WV9HSXB2cTJ1TTUyMHNoWTFwR3F3ckY5Q1RobnNjSHN1dThYRWc?oc=5",
+      "source": "뉴스통",
+      "pubDate": "2026-04-02T10:48:22+00:00",
+      "description": "구광모, 미 ESS 사업장 방문…“압도적 지위 구축해야” 뉴스통",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "9f5588a40fc8",
+      "title": "기후부 장관 “종량제 봉투 부족할 일 없다···지금은 원전 불가피, 재생에너지 함께 가야” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RaU82SmZ2YlRHQ04tZXhvT005cGZXbXFpX2l6aXUyR0hjcU1EOGxreDhZdmxtT2tfZW81SXZ3ZXhNcHJlNVlPLTVlZGRiNm1EMWZoT1ZLZUJ2d9IBX0FVX3lxTFBSS2IyTUt1LUtPVDVUSHJRaVByeDlPdC14MU9rVjZfSnBDd0RYY3ZmOU94TmRsWW44MkNNRjV0dzNGb0I3dzktaHlsUktCcU5vLWlDeFQxcGJ4dE9BWUIw?oc=5",
+      "source": "경향신문",
+      "pubDate": "2026-04-02T10:23:00+00:00",
+      "description": "기후부 장관 “종량제 봉투 부족할 일 없다···지금은 원전 불가피, 재생에너지 함께 가야” 경향신문",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "c75b9590cf6d",
+      "title": "LS일렉트릭, 건설기계 충전 사업 진출...볼보그룹과 협력 - thelec.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qaFpVV2JITHc5aUgzWlJuUm9aV2pNUWE1QnRSR29CMFY3RTMtQ3ZrSnJmcG02dk5hbnpoWEtCSjViaTFQXzdvT0c3QXVtMV95ekwwajFhZHdSOFNKTk51QkVVZ0Y2Zw?oc=5",
+      "source": "thelec.kr",
+      "pubDate": "2026-04-02T09:49:30+00:00",
+      "description": "LS일렉트릭, 건설기계 충전 사업 진출...볼보그룹과 협력 thelec.kr",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "73a69321cff8",
+      "title": "구광모 LG 회장, 美 ESS 거점·브라질 현장 직접 누볐다…\"흔들리지 않는 사업 기반 확보\" - 투데이e코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpMjA1VDQzcnF0WkVHSnNzN3NaVGlpam8xcndFU0ZMY3pMdHJPQ1U2OXdUZGtTTnFoSXhzWi11Y0dYYlBGeUttaThCRTNmX0tzUmY1SmtueXBpRWZvbVJPRWZKVll5WnM?oc=5",
+      "source": "투데이e코노믹",
+      "pubDate": "2026-04-02T09:28:17+00:00",
+      "description": "구광모 LG 회장, 美 ESS 거점·브라질 현장 직접 누볐다…\"흔들리지 않는 사업 기반 확보\" 투데이e코노믹",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "e74eb1de9e2c",
+      "title": "전력저장장치(ESS) 관련주, '봄날' HD현대에너지솔루션·삼성SDI·SK이터닉스.. '꽃샘추위' 서진시스템 - 현대경제신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54VUlfUWZxX1ZaUi1ZZFN1TFJra0VXekE3LUxOT19uRUtCWnFHbkVJWTdvV3V0UEdmaU90QndXQWZRcjNqam1oQ0FEbVFwT2lUNkhoVTFMVGJHWXQtTzdsNHFBMXJfSGl3bFJZ0gFrQVVfeXFMTnhVSV9RZnFfVlpSLVlkU3VMUmtrRVd6QTctTE5PX25FS0JacUduRUlZN29XdXRQR2ZpT3RCd1dBZlFyM2pqbWhDQURtUXBPaVQ2SGhVMUxUYkdZdC1PN2w0cUExcl9IaXdsUlk?oc=5",
       "source": "현대경제신문",
-      "pubDate": "2026-04-02T05:26:46+00:00",
+      "pubDate": "2026-04-02T09:19:11+00:00",
+      "description": "전력저장장치(ESS) 관련주, '봄날' HD현대에너지솔루션·삼성SDI·SK이터닉스.. '꽃샘추위' 서진시스템 현대경제신문",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "cb1e363b1fdb",
+      "title": "美 ESS 사업장 챙긴 구광모…'글로벌 사우스' 공략도 가속 - fnnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1NVp4MTcxNE1rUTE5U0h4SG03akIyMGRlUjFjcmpuS0VMZ192VHBWWERGeXFUcEFlVU90dklGLTVicUhBOVVQRUxLVWxvWVBUdmlUck01M18zZ9IBXkFVX3lxTFB5Tkx2WVp1MUpndzBzTWxPZUpkb3lSUTlzbTdkNjJ5bHRBSGVzZzVPU0tsOTZVcHRTZ1BFcVpodVhZY0hTNUZPQW1TVlNTSDRLbmpKdS04TUhXNnVnWlE?oc=5",
+      "source": "fnnews.com",
+      "pubDate": "2026-04-02T09:15:36+00:00",
+      "description": "美 ESS 사업장 챙긴 구광모…'글로벌 사우스' 공략도 가속 fnnews.com",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "5878b8053b9a",
+      "title": "평시엔 한전, 전시엔 자급…군 전력, 재생에너지 중심 전환 시동 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42OHFqamRuS1IySzFpYmREWmNZT0d1aTEwUmNkX1k3NWNQRHVrZ2d5MFNmNTB1dGljNVF2dUFuOV9NRnVSbzF4eXBlUjNBLU52NWk4?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-02T09:12:00+00:00",
+      "description": "평시엔 한전, 전시엔 자급…군 전력, 재생에너지 중심 전환 시동 네이트",
+      "category": "차세대전력망",
+      "priority": false
+    },
+    {
+      "id": "177a7065c148",
+      "title": "美·브라질 현장 경영…구광모, ESS 글로벌 주도권 노린다 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02WE8zLWtuc2U0eW1DV0VUMmlHWTFVV3FuSmVqUFNOY1hTSmhGdWhjY2k5RXFsekgzSVVJZmVpbUV5UmhRclZFS2xsSTdwQ3NIcUlsaWJYTVRqQ1FUNzU4aA?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-02T08:58:00+00:00",
+      "description": "美·브라질 현장 경영…구광모, ESS 글로벌 주도권 노린다 네이트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "ce240ad94f34",
+      "title": "미국 간 구광모 'ESS 통합 솔루션' 챙겼다 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tS3QzZTYyWmE4T2I1eVl6WWRZazFrUGlmeFV5SHIxbkx4R2I2eFM5Nm9zemo4bUxtNVRfS1BoOU1PUHpWcndjSnk5ejZXTEtnLXI0?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-02T08:57:00+00:00",
+      "description": "미국 간 구광모 'ESS 통합 솔루션' 챙겼다 네이트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "8b4d9fdc4b9b",
+      "title": "美 데이터센터용 변압기 호황 … K전력기기 1분기도 최대매출 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LaXoyMUpCZE0tRUc1dWNTQzNaUGp3T1YyNEhJME81anZzWG1xdldPWlZmc0RmanpJT2p6VE9na3dnTmNFTHRETXItTzJZSzFzT2wxUXBn?oc=5",
+      "source": "매일경제",
+      "pubDate": "2026-04-02T08:56:02+00:00",
+      "description": "美 데이터센터용 변압기 호황 … K전력기기 1분기도 최대매출 매일경제",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "d38345e6335c",
+      "title": "[마감분석] HD현대일렉트릭, 전력기기 업황 호조 속 2%대 하락 마감 : 금융 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4QjZYLWFCdEdxU2dsQnhBcFF4Z0hDd19pcFVJZVZQTC01MS1VNHZzVHdzbDZMTjhZUGNvVVlSRDJqdGdLUEp2WXR3?oc=5",
+      "source": "재경일보",
+      "pubDate": "2026-04-02T08:55:00+00:00",
+      "description": "[마감분석] HD현대일렉트릭, 전력기기 업황 호조 속 2%대 하락 마감 : 금융 재경일보",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "292cf51f3d65",
+      "title": "정치권도 합의했는데···AI데이터센터 특별법, 부처 간 이견에 '진통' - 시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yNHdxZXBKY0RpaVByT1FNc2JKNHhIRkxJV3pvLWdJVmJId1ZHejRuSnlfN0tFMGh3aVh0eG9mQnoxdGFrcjl5T1RrY1ZYUUJtNmUwLXR0TTVqTUcwRzRhRmN4ZjdjQzJuNHg5WS0tdUs1em51Q0HSAXZBVV95cUxPcjR3cWVwSmNEaWlQck9RTXNiSjR4SEZMSVd6by1nSVZiSHdWR3o0bkp5XzdLRTBod2lYdHhvZkJ6MXRha3I5eU9Ua2NWWFFCbTZlMC10dE01ak1HMEc0YUZjeGY3Y0MybjR4OVktLXVLNXpudUNB?oc=5",
+      "source": "시사저널e",
+      "pubDate": "2026-04-02T08:45:23+00:00",
+      "description": "정치권도 합의했는데···AI데이터센터 특별법, 부처 간 이견에 '진통' 시사저널e",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "12e1eb5c139a",
+      "title": "[마감분석] 한국전력, 글로벌 시장 불안정성 증폭에 5%대 급락 마감 : 금융 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJOTJoOFdna19KMWJST29uVTh4d09rUkszaUJhX3JyY1ZDNXotNjZ5NW1HY2RhV280U0JpNXlhMUdlYVdMaG44ZE93?oc=5",
+      "source": "재경일보",
+      "pubDate": "2026-04-02T08:45:00+00:00",
+      "description": "[마감분석] 한국전력, 글로벌 시장 불안정성 증폭에 5%대 급락 마감 : 금융 재경일보",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "8206e33ea3ba",
+      "title": "한전, 개인정보보호 협의체 출범 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBidFd4dDMzQjYwTExEUTlDUmhhUmc0LUdDNUItby11d0M4NGlVZENFLV9aOHdLdUMxLUV1ZnVtckYyUS1wQWsyci1yTWlJdmZLeGZmRk9INWctTVh4REgwajVmNy1VN3Bjek03cWxwbEbSAXRBVV95cUxNWGJhYXh5UXkzaDVDSjFaNHEwVTVGWk14VVh1UHRwWnZVMnBlV3VvQTRRZ2c2NDJIeDhmem1tS2NBMWFOY0o0dllsdUR0b25HWXROZlAxdmZJTWw1SEdtR19oUkFvT294RjdBMzE4M21uOHBBbA?oc=5",
+      "source": "이뉴스투데이",
+      "pubDate": "2026-04-02T08:40:00+00:00",
+      "description": "한전, 개인정보보호 협의체 출범 이뉴스투데이",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "6b44b976bfe4",
+      "title": "LG 구광모, 미·브라질 현장경영…현지 공략 점검 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Edi1DMzZwREtQQkpWU1hDNlVjYW9BenF6OEpjaEpNZWFjQnRteGVDaVhraTQ3c29vRWFqWmlTWnVwNy1ldk5Jb1VaYzdHdS1sRkhr?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-02T08:33:00+00:00",
+      "description": "LG 구광모, 미·브라질 현장경영…현지 공략 점검 네이트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "cc0f3c1d46d6",
+      "title": "美·브라질 찾은 구광모 \"AI 에너지 인프라 주도\" - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YaDFHYTczczdIWmxuaG9Ya0taajg2U1JNTGFWWXczVFIzc3BVc0JRU2IxSXk3X0NNcWlOdjlMWm1UWFdVSlNkX0IzVGJFZk9IV3BoQ9IBVEFVX3lxTE5YaDFHYTczczdIWmxuaG9Ya0taajg2U1JNTGFWWXczVFIzc3BVc0JRU2IxSXk3X0NNcWlOdjlMWm1UWFdVSlNkX0IzVGJFZk9IV3BoQw?oc=5",
+      "source": "한국경제",
+      "pubDate": "2026-04-02T08:29:03+00:00",
+      "description": "美·브라질 찾은 구광모 \"AI 에너지 인프라 주도\" 한국경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "dd5a427aa852",
+      "title": "LG 회장 구광모 올해도 직접 배터리 사업 독려 나섰다, \"ESS 시장 선도하는 압도적 지위 구축\" - 허프포스트코리아",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByOHgwczdZYl92Rm9sVVIwXzNCRHBsNzNmVWdXOXljdENXSWI2RVFkbHdJUWtiQlJGYW1MVW5CZjgtNkh2aUp5bWJkMW5ONXNDVmRJTzBDaw?oc=5",
+      "source": "허프포스트코리아",
+      "pubDate": "2026-04-02T07:59:10+00:00",
+      "description": "LG 회장 구광모 올해도 직접 배터리 사업 독려 나섰다, \"ESS 시장 선도하는 압도적 지위 구축\" 허프포스트코리아",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "ba285306367f",
+      "title": "온세미, 하이브리드 모듈로 태양광·ESS 효율 극대화 - 아이씨엔매거진",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQdVFXRF9UWVJBeDJTWnNNd1RPdjEtUDJHSXROeTRlUWlqZlVqQ2pEWmxnU3BwN0Fib0drNXFDdTJHc0EydERZajZaN0RYUGYtS3ZhLTFwWmQ1a1M4cVd5ZFlmSWRIZUJMaUNaVnNkY01UdkhuOHFEQWljMm8tN1RseGg2MXhFZUh3UFFLUWJIa0FEVnhNMkhaNWgxbFRlZDJjZHNpMGtQRGlQVkM0R1V2bUNkVjZubXk1M2h3UXNISVhKdlV6QkIwZ3Yzblg5Uk9RdVZaaHczdl9SaE1USU1NbmtxOGVyb2tJTWZYRzdVSWVpZXloY19BcmhTanlMNEhnd1lFaHVFbXVGVUFqMnBzeEljYU1FT0YwRmFhaU9LOHYyaWpjNHVHbGdCbnFIUW9DM293WEZXX0J3dE0?oc=5",
+      "source": "아이씨엔매거진",
+      "pubDate": "2026-04-02T07:53:50+00:00",
+      "description": "온세미, 하이브리드 모듈로 태양광·ESS 효율 극대화 아이씨엔매거진",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "71fb4504aee2",
+      "title": "에너지공단, ‘AI 감사·윤리 헌장’ 수립·선포 - 이투뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3NGxtYjhpZ24wd0dGMmpoRTZKYUNtMU5seGcxWnFYandtcFVpRVN0UTZmZzgzb1hXcVlyZ3BkT3hsak14eTVSSFdidmlOcl9iVFoyQnNVTk9sVElBU2pTUmhOM3l4RWfSAWtBVV95cUxQcHVmd1hnTkM4N2VqM2NGc2M4SGUyQTN4ejdYVVpSZjFmQkJFYnp2YjVHR2RZU3lNLTQ2bUFXajhiQy1PRTV4dXdpR2piT1BqRjJ5dEdhcFo3ek82d0p1SGFrVFFyT2xHRjJRVQ?oc=5",
+      "source": "이투뉴스",
+      "pubDate": "2026-04-02T07:44:56+00:00",
+      "description": "에너지공단, ‘AI 감사·윤리 헌장’ 수립·선포 이투뉴스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "8fd5ee7e67e9",
+      "title": "구광모의 ‘AI 배터리’ 승부수… “에너지 인프라, 압도적 지위 구축하라” - 매일산업뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPZDd3bGVvMGgzbFIxUWcwTUhiVnZwdUtmWENPYXRYNkYzRmltNHJyYTQ3SkotNnpDWXI0TVJJNVVnZjZiOS1Yam9XRENmUkc5dWpVVlh3YU1XVmdIWUFYWEdxWQ?oc=5",
+      "source": "매일산업뉴스",
+      "pubDate": "2026-04-02T07:40:50+00:00",
+      "description": "구광모의 ‘AI 배터리’ 승부수… “에너지 인프라, 압도적 지위 구축하라” 매일산업뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "85e6df023af4",
+      "title": "AI·에너지 인프라로 확장된 금융…KB금융, ‘생산·포용’ 전략 본격화 - 이코노미사이언스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWV9HampjWUJyaG5OandHSlJablZmV3paLWJ4dlYwRHRpd1hPOHpUSzZjS0xGYUx0N1NLZEw5bWM2end2aUlIX3N1TjRHUWZwYlJEU1dMTTN5elNKbjR3ZzJpQVhtaWN4ZlgwbjlYNA?oc=5",
+      "source": "이코노미사이언스",
+      "pubDate": "2026-04-02T07:39:10+00:00",
+      "description": "AI·에너지 인프라로 확장된 금융…KB금융, ‘생산·포용’ 전략 본격화 이코노미사이언스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "95ad70956657",
+      "title": "LG엔솔 美 미시간공장, 글로벌 인력 유치 나서…영주권 지원 '특전' - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92dmx6ZFIzcl9JWXV5SjZaQlJLZUlFVEhST2NZNEstMXJlUHVrVEUyMUQ5el9KanNFSTRoRWFKUlgwUjkzMFRjczRSN3pqS25aNzlpNjlWQUtKTlF3aE9ScHF3Zw?oc=5",
+      "source": "더구루",
+      "pubDate": "2026-04-02T07:24:25+00:00",
+      "description": "LG엔솔 美 미시간공장, 글로벌 인력 유치 나서…영주권 지원 '특전' 더구루",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "c844f079a897",
+      "title": "AI가 만든 ESS 수요 폭발…LG, 데이터센터 전력 시장 정조준 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIZlhfMHN1TUIxeWdUYVdrQXNMeEZ0a1FBVXIzVmxxSVFGMFBPMktwdDVsU251OFpldnp3S3ljWGl1UzFadk5idG5uT1h2OURVVE5V?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-02T07:09:00+00:00",
+      "description": "AI가 만든 ESS 수요 폭발…LG, 데이터센터 전력 시장 정조준 네이트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "968b9eacacb0",
+      "title": "구광모 LG 대표, 美·브라질 현장경영… ESS·글로벌 사우스 전략 점검 - S저널",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aa3FFazRvcUpEbjVzdlRxMWkxdGlpOWV6M2lzUzRsYlJxbmQxMHhndEMtYlJmSEd2aEJaOVoyR3ZSM1hLa19HR0czcWJueTZBRTdEblo2MDdHMG9WekdkY1E0a3VtNUlnT2tpbHln?oc=5",
+      "source": "S저널",
+      "pubDate": "2026-04-02T07:05:26+00:00",
+      "description": "구광모 LG 대표, 美·브라질 현장경영… ESS·글로벌 사우스 전략 점검 S저널",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b74b69145382",
+      "title": "구광모, 美 ESS 거점 찍고 브라질행 ‘AI 에너지 인프라’ 승부수 - 대한경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zWGx0ZHpKRzBoa1BDV0lUSWJ1cnhTVHk3M0dZU1VMNWMwbnVEcGJtQjBUOENwSlpNd3o2YWhjYzM2RUxtZ0pSdk9YdTBVaFU4SVViSzJIOUZGV1hUYmZqS1FlM21IcFhSWHV1UnVVd0NhM0U?oc=5",
+      "source": "대한경제",
+      "pubDate": "2026-04-02T07:05:00+00:00",
+      "description": "구광모, 美 ESS 거점 찍고 브라질행 ‘AI 에너지 인프라’ 승부수 대한경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "ac4f6b6c40ed",
+      "title": "[기업家] 한국전력 ㅣ '디지털·원전·도시 인프라까지…에너지 전환 속 전방위 행보' - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TOVZULU9QdDI2UFpESEI2czM1Q05jZVJWRV93b3gzMEh4RGNZaUtaYnJfWkZvVVF0a3gyU1paaUFSRXRRTHVKMzNHMGpOU0VoSmxNZHJUTlM1d0VIUE1pcEpDTm9sUXdI?oc=5",
+      "source": "CBC뉴스",
+      "pubDate": "2026-04-02T06:54:08+00:00",
+      "description": "[기업家] 한국전력 ㅣ '디지털·원전·도시 인프라까지…에너지 전환 속 전방위 행보' CBC뉴스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "0fbac2dfe059",
+      "title": "전쟁 속 `나홀로 역주행`…배터리株, ESS·탈중국 기대에 반등 - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPSTVlNW5mS181YUY2RUVSX0ZfaGhVY1kyNTNIT1JLMTFmcFMwLVVmZmltZXpUZXpSMEdZMERJSEk5Y25sNDFEUHpiWFFZTkJrcVpDWDJPYnhadlItZUdHamZ3?oc=5",
+      "source": "매일신문",
+      "pubDate": "2026-04-02T06:50:49+00:00",
+      "description": "전쟁 속 `나홀로 역주행`…배터리株, ESS·탈중국 기대에 반등 매일신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "ea4feee4a0e1",
+      "title": "‘종횡무진’ 구광모, 미국·브라질서 LG 미래 먹거리 직접 챙겼다 - weekly.hankooki.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xZFVPcWNPZXFxMk5DZmJkQU40djFaQzZZazFkWVBCNmE4TUxQdnY0dTNXOHEwSW1iMXdrR1RSajJLVU9aZk9BUDhfYThWMUpCT2hrQm9wY0RUTVl5Yk5kbEhRYUxwX2hCQ1JJUUJ3VFhNM21f0gF0QVVfeXFMT3FkVU9xY09lcXEyTkNmYmRBTjR2MVpDNllrMWRZUEI2YThNTFB2djR1M1c4cTBJbWIxd2tHVFJqMktVT1pmT0FQOF9hOFYxSkJPaGtCb3BjRFRNWXliTmRsSFFhTHBfaEJDUklRQndUWE0zbV8?oc=5",
+      "source": "weekly.hankooki.com",
+      "pubDate": "2026-04-02T06:45:11+00:00",
+      "description": "‘종횡무진’ 구광모, 미국·브라질서 LG 미래 먹거리 직접 챙겼다 weekly.hankooki.com",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "2d678cf8926f",
+      "title": "[기업] LG 구광모, 미 ESS·브라질 가전 생산거점 방문...현지 전략 점검 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xc1gza2dKRF9iTW1aOXFDNmExWlZjekM1VHFoWUJVRHd2WnJCRW5WaHJUQ3ZCQ1ZQVHlxcjNnMGNSWFlDMTgxalp4TGRiclRseHM2dHRPbWhnS3VUanc?oc=5",
+      "source": "YTN",
+      "pubDate": "2026-04-02T06:39:00+00:00",
+      "description": "[기업] LG 구광모, 미 ESS·브라질 가전 생산거점 방문...현지 전략 점검 YTN",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "1c67837cae6d",
+      "title": "구광모 LG 대표 “AI시대의 핵심 전략은 에너지 인프라 주도권 확보” - 뉴스퀘스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pOWJuckYyc0ZuZXh0aUl4LTNfdUo1ZUVMTTBxQ24yR1c5RjBrcjg4MlB3ZFNraEdBT202VThqME5ROGpwTGRpZzFlWUFmb21GU2Vpa0ZHeEJsUkxVVmZrdjFwRHRuQjd4QVdsS3dBMHJiZknSAXNBVV95cUxPaTlibnJGMnNGbmV4dGlJeC0zX3VKNWVFTE0wcUNuMkdXOUYwa3I4ODJQd2RTa2hHQU9tNlU4ajBOUThqcExkaWcxZVlBZm9tRlNlaWtGR3hCbFJMVVZma3YxcER0bkI3eEFXbEt3QTByYmZJ?oc=5",
+      "source": "뉴스퀘스트",
+      "pubDate": "2026-04-02T06:23:40+00:00",
+      "description": "구광모 LG 대표 “AI시대의 핵심 전략은 에너지 인프라 주도권 확보” 뉴스퀘스트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "5190e84e2b42",
+      "title": "구광모, AI 시대 에너지 패권 승부수 - 공공뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OWm85TnotdzdLZTdsRDFVS1pCbTc4dFdjcHAyLVN6RWxjRFIzcUNMNmJoNUdnSkRPWExwTUVvUXdSNHFOdzdOcmZQa3BCV1dGQ2NxMjN1clJsMHlJOC1iNG80YXhjbi1hZE4tRkp30gFuQVVfeXFMTU5abzlOei13N0tlN2xEMVVLWkJtNzh0V2NwcDItU3pFbGNEUjNxQ0w2Ymg1R2dKRE9YTHBNRW9Rd1I0cU53N05yZlBrcEJXV0ZDY3EyM3VyUmwweUk4LWI0bzRheGNuLWFkTi1GSnc?oc=5",
+      "source": "공공뉴스",
+      "pubDate": "2026-04-02T06:09:05+00:00",
+      "description": "구광모, AI 시대 에너지 패권 승부수 공공뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "e4fd89e7d2bc",
+      "title": "미국 AI 데이터센터 확장 열풍에 가스터빈 귀해져, 두산에너빌리티 사업 기회 커진다 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KWmdYNk9GU0ZJYkFLVXFFb2VOaDlRaTdvMjkwM2tpV0tJUVdxWkRaTXFXSFpRMEE2bzN2X1YwWW5DbWc0VTUzZHJZdTlZbzAtb25wQ2twSXNkMER2MWp0bjN4dGhweU80YUpURnFZdUN1QzA?oc=5",
+      "source": "비즈니스포스트",
+      "pubDate": "2026-04-02T06:04:58+00:00",
+      "description": "미국 AI 데이터센터 확장 열풍에 가스터빈 귀해져, 두산에너빌리티 사업 기회 커진다 비즈니스포스트",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "0140a788a036",
+      "title": "'2035 탄소중립' 제주, 재생에너지 대전환…“저장·수요·시장까지 시스템 전면 혁신” - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkNmwyN3BPTFZWSWY2NUhkSlJBazhtSzUyQWY0SjNuc1hIWkVYeFZIVmU3cUF5bks3aldKOGdpSllRQ2hCTFRqdFVmb2ZrQQ?oc=5",
+      "source": "전자신문",
+      "pubDate": "2026-04-02T06:04:07+00:00",
+      "description": "'2035 탄소중립' 제주, 재생에너지 대전환…“저장·수요·시장까지 시스템 전면 혁신” 전자신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "44caac4db010",
+      "title": "구광모, 美 ESS 거점 점검…“AI 시대, 배터리 ‘통합 솔루션’으로 승부” - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uUEE3Q2tzU1pfUmR0WEhEY1BWV1AyVExmWi1WQjhLc0g5VWFHWk5FNXpxb05pNGRiSUpCa2pYVlEzTlRhVnFmMkRsRkd6MVg0RWtFSnRR?oc=5",
+      "source": "중앙일보",
+      "pubDate": "2026-04-02T06:03:26+00:00",
+      "description": "구광모, 美 ESS 거점 점검…“AI 시대, 배터리 ‘통합 솔루션’으로 승부” 중앙일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "0506e2dc526a",
+      "title": "K배터리 3사, 1분기 ‘동반 적자’ 전망…하반기는 반등 기대 - 뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGWjN5OVg5eGcyY0ZtMW5iMEVmU3NCdXlwVHdVZUF2VGtNSzF2Nlk0YjZnbUhOWUxDYnNvOG5TSGNIREZ0QUhDX3Zuc1dSX1dKTVFkMElmWWUwNjFldTdUQzlR?oc=5",
+      "source": "뉴스토마토",
+      "pubDate": "2026-04-02T06:01:22+00:00",
+      "description": "K배터리 3사, 1분기 ‘동반 적자’ 전망…하반기는 반등 기대 뉴스토마토",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "2e7362ad70d7",
+      "title": "LH-건보공단, 임대주택 건강보험료 자동 조정…입주자 부담 완화 - 뷰티경제",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fd2dIUy1QNlFnOGw1NTJSSEg4RE9YXzhwb2FOdmJ5ZEZJS1ZEQ2s5bzlpQ1V6d3lMZFNSelVjbVZvUG9OejFySUdxT0VYMVh6WVBmdXJ3SkplVkZCZzZTOF91VWRWZC14NXc?oc=5",
+      "source": "뷰티경제",
+      "pubDate": "2026-04-02T05:58:33+00:00",
+      "description": "LH-건보공단, 임대주택 건강보험료 자동 조정…입주자 부담 완화 뷰티경제",
+      "category": "제도개선",
+      "priority": false
+    },
+    {
+      "id": "2f1c8eed0e85",
+      "title": "구광모 LG 회장, 美 버테크 현장 점검…ESS 통합 솔루션 주도권 확보 강조 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ObWJST240a0poTHVGVE5DMDhlWk5sZk53RV9MNHBURUJFRmR2U09kZU5kcFNyYzlVRENTNXdseXZnd0RWWGZZUzl0UUxXenpzTkpObElQUGlMRC12aWd6NlRYM18?oc=5",
+      "source": "디지털데일리",
+      "pubDate": "2026-04-02T05:30:43+00:00",
+      "description": "구광모 LG 회장, 美 버테크 현장 점검…ESS 통합 솔루션 주도권 확보 강조 디지털데일리",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "06fdf2397bba",
+      "title": "구광모 LG 대표, 美·브라질 현장 경영···AI 시대 '에너지 인프라 주도권' 강조 - 현대경제신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FSnFmNjhCUlB1UzBuLWtyRTJNZ29laFZZa21VS2ZBNURFVUZ4VVhJZ3l1eFFFMWcwUDVUVVZIQU9LVUpabGpNMUpfSFpiZnVFRFFaaWxGTFNXWkFRSXRsWHQyNzhIalAxTUIw0gFrQVVfeXFMTUVKcWY2OEJSUHVTMG4ta3JFMk1nb2VoVllrbVVLZkE1REVVRnhVWElneXV4UUUxZzBQNVRVVkhBT0tVSlpsak0xSl9IWmJmdUVEUVppbEZMU1daQVFJdGxYdDI3OEhqUDFNQjA?oc=5",
+      "source": "현대경제신문",
+      "pubDate": "2026-04-02T05:29:29+00:00",
       "description": "구광모 LG 대표, 美·브라질 현장 경영···AI 시대 '에너지 인프라 주도권' 강조 현대경제신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "d60be9e1e9e9",
+      "title": "구광모 LG 대표, 美·브라질 돌며 ‘에너지·B2B’ LG 설계도 점검 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Xd2hxbEpuME85YUUycU4wdV9Rd3hHTU5wYWNJRGc2a29YN1JzN2ZqSGtXeWx3R0NwZmxfU0QwUnpWTjFOR191aVhKaEtmVzNfOFhmZ2M4RUR5NUFTb2dqdTFQV25RQ2Y5OHU1b0lEVlRjOEwx0gF0QVVfeXFMTVd3aHFsSm4wTzlhRTJxTjB1X1F3eEdNTnBhY0lEZzZrb1g3UnM3ZmpIa1d5bHdHQ3BmbF9TRDBSelZOMU5HX3VpWEpoS2ZXM184WGZnYzhFRHk1QVNvZ2p1MVBXblFDZjk4dTVvSURWVGM4TDE?oc=5",
+      "source": "이뉴스투데이",
+      "pubDate": "2026-04-02T05:23:16+00:00",
+      "description": "구광모 LG 대표, 美·브라질 돌며 ‘에너지·B2B’ LG 설계도 점검 이뉴스투데이",
       "category": "ESS",
       "priority": false
     },
@@ -53,36 +683,6 @@
       "priority": false
     },
     {
-      "id": "49fd679631be",
-      "title": "에너지공단, 투명·책임 방점 둔 감사 문화 정착 - 일렉트릭파워",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TTElwR2NEd2NqSEZuYUp0TnBTM1RwYlR1aXJJWkNvWmpkb2lfU2dqTTdTZ3ZxN0xaLVY0OE5IQVk0UzRfX0dJb3h6MDdRTUZTTVpTTFZESkhRRWZLUk5BUE13Y1I?oc=5",
-      "source": "일렉트릭파워",
-      "pubDate": "2026-04-02T05:18:00+00:00",
-      "description": "에너지공단, 투명·책임 방점 둔 감사 문화 정착 일렉트릭파워",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "4119e986a9a5",
-      "title": "한국전력, 개인정보보호 협의회 출범 - 국토매일",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBobGhJUjRRRmJDNml5ME9TcnI5RVJXRVhpWHczNFFheDVHbU5oQXRyWVdvank0Yi1MTTdnSHZLZVUzbXM3?oc=5",
-      "source": "국토매일",
-      "pubDate": "2026-04-02T05:18:00+00:00",
-      "description": "한국전력, 개인정보보호 협의회 출범 국토매일",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "d40ba2f2b960",
-      "title": "구광모 LG 대표, 美·브라질 돌며 ‘에너지·B2B’ LG 설계도 점검 - 이뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02T0FYaklrMTlDYlY3UzlReXJyUG45RlZXbkZkb0Z1WFU5M2phUEhNWGJiT2lvVV85SFdIZ1hFcE9nd0VQLU9UZUxwTDVyc0dJd1NyRXhZMm9QQ2wtNE4xSFphQzlsc0hLLW5VbkdISW9SQdIBdEFVX3lxTE1Xd2hxbEpuME85YUUycU4wdV9Rd3hHTU5wYWNJRGc2a29YN1JzN2ZqSGtXeWx3R0NwZmxfU0QwUnpWTjFOR191aVhKaEtmVzNfOFhmZ2M4RUR5NUFTb2dqdTFQV25RQ2Y5OHU1b0lEVlRjOEwx?oc=5",
-      "source": "이뉴스투데이",
-      "pubDate": "2026-04-02T05:17:43+00:00",
-      "description": "구광모 LG 대표, 美·브라질 돌며 ‘에너지·B2B’ LG 설계도 점검 이뉴스투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
       "id": "b6b420f7aaa5",
       "title": "광운대-켄텍, 미래 에너지·첨단산업 공동연구 MOU 체결 - 뉴시스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BN1M3R2U1R2FqR0ZBTkVTUmUtY0dORWJROEExY0xVdlVtNjF4WE1yUUFFRXFiR1owWGlkakExVGdSZ2cwZk5HdTNlRjlncWFsUnoyZHZiUjYxOGF3Qlk3RtIBeEFVX3lxTFB4T0ZDUUhzd1VQR0dVVnRXT0YtQlYzX2doZk1scTI3ckRFWURrVXB0T3B2N3JnVXZURFpYajhWNW1LcGx3M0M2Rm1HZGY4RWhlMVBqRTBGaTRfM3JHcTFaOXZJNWVGU1NKcWFrUHk0Z040LURZMWNaRQ?oc=5",
@@ -93,39 +693,29 @@
       "priority": false
     },
     {
-      "id": "a95467de6c1d",
-      "title": "'글로벌 사우스' 두드리는 LG…구광모 \"ESS 주도권\" 강조도 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RVU1fR1duMl9XT2ZGSkUxSE04dExsN0pqeC1mRl81eDlXTEN6YzluNzdwa3VnM3RMWkJ1UXZDYk9YQUFmS0t0VHRzb1N4d3d4Q2RV?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-02T05:14:00+00:00",
-      "description": "'글로벌 사우스' 두드리는 LG…구광모 \"ESS 주도권\" 강조도 네이트",
+      "id": "9f049b3feefd",
+      "title": "‘글로벌 사우스’ 두드리는 LG…구광모 “ESS 주도권” 강조도 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SN25lQkRWT25ncmtkNW1LUnpQQzVINmo3WmhISkpKaTRURlpTbS1DQW1lUGRYRDJlOW9RUklDbnp3a1hkdG9PbHNubDZMMjRjLXRYRm5Mc2pmMDJITmZ30gFfQVVfeXFMTVI3bmVCRFZPbmdya2Q1bUtSelBDNUg2ajdaaEhKSkppNFRGWlNtLUNBbWVQZFhEMmU5b1FSSUNuendrWGR0b09sc25sNkwyNGMtdFhGbkxzamYwMkhOZnc?oc=5",
+      "source": "경향신문",
+      "pubDate": "2026-04-02T05:13:00+00:00",
+      "description": "‘글로벌 사우스’ 두드리는 LG…구광모 “ESS 주도권” 강조도 경향신문",
       "category": "ESS",
       "priority": false
     },
     {
-      "id": "3b28e1427165",
-      "title": "구광모 ㈜LG 대표, 美 에너지·'글로벌 사우스' 시장 점검 - 뉴스케이프",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwdmZNLUJwYmNnbkJacFAyTmc1TGpCaGdsaDRZaUFjdVRzd1VJN0pza2RuUngyR1ZIMk9LYzlpaTVPaVJQMW81dVJYYXJ6OXdHeE5YTTVyU0s3c29YZDVNU1B5b3AtbmVEZmJIUtIBcEFVX3lxTE5wcUFwX0kyUWdsOTc4Uk9lWWZuQzRiOVczZHU5Z0FCS2hRT2x2a2VwUUlPN0VORFR4VlVWYUZpY0QwaGluOEdZN25tVHpwcFAzaFo3VVNwdWJ2R1YxVTJ1NVZsdEt0dVVKbXdlbDBKWlA?oc=5",
-      "source": "뉴스케이프",
-      "pubDate": "2026-04-02T05:09:58+00:00",
-      "description": "구광모 ㈜LG 대표, 美 에너지·'글로벌 사우스' 시장 점검 뉴스케이프",
-      "category": "ESS",
+      "id": "ca1a3e99184d",
+      "title": "한국전력, ‘개인정보보호 협의회’ 출범…에너지 데이터 신뢰 가속 - 비즈트리뷴",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91cVZJQ01YWF9LN2tJdmlFdmdGeXl6cFN6TEp2aUxzSk5pRnZMdmdIN0RFcEYxWUJvYUZBRGRpZFVYU0ZvWUlkc0RDU1VsenVxUnQwb3JEdTJhZkpsWldJRWJYaWtDampfSnFGNXNKcng?oc=5",
+      "source": "비즈트리뷴",
+      "pubDate": "2026-04-02T05:00:48+00:00",
+      "description": "한국전력, ‘개인정보보호 협의회’ 출범…에너지 데이터 신뢰 가속 비즈트리뷴",
+      "category": "AI",
       "priority": false
     },
     {
-      "id": "6f0e435f855e",
-      "title": "삼성SDI-스페이스X, '우주 배터리' 동맹 나선다 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb2hQWFlIdlhkMHJ1QzJCZ0QwSHc4TnI1dFQ1VHdleDFtc3RnOUFmaGdxaUhQVlNFbFVrSUt2ZXcwc2NuNC1zQ2xVNVVkYUplYWpTejAtUzE3S2pxcUNwQXFrcUU2by1uY2l0QWFheXhHcFd3UjFsdlJ3UkdZVWtvUg?oc=5",
-      "source": "이데일리",
-      "pubDate": "2026-04-02T04:59:17+00:00",
-      "description": "삼성SDI-스페이스X, '우주 배터리' 동맹 나선다 이데일리",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "98082523d815",
+      "id": "a7c077ad2835",
       "title": "구광모 LG 회장, 미·브라질 현장경영…“AI 에너지 인프라 주도권 확보” - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QUzBfQ2pVWTU1cjYydmRpODRLUl9fejFPd2R1eHo4aHlPLXVsRkRtNFpXaDktaU5ibHpJbXRkNE1GZHBkdm1Rd3lER2lGX192ay1YM1hWRlJZeHRIZDln?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JV2hvSGdIQnYyYWJqZW9WeG54TmNJY2hYLUxoWHVOdm9VRzUyVWZMZlAyNGpVTEY5eVExaEhmSWNZQzJCWkpQQ0hIUXVFSTl0c3FyV2k4dGxCVUtnT0lLY3U0VVc?oc=5",
       "source": "매일일보",
       "pubDate": "2026-04-02T04:58:27+00:00",
       "description": "구광모 LG 회장, 미·브라질 현장경영…“AI 에너지 인프라 주도권 확보” 매일일보",
@@ -133,32 +723,62 @@
       "priority": false
     },
     {
-      "id": "d9725c9a6b9a",
-      "title": "[In터뷰] OCI파워 김대훈 본부장, “인버터 넘어 ‘에너지 플랫폼’으로… 구조 전환 본격화” - solartodaymag.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxR2NYZWpaRDc2TDdRRG1qaUdsMW1ld2prRmpfQzFuLVM2YmFaZm5oVlBibTkzNEdIeWZIWkNob3JEaGYxRzFGdHFIMTU1Rkw4OXFPUDNjSUhCY2EzVHdLTVItem9Ka05RNlA3d0ZUZ0c?oc=5",
-      "source": "solartodaymag.com",
-      "pubDate": "2026-04-02T04:46:33+00:00",
-      "description": "[In터뷰] OCI파워 김대훈 본부장, “인버터 넘어 ‘에너지 플랫폼’으로… 구조 전환 본격화” solartodaymag.com",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "e42221452bd3",
-      "title": "“배터리만으론 부족하다”…LG 구광모가 꺼낸 ‘에너지 인프라 게임 체인지’ 전략 - e-science.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmNFZwbDFUQ2NOSjdsNmM1c3BudEp4NVVwbm1ONDJyaVEtTmpKaXZmcWNwWHJvNmszUWYtSl9XVjdIbVItQ1FUWmFFeUlhUjRYUm1xWHJVNldldTEwQUNKTGtfUmZzUFBKajN5TkZXUQ?oc=5",
-      "source": "e-science.co.kr",
-      "pubDate": "2026-04-02T03:34:41+00:00",
-      "description": "“배터리만으론 부족하다”…LG 구광모가 꺼낸 ‘에너지 인프라 게임 체인지’ 전략 e-science.co.kr",
+      "id": "bbcd73622d60",
+      "title": "LG 구광모, 미국 ESS 거점 점검…\"압도적 지위 구축\" - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ab1Axa1Y3RThfZ210Uk91VGpuZmYtNFZjSkw4RFJPeUFUODVTRGlsSXp4WkltdDJTMVlPMElxU0R4dDBZaFVfM2RZang4a1dXcUFVRnIyTnAyWms2aDZBOHlVOWJRbFU?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "2026-04-02T04:53:38+00:00",
+      "description": "LG 구광모, 미국 ESS 거점 점검…\"압도적 지위 구축\" 연합뉴스TV",
       "category": "ESS",
       "priority": false
     },
     {
-      "id": "4a02cd87d830",
-      "title": "구광모, “흔들리지 않는 사업 기반” 재차 강조…美 ESS·브라질 현장 연속 점검 - 뉴스로드",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBraXBQQW5lMy1NZEdLandoazluV21STFEtclBwdTc2NDFDenI5bGRZQkt6cW52Q2I1cTI0UERsTXFKN2xBc0tiVVdhS01YZU1qd0EzVHBQVUpobmxqRnFMVXV3ODUtS2VkODN0OEM5RdIBb0FVX3lxTFBraXBQQW5lMy1NZEdLandoazluV21STFEtclBwdTc2NDFDenI5bGRZQkt6cW52Q2I1cTI0UERsTXFKN2xBc0tiVVdhS01YZU1qd0EzVHBQVUpobmxqRnFMVXV3ODUtS2VkODN0OEM5RQ?oc=5",
-      "source": "뉴스로드",
-      "pubDate": "2026-04-02T03:31:20+00:00",
-      "description": "구광모, “흔들리지 않는 사업 기반” 재차 강조…美 ESS·브라질 현장 연속 점검 뉴스로드",
+      "id": "cbba8673708f",
+      "title": "구광모 LG 대표, AI 이어 '배터리' 주목...'ESS 설루션 선도' - 테크M",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByX3IwVGNZRWRXTFlDV2RpRTEzY2NJRzF1NFZIZkZ2d1J1bTZFQUMwbGNuZGZ6d2FMS1l3SU1HWVJvSEdsNThrTF9ROTdJUWRiaGFmRTJ0ZVAzR0RFZzk0WUd5dFZ6NjdmVEHSAWpBVV95cUxQcl9yMFRjWUVkV0xZQ1dkaUUxM2NjSUcxdTRWSGZGdndSdW02RUFDMGxjbmRmendhTEtZd0lNR1lSb0hHbDU4a0xfUTk3SVFkYmhhZkUydGVQM0dERWc5NFlHeXRWejY3ZlRB?oc=5",
+      "source": "테크M",
+      "pubDate": "2026-04-02T04:48:31+00:00",
+      "description": "구광모 LG 대표, AI 이어 '배터리' 주목...'ESS 설루션 선도' 테크M",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "d9725c9a6b9a",
+      "title": "[In터뷰] OCI파워 김대훈 본부장, “인버터 넘어 ‘에너지 플랫폼’으로… 구조 전환 본격화” - 솔라투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxR2NYZWpaRDc2TDdRRG1qaUdsMW1ld2prRmpfQzFuLVM2YmFaZm5oVlBibTkzNEdIeWZIWkNob3JEaGYxRzFGdHFIMTU1Rkw4OXFPUDNjSUhCY2EzVHdLTVItem9Ka05RNlA3d0ZUZ0c?oc=5",
+      "source": "솔라투데이",
+      "pubDate": "2026-04-02T04:46:33+00:00",
+      "description": "[In터뷰] OCI파워 김대훈 본부장, “인버터 넘어 ‘에너지 플랫폼’으로… 구조 전환 본격화” 솔라투데이",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "595d3ff81b15",
+      "title": "기후·전쟁·AI 삼중고, 한국 '그린 에너지'로 질주하라 - 피렌체의 식탁",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90SV92eGpYTGZGQXN1MzlPdzM3U2g0VndFRG55VGhlcTI4UFRScnk2Q2NtTzJmQTlTUnVmVWdCc2Y4X2pGWmFWUl9sTVU4d0stQ3BkQWdNaXVJTF9yT05aRHRpNHpnNlJlZkxHbUpR0gFuQVVfeXFMT3RJX3Z4alhMZkZBc3UzOU93MzdTaDRWd0VEbnlUaGVxMjhQVFJyeTZDY21PMmZBOVNSdWZVZ0JzZjhfakZaYVZSX2xNVTh3Sy1DcGRBZ01pdUlMX3JPTlpEdGk0emc2UmVmTEdtSlE?oc=5",
+      "source": "피렌체의 식탁",
+      "pubDate": "2026-04-02T04:22:02+00:00",
+      "description": "기후·전쟁·AI 삼중고, 한국 '그린 에너지'로 질주하라 피렌체의 식탁",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "e3c16d7c684d",
+      "title": "LG 구광모, 美ESS 사업 거점 점검…“시장 선도하는 압도적 지위 구축해야” - IT비즈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jZ0l1alBIdGVBbGNTQVJBVVpVRzVHeXByV3RveERqWkszTmk4SFg5LUdYLUNFRko5NUk5bHdqdmQzcW80VnJxUUNqSi1SdjhlQXBrbTdBaFB6cXlTRFRLQnBtbzVEeTR3bW5KaQ?oc=5",
+      "source": "IT비즈뉴스",
+      "pubDate": "2026-04-02T04:00:00+00:00",
+      "description": "LG 구광모, 美ESS 사업 거점 점검…“시장 선도하는 압도적 지위 구축해야” IT비즈뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "e42221452bd3",
+      "title": "“배터리만으론 부족하다”…LG 구광모가 꺼낸 ‘에너지 인프라 게임 체인지’ 전략 - 이코노미사이언스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmNFZwbDFUQ2NOSjdsNmM1c3BudEp4NVVwbm1ONDJyaVEtTmpKaXZmcWNwWHJvNmszUWYtSl9XVjdIbVItQ1FUWmFFeUlhUjRYUm1xWHJVNldldTEwQUNKTGtfUmZzUFBKajN5TkZXUQ?oc=5",
+      "source": "이코노미사이언스",
+      "pubDate": "2026-04-02T03:34:41+00:00",
+      "description": "“배터리만으론 부족하다”…LG 구광모가 꺼낸 ‘에너지 인프라 게임 체인지’ 전략 이코노미사이언스",
       "category": "ESS",
       "priority": false
     },
@@ -173,53 +793,13 @@
       "priority": false
     },
     {
-      "id": "9701ea45932c",
-      "title": "美·브라질 사업장 찾은 LG 구광모… ‘에너지·글로벌 사우스’ 전략 점검 - 천지일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5RU9BYXhxb3lzS1lHNUQwZUZiX1ZSX3pNbVktR29JZ3VIQllxdjBoYzVjSmdfZk5lRWt4TU03SmhEQmE4NzRkOUtIQUwzSDBFS3RELTc2b3hSelpKV0o3b1VWS2szZWwtd1E?oc=5",
-      "source": "천지일보",
+      "id": "66e8677d101b",
+      "title": "기후 싱크탱크 \"재생에너지 여수산업단지에 우선 공급해야, 전기화 전환 여건 마련\" - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zVmdCekw1ZU9XYlJrOW5iYjBJMTNfSUtWbHFxNUJ5RGVXd3dKUWNTV3VoLVRnMUtQOTVnLXdEcFp1TkNsWERfd3d4MEJMd0xoUWhkcEZxMnVOenV4eUROR0FrZzJqTjNhdUk1Y202ZmtDMFE?oc=5",
+      "source": "비즈니스포스트",
       "pubDate": "2026-04-02T03:00:00+00:00",
-      "description": "美·브라질 사업장 찾은 LG 구광모… ‘에너지·글로벌 사우스’ 전략 점검 천지일보",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "d7f5b7cfabc1",
-      "title": "구광모, 미 ESS 사업장 방문…“압도적 지위 구축해야” - 뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3haMzZrZC1FeXdpMTRTNkh1WlV2YWgxNWlyOVY1UlZRSmZ6OWpvS3RtUTZmbFlRSGZ2aHdFX2FPSmpyOVpqSC1PUnZqYjh3U0J3NmJVU2RXeUVMUmx6M1VUdG5GOTV5N2ZBNFRVNHF5ZXpaeTFuR3B0cEF0dWg2MEF5dWdWemdvVlRORVYxLWxlSTZ4UkJhM0U5UExoZVhqLVlEMnRjVW11YmRJSmR0REJCcWFydkRP?oc=5",
-      "source": "뉴스통",
-      "pubDate": "2026-04-02T02:59:16+00:00",
-      "description": "구광모, 미 ESS 사업장 방문…“압도적 지위 구축해야” 뉴스통",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "ec8de4c26fb2",
-      "title": "재계 총수들 글로벌 행보 분주...구광모 회장, 미국서 ESS 전략 점검 - 소비자가 만드는 신문",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBybXg1Vjk4NUcxV2NKQXRuSkFFb3d6djJIVF91WU0yUlJpT0RnVU9SN2diZ0E4dDk1V01CdGl3V0lNdC0zcWNmTjhvYWZfd2NleThfcTBXMEJtbVZGTmVvRnQxN3JhemdRVG1xRHNpcVZrTFE?oc=5",
-      "source": "소비자가 만드는 신문",
-      "pubDate": "2026-04-02T02:38:49+00:00",
-      "description": "재계 총수들 글로벌 행보 분주...구광모 회장, 미국서 ESS 전략 점검 소비자가 만드는 신문",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "4375a9cf3a2c",
-      "title": "구광모 LG 대표, 미국·브라질 방문…AI 인프라와 글로벌 사우스 전략 점검 - 주간현대",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9YVlBiWUpCYkpYR0VUcHZFTzFLTHp1ODFqRGx6MWZqenlZRDA5OUVNVVU4ZmY1T3dLTDdYZVE5aUN2SDg?oc=5",
-      "source": "주간현대",
-      "pubDate": "2026-04-02T02:38:00+00:00",
-      "description": "구광모 LG 대표, 미국·브라질 방문…AI 인프라와 글로벌 사우스 전략 점검 주간현대",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "c9334f19e68a",
-      "title": "구광모, 美 ESS 거점 점검…배터리 넘어 '통합 솔루션' 승부 - 뉴스후플러스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13NS1UZ01lQkVlUDFrTGZtb0NoNGM3cmNWNF9nYVpKMFUxd05Rcl8wSzhoTGk1V0EzZllucm1xbUF3VUg3VmNLTzhtYWlQZ3d5MXRHUmg4RVRmTEZPck1BNmZtTWQtaWNaaHRBNUd3?oc=5",
-      "source": "뉴스후플러스",
-      "pubDate": "2026-04-02T02:37:21+00:00",
-      "description": "구광모, 美 ESS 거점 점검…배터리 넘어 '통합 솔루션' 승부 뉴스후플러스",
-      "category": "ESS",
+      "description": "기후 싱크탱크 \"재생에너지 여수산업단지에 우선 공급해야, 전기화 전환 여건 마련\" 비즈니스포스트",
+      "category": "제도개선",
       "priority": false
     },
     {
@@ -234,52 +814,42 @@
     },
     {
       "id": "452ac5a888db",
-      "title": "구광모 LG 회장, ESS '통합 솔루션' 강조 - 디일렉",
+      "title": "구광모 LG 회장, ESS '통합 솔루션' 강조 - thelec.kr",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4cFdKeTR1ZVljUDhqd1BBUG1NRC1yVHdpSWhZSnF2dEp0MFFrVzBBclQ2VVo3NGZVU1ZKVVlrT1pqSTRIVlBibE1Eei1kVzFjRmkteEF4c1VnMjFiN2liZjZnYzQzZw?oc=5",
-      "source": "디일렉",
+      "source": "thelec.kr",
       "pubDate": "2026-04-02T02:34:34+00:00",
-      "description": "구광모 LG 회장, ESS '통합 솔루션' 강조 디일렉",
+      "description": "구광모 LG 회장, ESS '통합 솔루션' 강조 thelec.kr",
       "category": "ESS",
       "priority": false
     },
     {
       "id": "1ae1ff4de9dd",
-      "title": "한전 전력구매 11%가 용량정산금...\"화력발전 연명제도 개선해야\" - newstree.kr",
+      "title": "한전 전력구매 11%가 용량정산금...\"화력발전 연명제도 개선해야\" - 뉴스;트리",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RWTRFRVVKVHZlVE5tbFQ4dUk2TDlydGxobml1YXVQTVFneXBGZkVPVDRrYWNwakJhX0ttSnZHV3pNOHh2TzB4SF9VRFZpWjZ0QThGM20yOGtIYTF5?oc=5",
-      "source": "newstree.kr",
+      "source": "뉴스;트리",
       "pubDate": "2026-04-02T02:32:02+00:00",
-      "description": "한전 전력구매 11%가 용량정산금...\"화력발전 연명제도 개선해야\" newstree.kr",
+      "description": "한전 전력구매 11%가 용량정산금...\"화력발전 연명제도 개선해야\" 뉴스;트리",
       "category": "전기요금",
       "priority": false
     },
     {
-      "id": "76d3b642041e",
+      "id": "a437026eb200",
+      "title": "“재생에너지 전환 막는 용량요금제도 개선해야” - 인사이트에너지뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aaTJqNDFrV2RSUkpIYVQtM0dTeHZmeWJaTmI1NjAyZnBKOTRUSXR5Ukl1ZHZZV3NXXzBZQ1hTN3c5djNVakdPQUtfSGxtVjNMTEtOUW80MGJydkdhdGZhZHRCZGowZE3SAWtBVV95cUxQeENDeXgtVlk3M0NGNkpCOTF2Rlp5Yk81WllhZU43YndoMDFUVkoxWDZ4NndUbUcxUVd6S0g0eVp0TnE4TGlMYWZOTUtMalcwalR4b1dwb01lQ0prTkxVNmNjV2hmS0VjQTNtQQ?oc=5",
+      "source": "인사이트에너지뉴스",
+      "pubDate": "2026-04-02T02:30:00+00:00",
+      "description": "“재생에너지 전환 막는 용량요금제도 개선해야” 인사이트에너지뉴스",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "b31fd55cab04",
       "title": "코오롱글로벌, 풍력 V.PPA 첫 실거래 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zZDM2SG5XZkhFSGoyY28zbTJnVWFzalFMRWIwVkQ2RHM0NDBmTENNNmx1Y2ZWb1Zsc0VGa2FjTnhEZGljakE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQ1ZweXZkZm4tM1VpNFRrNUNldUcyRW1lMzlIdnhpNHJxTVR3eWd2NU9pYk05MkQwNjYwejNMWUxMTDZqTmkzdVdrdw?oc=5",
       "source": "v.daum.net",
       "pubDate": "2026-04-02T02:20:06+00:00",
       "description": "코오롱글로벌, 풍력 V.PPA 첫 실거래 v.daum.net",
       "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "3b4991048875",
-      "title": "구광모 “AI 에너지 주도권 선제 확보해야” - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwc19CRTJlWGpXbVNEVVlNNHdscWdJY2ZBSzNJY09aVXMtcnhtM2xVeWl5UFZCb29RZTdpdDhCMk81X3VoTnVvUTQyMmVZdjBVQ2JBV0pR?oc=5",
-      "source": "헤럴드경제",
-      "pubDate": "2026-04-02T02:17:39+00:00",
-      "description": "구광모 “AI 에너지 주도권 선제 확보해야” 헤럴드경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "55b9f8d73274",
-      "title": "미국·브라질 찾은 LG 구광모, AI시대 에너지 인프라 주도권 확보 강조 - 남다른디테일",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE15NzVfRkdZc0JtWUVyQ2QwOTFwb2t3QllMcGdab0lzRVM3QmlRN1htM29Fck1rcTdMR0JZSkZ3UWZfdw?oc=5",
-      "source": "남다른디테일",
-      "pubDate": "2026-04-02T02:16:44+00:00",
-      "description": "미국·브라질 찾은 LG 구광모, AI시대 에너지 인프라 주도권 확보 강조 남다른디테일",
-      "category": "ESS",
       "priority": false
     },
     {
@@ -293,22 +863,12 @@
       "priority": false
     },
     {
-      "id": "fc905519bb09",
-      "title": "버테크 방문한 LG 구광모 \"ESS 통합 설루션으로 시장 압도적 지위를\" - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VUUpUYl9MeFM0QnRQQy1KWS1zYlpvbERsLUs0VDVoaXF2UmZwR0hhMTk1bkhSbi1JNVhTWlBHbjlXOTMzMXNoQ1lFQXN4b3d3QTNZ?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-02T02:15:00+00:00",
-      "description": "버테크 방문한 LG 구광모 \"ESS 통합 설루션으로 시장 압도적 지위를\" 네이트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "f0c101892a26",
-      "title": "\"단순 배터리 넘어라\" 구광모 특명… LG전자, 美·브라질서 'AI 인프라' 승부수 - 파이낸셜포스트",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xNFpwOFJ1Qnd3NzNETWw0RndoY3pRcDd4M0drTnFNZWowTnFxeEpPc1d0Zm9WVXVCNjN3RWN6dGVJYmRhN0hJVl9LOXpvNWZaX0tzUVh4QkcwN1phbHhmN0Y4RGhlQkI5Mlg5R09qWHB2RE8x?oc=5",
-      "source": "파이낸셜포스트",
-      "pubDate": "2026-04-02T02:12:00+00:00",
-      "description": "\"단순 배터리 넘어라\" 구광모 특명… LG전자, 美·브라질서 'AI 인프라' 승부수 파이낸셜포스트",
+      "id": "947f7b45368a",
+      "title": "LG 구광모, 美 ESS 거점 점검…브라질선 '글로벌사우스' 전략 확인 - SBS Biz",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1a3F2VHRGZXpMemk5SkUwdHpYX05vVDFUclc3YXRoRk0yUHZCN3NDOGlhcjFDQmtFcVFTTGdOenVlcUJUeHRnWU1FWDIyNHM2Z3pPMHR1eVjSAVhBVV95cUxQNWtxdlR0RmV6THppOUpFMHR6WF9Ob1QxVHJXN2F0aEZNMlB2QjdzQzhpYXIxQ0JrRXFRU0xnTnp1ZXFCVHh0Z1lNRVgyMjRzNmd6TzB0dXlY?oc=5",
+      "source": "SBS Biz",
+      "pubDate": "2026-04-02T02:11:00+00:00",
+      "description": "LG 구광모, 美 ESS 거점 점검…브라질선 '글로벌사우스' 전략 확인 SBS Biz",
       "category": "ESS",
       "priority": false
     },
@@ -324,21 +884,11 @@
     },
     {
       "id": "2fa7f7f7189c",
-      "title": "구광모 LG회장의 'AI 인프라' 승부수…美ESS 쥐고 브라질서 '글로벌 사우스' 공략 - wikileaks-kr.org",
+      "title": "구광모 LG회장의 'AI 인프라' 승부수…美ESS 쥐고 브라질서 '글로벌 사우스' 공략 - 위키리크스한국",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWR2N3UENnMUxuUkZLbzJiNjR6YVpwaF9vek9IWktDbUxFMHRJcm8zM3c2Yng1d2NpV05hNEtZMFJMVV9NYUhjcDIxMC1saUpxdlBFX3REYmFnQTBFR0p2VG1mSUxDX2oyLW4xNmlEZw?oc=5",
-      "source": "wikileaks-kr.org",
+      "source": "위키리크스한국",
       "pubDate": "2026-04-02T02:10:00+00:00",
-      "description": "구광모 LG회장의 'AI 인프라' 승부수…美ESS 쥐고 브라질서 '글로벌 사우스' 공략 wikileaks-kr.org",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "28f2d1608ed6",
-      "title": "LG 구광모, 美서 배터리 중심 전략 재확인…\"압도적 지위 구축하자\" - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zVUJKbTVET1NzMy05a29hbEhGQ0dnRkVMVDlnbXp3bndId04zOTFJaHg3RHpDeGhaQXlibWZYZ3o1WEpaMUpBWVJ2NA?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "2026-04-02T02:09:49+00:00",
-      "description": "LG 구광모, 美서 배터리 중심 전략 재확인…\"압도적 지위 구축하자\" v.daum.net",
+      "description": "구광모 LG회장의 'AI 인프라' 승부수…美ESS 쥐고 브라질서 '글로벌 사우스' 공략 위키리크스한국",
       "category": "ESS",
       "priority": false
     },
@@ -354,11 +904,11 @@
     },
     {
       "id": "6a33b1d6d14d",
-      "title": "[르포] 배터리 증설 멈춰도 장비 혁신은 지속…미래 준비하는 CIS 공장 - zdnet.co.kr",
+      "title": "[르포] 배터리 증설 멈춰도 장비 혁신은 지속…미래 준비하는 CIS 공장 - 지디넷코리아",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JQ3J0emwwYTRaMXBueUZJUUhNRGZ3UGpxWVJUY29fUzRNaDNydTRXdzJzdEJVVFNEYThCZk8yZzdvOGhyby1QQl9Va2hnbTB5VFVFcnhn?oc=5",
-      "source": "zdnet.co.kr",
+      "source": "지디넷코리아",
       "pubDate": "2026-04-02T02:09:32+00:00",
-      "description": "[르포] 배터리 증설 멈춰도 장비 혁신은 지속…미래 준비하는 CIS 공장 zdnet.co.kr",
+      "description": "[르포] 배터리 증설 멈춰도 장비 혁신은 지속…미래 준비하는 CIS 공장 지디넷코리아",
       "category": "ESS",
       "priority": false
     },
@@ -369,26 +919,6 @@
       "source": "스트레이트뉴스",
       "pubDate": "2026-04-02T02:07:10+00:00",
       "description": "LG 구광모, 美·브라질 연이어 방문…ESS·신흥시장 전략 점검 스트레이트뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "6630b591d81a",
-      "title": "미국·브라질 사업장 찾은 구광모…ESS·글로벌 사우스 시장 선점 의지 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqd1JiRlNlMkdDT0FhLXVjTDRTLW8tWEowd3ZHUzZZLWxGbTdtTGxvS3dnYUxkWDdQRTg3OGxCcTRuXzVNQUpXa0FLcll6RUJRdi00?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-02T02:07:00+00:00",
-      "description": "미국·브라질 사업장 찾은 구광모…ESS·글로벌 사우스 시장 선점 의지 네이트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "a226a3ca5a18",
-      "title": "구광모, 美·브라질서 '에너지 패권' 직접 챙겼다 - 포쓰저널",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxdlFXS3JTOTR3SXJBeTNwWGo2TmZKX0lVa3l2WFZLZGpyQ0FhX1l3ajVwMGlETGRFZjlDR3F5WHdmUHd6TjJYVUtIbWRBZ2haV1VwSzN6Tm43Q3IzNHVEN2tKcnU?oc=5",
-      "source": "포쓰저널",
-      "pubDate": "2026-04-02T02:00:25+00:00",
-      "description": "구광모, 美·브라질서 '에너지 패권' 직접 챙겼다 포쓰저널",
       "category": "ESS",
       "priority": false
     },
@@ -404,11 +934,11 @@
     },
     {
       "id": "ea174727350a",
-      "title": "구광모 LG 대표, 美·브라질 현장 경영…‘AI 에너지·글로벌 사우스’ 미래 선점 박차 - smarttoday.co.kr",
+      "title": "구광모 LG 대표, 美·브라질 현장 경영…‘AI 에너지·글로벌 사우스’ 미래 선점 박차 - 스마트투데이",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWUTlVajJTUWRkdnA1N2l3YkVyYzBwQnluZE5RM0dRZ2dKUkM4YkdVTnhValdhQWdrV1ViOEhDWFM5UVpIMmd0VlZsX3pwc0ppRUhlRUZMdkFMRGlESHZn?oc=5",
-      "source": "smarttoday.co.kr",
+      "source": "스마트투데이",
       "pubDate": "2026-04-02T01:57:00+00:00",
-      "description": "구광모 LG 대표, 美·브라질 현장 경영…‘AI 에너지·글로벌 사우스’ 미래 선점 박차 smarttoday.co.kr",
+      "description": "구광모 LG 대표, 美·브라질 현장 경영…‘AI 에너지·글로벌 사우스’ 미래 선점 박차 스마트투데이",
       "category": "ESS",
       "priority": false
     },
@@ -433,6 +963,16 @@
       "priority": false
     },
     {
+      "id": "41fc96faa7be",
+      "title": "한국전력 주가, 4월 2일 장중 43,600원 0.23% 하락 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YOWd0SURJNE9DUHhxZ1JULWVDUVM2cU44Zno1MHNTZEtXQkNxYVdCMjJXR3FOV3Ytd2JmSW5IN0xXZDZhRkhDM0dfYTFRNjFKampwUkN4cjFCUXNnU3haTUw4dDhNdWpHZU9WYzJaTnQ5dw?oc=5",
+      "source": "중앙이코노미뉴스",
+      "pubDate": "2026-04-02T01:41:22+00:00",
+      "description": "한국전력 주가, 4월 2일 장중 43,600원 0.23% 하락 중앙이코노미뉴스",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
       "id": "6985725463ba",
       "title": "[편집국에서] 울산에너지공사 설립해 부유식 해상풍력 발전이익 시민과 나눠야 - 울산저널i",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zMFYzZDNhbzJfSjhaaUlrdjhiTEdKUDhGS2NJMHZ3N3NTZlY0ZURaYXVaZVpER2g4WFpfWUJqcVBod1FYUkY3blMzWGo5dkk0Umthd2E4QXNMeXlUMEhfcXB4NUxjUkxOYW9FemZBSzctMm8?oc=5",
@@ -453,62 +993,12 @@
       "priority": false
     },
     {
-      "id": "c464fe793e24",
-      "title": "[특징주] 삼성SDI, ESS·소형전지 '바닥 찍었다'… 목표주가 상향 - 뉴스티앤티",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DamNmcjJxczNPOFB1bVVsZjR0Z0htMWlETllyR2R4RHp2Q2g0NjllQ3ROdEdWWlY5cDVTYllQRGlxazJYSW5ZQzRjTXNsb2k2Zks3Wi1ra1ZXX2RVUzByR2ZJaEdUXzdt?oc=5",
-      "source": "뉴스티앤티",
-      "pubDate": "2026-04-02T01:28:04+00:00",
-      "description": "[특징주] 삼성SDI, ESS·소형전지 '바닥 찍었다'… 목표주가 상향 뉴스티앤티",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "ba5d28ce75f0",
-      "title": "구광모 LG 회장, AI시대 에너지 인프라 주도권 확보 나섰다 - 글로벌에픽",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wRW9HR25TU2tYN0lFcFVLNnNmcmlZbExVNS0xR3RNX0hIR1JIZk1mWm1JY2NiYVZfS3hUcUdyMDd3VU4tNGJHTXllSnExbGZTdVkxdWpfQmlTblNiVXlQWS1SQThzSnhGQkZTaEVoVzBBNmhlUjRtcW5lTUU?oc=5",
-      "source": "글로벌에픽",
-      "pubDate": "2026-04-02T01:26:19+00:00",
-      "description": "구광모 LG 회장, AI시대 에너지 인프라 주도권 확보 나섰다 글로벌에픽",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "5db9be5f4269",
-      "title": "LG 구광모, 미국 ESS 거점 점검…\"압도적 지위 구축\" - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlNXBnVmdiZnRYc0pqQ0psS25WUHlLUUtxSTZKa0RyQ2Jvd0hVTDhuS1FNNmxjNEVrMWl2SUlQSVBKM3dIYjRYQ1N0aVI4aXZqdzVB?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-02T01:24:00+00:00",
-      "description": "LG 구광모, 미국 ESS 거점 점검…\"압도적 지위 구축\" 네이트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "e3f1352a8be3",
-      "title": "구광모 회장 \"고부가가치 역량 높여 시장 선도 압도적 지위 구축해야\" - 포인트데일리",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01VWJvMjhlMllDNnB1RmhnRFdnRDkxTlNlOTVSdVEtUjBzRFFod1NuS2U1UE5abFpZM09ScVlYWGlDMVhnM04wS2dQeDJDdjFYV0tpVzJUWUttWkFOeTIzX3VicmNtd1JRN0VEaDZrRDc?oc=5",
-      "source": "포인트데일리",
-      "pubDate": "2026-04-02T01:23:08+00:00",
-      "description": "구광모 회장 \"고부가가치 역량 높여 시장 선도 압도적 지위 구축해야\" 포인트데일리",
-      "category": "ESS",
-      "priority": false
-    },
-    {
       "id": "c73bcab75ab9",
       "title": "[특징주] 삼성SDI, ESS 중요성 기반 호실적 전망에…4% 상승 - 조선비즈 - Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMUhYVHRzZkJrcGswNmg3TXdGSVVua21sZEhaSERoeE5ZQjBBUmlZaS1obmt5SXF0RHFpUTRaUVRJa2QzLTdrb0o0NzBnWFAxVlZNX2t4cnp6cEVGVi1pTVUtV3kzNWZfaUZOS2NUX1VUdnFYdDhTN1BuVmp1MFZ6ZC1aaEt2aEFD0gGcAUFVX3lxTE8tUlI3UWt6Z1dwYlNsdDBHVENyZkNIS1FfcElxaS12Z0lQWVNqY0VXa0owM0NpN1Nta0xXb1A1SGZ1UWVsVnU1XzB6RFFTenJKdFVfM0ZRczBXQ09MU1QycWktaHBjNU1wTXMyRmplTk5fVHVsMUJXQzgwckRxWkNGUXRsZktVS3huazdiX29MZ2RYay1BUnVzQTZzTA?oc=5",
       "source": "Chosunbiz",
       "pubDate": "2026-04-02T01:17:42+00:00",
       "description": "[특징주] 삼성SDI, ESS 중요성 기반 호실적 전망에…4% 상승 - 조선비즈 Chosunbiz",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "5b803880a9c3",
-      "title": "LG 구광모, 美 ESS·브라질 공장 방문…배터리·생산 전략 점검 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TSUFhTE1WTXpsT3BqZ29VTXpmNjR1aHprVTFRUUFXOF9ubThubThmX0xCNUQtYzNEUC1HSGdmZDJ3UWNxX1JseHoxd013R3plN3hz?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-02T01:17:00+00:00",
-      "description": "LG 구광모, 美 ESS·브라질 공장 방문…배터리·생산 전략 점검 네이트",
       "category": "ESS",
       "priority": false
     },
@@ -523,9 +1013,9 @@
       "priority": false
     },
     {
-      "id": "a7c4d9ebb5aa",
+      "id": "ced9d9920de8",
       "title": "구광모 LG 대표, 美 ESS 거점 점검…“통합 솔루션으로 에너지 인프라 대응” - 팍스경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lM3RQcHJoYXliN3dfSlNDUnZGaUNRZjY2UU9hV05TZzlsNXVtUDFVeUwwS0JUa2xKRGprbm5tZ2N1d09hRTFxMXZXakRrWWd2VmhkeFdESWZmN0tab20tb2dXZEo2R00?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xWXowN21ZY052cDNVVDk5bnpjbEk3c3A4dzhVMGZQY2FrQ0lxd2pfT0tGRy1hUmJEM1hvZXVwdVZiVC1uMGdvSmp2dkdYQTN6V1BsbGdrOHhVN0hkVFVVYlE2Ukh6RWo0?oc=5",
       "source": "팍스경제TV",
       "pubDate": "2026-04-02T01:15:59+00:00",
       "description": "구광모 LG 대표, 美 ESS 거점 점검…“통합 솔루션으로 에너지 인프라 대응” 팍스경제TV",
@@ -543,22 +1033,22 @@
       "priority": false
     },
     {
-      "id": "378afa9b18f4",
-      "title": "구광모 LG 대표, 美 ESS 거점 방문…\"하드웨어 넘어 통합 솔루션으로 시장 선점\" - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSbV9ZRm9GZWNqNThlS29DMzVnRVZVNy0yTHZJY3Jfa29OcHlveTFuTEpnWmp1UkJZYXBLOG1HWXVXVEdWQmtlelU1ZURUM0Exd3lv?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-02T01:10:00+00:00",
-      "description": "구광모 LG 대표, 美 ESS 거점 방문…\"하드웨어 넘어 통합 솔루션으로 시장 선점\" 네이트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
       "id": "53b72a662c8e",
       "title": "LG 구광모, 美 ESS 배터리 거점 찾아 \"압도적 지위 구축\" 강조 | - 연합인포맥스",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WSEk1TkVaNXFMRVoyX080N3lMYlJLNVZnSUtvYkc5NTRDWV82aHRRTEFUQzd5OG85bnljY2dMTmNiSnlSRVFkZ2dZbW9xR0IzeVpTbVE2ZTBkS2g3cnlzMGV5Sm5JMWtDZkpuZnVVRkZmOVlt?oc=5",
       "source": "연합인포맥스",
       "pubDate": "2026-04-02T01:08:59+00:00",
       "description": "LG 구광모, 美 ESS 배터리 거점 찾아 \"압도적 지위 구축\" 강조 | 연합인포맥스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "426139361d95",
+      "title": "구광모 회장, ′AI 시대 전력 패권′ 정조준…ESS·′글로벌 사우스 거점′ 투트랙 승부수 - 메가경제",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZTU5yWGpEblYxaXBhNmFwclV2TVhHd1ZIaHhoQlAzRGpwNHNFTm9ja0RlS1hRbnY3aVNfVzdDTGxIUVlxbXVKZ3JQNU92YW0wTWd2QVgybHBmczB6dWs5REkwcEZ6MzVLRGFfNDJjRDR5QdIBckFVX3lxTE9ZTU5yWGpEblYxaXBhNmFwclV2TVhHd1ZIaHhoQlAzRGpwNHNFTm9ja0RlS1hRbnY3aVNfVzdDTGxIUVlxbXVKZ3JQNU92YW0wTWd2QVgybHBmczB6dWs5REkwcEZ6MzVLRGFfNDJjRDR5QQ?oc=5",
+      "source": "메가경제",
+      "pubDate": "2026-04-02T01:07:46+00:00",
+      "description": "구광모 회장, ′AI 시대 전력 패권′ 정조준…ESS·′글로벌 사우스 거점′ 투트랙 승부수 메가경제",
       "category": "ESS",
       "priority": false
     },
@@ -583,12 +1073,12 @@
       "priority": false
     },
     {
-      "id": "2f84a3d93564",
-      "title": "[강세 토픽] 폐배터리 테마, 엘앤에프 +15.88%, 코스모화학 +7.89% - 조선비즈 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNldOSjVCUE44U0gtMUlGUFFrbmVyZ1ppMFVrQi04NHdGUk1IaW45QkFWTS0zUGFDbmFWazB6ZDV3dEVqUVM5NTN3UFlYU3Q0OVRUX2RsWUN6UmQ5VXNPNFJMNzhpX0VoeTBrTGhDYUZVSVhNcU9BejFySTZVOHlIbnBmNNIBlwFBVV95cUxOQnNtVU9IRHdiamdSYWFPNm55dFVoLUc2V2lPckoxUFZLY1NaYlItMEZxSkVTaGZrYlh2cE9ZeTUyYVVKS2pfbUVLSmFpLS0ycWo2VWY5MERjYzJlQlZuZmR3cFVLM1J5NUpYcDM5MV9oX2NjNng3WG1yRG5nWFBEVHEzQU54Zmt6MGx2NTBZQ0s2b3BwaW93?oc=5",
+      "id": "747f68512f44",
+      "title": "구광모 LG 회장, 에너지·글로벌 사우스 기반 성장 전략 점검 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTVZXN1VseTJ6RExGRUZoR3hpWkVKN1FZUVUxVEo2aVh3X0VXRGc2V1Z1WG5JaWdxbjBPYXBLZHZjaFBaMkNYUzRPa3U0bDB3ZkRXZ291LUxTeWhLZEU1UFozWU5sbjAzMndsLXRRNnBYOF9iYVhwbWZRanBpV3RlcVR0amZpTnp1Q2xkUFNrTVhUbXJHcWFDdtIBmAFBVV95cUxNTVZXN1VseTJ6RExGRUZoR3hpWkVKN1FZUVUxVEo2aVh3X0VXRGc2V1Z1WG5JaWdxbjBPYXBLZHZjaFBaMkNYUzRPa3U0bDB3ZkRXZ291LUxTeWhLZEU1UFozWU5sbjAzMndsLXRRNnBYOF9iYVhwbWZRanBpV3RlcVR0amZpTnp1Q2xkUFNrTVhUbXJHcWFDdg?oc=5",
       "source": "Chosunbiz",
-      "pubDate": "2026-04-02T01:03:05+00:00",
-      "description": "[강세 토픽] 폐배터리 테마, 엘앤에프 +15.88%, 코스모화학 +7.89% - 조선비즈 Chosunbiz",
+      "pubDate": "2026-04-02T01:03:08+00:00",
+      "description": "구광모 LG 회장, 에너지·글로벌 사우스 기반 성장 전략 점검 - 조선비즈 Chosunbiz",
       "category": "ESS",
       "priority": false
     },
@@ -603,32 +1093,32 @@
       "priority": false
     },
     {
-      "id": "3974ae3b5ea1",
-      "title": "LG엔솔 美 거점 찾은 구광모 \"압도적 지위로 ESS 시장 선도해야\" - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVZ0pTR2p2NjgwQ21KaVh1NWpKbWUxOEhVTEQ0RXg5Y1laZEt0QldmOFczc2R3TURFNjlYUUVQb1RpSXJZblRPcE9nWmpxQmdiYlZR?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-02T01:02:00+00:00",
-      "description": "LG엔솔 美 거점 찾은 구광모 \"압도적 지위로 ESS 시장 선도해야\" 네이트",
+      "id": "269a3f6b8be5",
+      "title": "구광모 LG 회장 \"ESS 배터리 공급 넘어 통합 설루션 역량 높여야\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55SEZVWlpKT0VQT3Y2anQxbGZpNU5DY2hiUl85ZjFsX1lIcExtMW1Ic1hPRWloNVdoa1pxOGFmNnJMMVl4aEUzVkZsdUZIYmc?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "2026-04-02T01:01:32+00:00",
+      "description": "구광모 LG 회장 \"ESS 배터리 공급 넘어 통합 설루션 역량 높여야\" v.daum.net",
       "category": "ESS",
       "priority": false
     },
     {
-      "id": "0fb750cd2875",
-      "title": "구광모, 미국·브라질 현장 점검…\"ESS 사업, 압도적 지위 구축해야\" - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hM3RMWVliV0hrQXZqbjJqOXg1bUwtY014VmVMTm1TM1B5MVQ1Nl84U1JFRnQwZHVScENQTm5sRVZfOC10bmVlQmdqU1o1T2J0bXBR?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-02T01:01:00+00:00",
-      "description": "구광모, 미국·브라질 현장 점검…\"ESS 사업, 압도적 지위 구축해야\" 네이트",
+      "id": "6b5514821f9f",
+      "title": "[오늘의 DT인] 美 배터리 현장 찾은 구광모… “AI인프라 압도적 지위 구축” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LZlNUdEVyd2RWU0ZvLU9aekxYbldPdHVxeGJLWU1wMzJWYUZoODVqTk56MHFVdjBjWGZQSDNSUWpPZXlCSjdVMHVMcw?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "2026-04-02T01:01:27+00:00",
+      "description": "[오늘의 DT인] 美 배터리 현장 찾은 구광모… “AI인프라 압도적 지위 구축” v.daum.net",
       "category": "ESS",
       "priority": false
     },
     {
-      "id": "7f7971e507aa",
-      "title": "LG 구광모, 美 찍고 브라질행…'에너지·글로벌 사우스' 현장 점검 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QZjNoa3FqTkRvTWVydFJYYTVvZXhrV0VyLWMxcmFkNnA4TFZNeFZwcGdRbzEydHpVd2FDRlkyb1FmWElxdVdUWTNlamJFNVQ5R1R3?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-02T01:01:00+00:00",
-      "description": "LG 구광모, 美 찍고 브라질행…'에너지·글로벌 사우스' 현장 점검 네이트",
+      "id": "6152cb4f994c",
+      "title": "구광모, 미국·브라질 연쇄 점검...AI 에너지·글로벌 사우스 투트랙 강화 - 우먼타임스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJbUNOODhoZ3ZaRHhNa1BNbGNydGlIV3NHakcxVTB1V0Jab2lwYmpYN3NmUklfZ2hlWW5MR2hUakFER3dzWnFZazdsdjNWYUo2LTlhMklOSnU3TFJMOUE0X09VUWVudW5oaE9tOWJvd0c1U3hD0gF0QVVfeXFMUEltQ044OGhndlpEeE1rUE1sY3J0aUhXc0dqRzFVMHVXQlpvaXBialg3c2ZSSV9naGVZbkxHaFRqQURHd3NacVlrN2x2M1ZhSjYtOWEySU5KdTdMUkw5QTRfT1VRZW51bmhoT205Ym93RzVTeEM?oc=5",
+      "source": "우먼타임스",
+      "pubDate": "2026-04-02T01:00:38+00:00",
+      "description": "구광모, 미국·브라질 연쇄 점검...AI 에너지·글로벌 사우스 투트랙 강화 우먼타임스",
       "category": "ESS",
       "priority": false
     },
@@ -643,9 +1133,9 @@
       "priority": false
     },
     {
-      "id": "bf6d5cf4aa24",
+      "id": "eeff2e139e0e",
       "title": "美 찾은 구광모 “ESS 통합솔루션으로 AI 에너지 시장 주도” - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rQTVYaE9vZFU2SkpGM2VUaW5yS1ZWTDQ0Z0R0MVlUOHZtRFZCTzhwbFRWLWxtQTlVRjlvS0o2Q2doNDQ2MF8wV0JFVzNJc0NrOURZ0gFTQVVfeXFMTWtBNVhoT29kVTZKSkYzZVRpbnJLVlZMNDRnRHQxWVQ4dm1EVkJPOHBsVFYtbG1BOVVGOW9LSjZDZ2g0NDYwXzBXQkVXM0lzQ2s5RFk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqMVRfRzVGNUdFVjhLZ21vRnFVX2REa2lCa2YtcEpKR0UtZW01aTFvRXcyNmk2RHRhWmFSOS0tZ3l6dGpYazFkMU1sazhXQkk1NUHSAVNBVV95cUxNa0E1WGhPb2RVNkpKRjNlVGlucktWVkw0NGdEdDFZVDh2bURWQk84cGxUVi1sbUE5VUY5b0tKNkNnaDQ0NjBfMFdCRVczSXNDazlEWQ?oc=5",
       "source": "서울경제",
       "pubDate": "2026-04-02T01:00:02+00:00",
       "description": "美 찾은 구광모 “ESS 통합솔루션으로 AI 에너지 시장 주도” 서울경제",
@@ -664,21 +1154,11 @@
     },
     {
       "id": "2e8f11796517",
-      "title": "LG 구광모 미국 ESS 거점과 브라질 방문, '에너지 인프라' 주도권 강조 - 비즈니스포스트",
+      "title": "LG 회장 구광모 미국 ESS 거점과 브라질 방문, '에너지 인프라' 주도권 강조 - 비즈니스포스트",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fVEd4eC0wc1VOLXp6RVMxN215b1FtTjEybmFqLTVLTmY4emg2OFNNNEJ3NDRQckxEazZJZW1YYl9CNUlxTndDYm1SLTJXQ1NPd0ctTW1OZmNhWV9PajdZRkR2UEZzcWoxVDB6WGlwRWtiOTg?oc=5",
       "source": "비즈니스포스트",
       "pubDate": "2026-04-02T01:00:01+00:00",
-      "description": "LG 구광모 미국 ESS 거점과 브라질 방문, '에너지 인프라' 주도권 강조 비즈니스포스트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "508e28033998",
-      "title": "구광모 LG 회장 \"ESS 배터리 공급 넘어 통합 설루션 역량 높여야\" - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOdlpWQlRxMm95V211dzl2X3VFcElJY2poWjJJN0lLTG5hT2lXSUtaOU5DdGJ2YzBsWG9ESGp4UGpUQ2FGUnRWV0c0SGtqTldGMVlEV0lxQlpvTmpvUEg1cGhXUURiNVpzckE?oc=5",
-      "source": "뉴스1",
-      "pubDate": "2026-04-02T01:00:00+00:00",
-      "description": "구광모 LG 회장 \"ESS 배터리 공급 넘어 통합 설루션 역량 높여야\" 뉴스1",
+      "description": "LG 회장 구광모 미국 ESS 거점과 브라질 방문, '에너지 인프라' 주도권 강조 비즈니스포스트",
       "category": "ESS",
       "priority": false
     },
@@ -713,53 +1193,33 @@
       "priority": false
     },
     {
-      "id": "57c3d52a9526",
-      "title": "구광모 LG 대표, 美 ESS 사업 거점 버테크 찾아 AI시대 에너지 인프라 주도권 강조 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qSVRzZUZVYXNuNnQ0MDNQa2VKbTJqajVsdEg1dng1dU01alI2ZnNxdDQ4dzEzYml1cVI1OWJhSTBOWUVOUTFSSFFNNGRSREhxN1VHeFB3?oc=5",
-      "source": "매일경제",
+      "id": "fbf6e4d21ba2",
+      "title": "[Tech & Now] LG 구광모 \"ESS 배터리 압도적 지위 구축해야\" 등 - ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jTFQwUFJUOFQzRWg1aDhrUlcxM1AyWGphQl9ROTNsSWI5c24tRUNGTVVCU3h4VnBIQ2tUc2lUS21jNTl6NzVFOEFyVnl3V3VmSTFxUHJWaXpmaF9SMFBIR0pHVzlwdnlf?oc=5",
+      "source": "ebn.co.kr",
       "pubDate": "2026-04-02T01:00:00+00:00",
-      "description": "구광모 LG 대표, 美 ESS 사업 거점 버테크 찾아 AI시대 에너지 인프라 주도권 강조 매일경제",
+      "description": "[Tech & Now] LG 구광모 \"ESS 배터리 압도적 지위 구축해야\" 등 ebn.co.kr",
       "category": "ESS",
       "priority": false
     },
     {
-      "id": "fc5753ee5b55",
-      "title": "구광모 LG 회장, 美·브라질서 현장 경영···미래 성장 전략 점검 - 서울파이낸스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CNWEtN1IwRW5hcEFaeEpDZS10M1V0d1JOaEJvODRlemEtVmVfb3dTalpSUFR2LU1jZlpUT29ZQ1Z1a3BpOUwxZDZJczNhRnBJcVphMGs3SHR3TjYtNW5sbTNfNndaOTMyUEE?oc=5",
-      "source": "서울파이낸스",
+      "id": "8516a7efe3ed",
+      "title": "구광모, 미국서 AI시대 에너지 인프라 주도권 강조 - busan.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MYnRBcVd6SzA2eXd0VzJpS2Q1d1JRNUZGemowakpueHhyQno0elRmVy1rSmtfQXRmMGE2QmJYLTZxVkhYRzhIYkJXMHgwSG95ckltRHZtaFRSQkVMcEViQjU5amxHdjkzZV81WWFraURyMW5Y?oc=5",
+      "source": "busan.com",
       "pubDate": "2026-04-02T01:00:00+00:00",
-      "description": "구광모 LG 회장, 美·브라질서 현장 경영···미래 성장 전략 점검 서울파이낸스",
+      "description": "구광모, 미국서 AI시대 에너지 인프라 주도권 강조 busan.com",
       "category": "ESS",
       "priority": false
     },
     {
-      "id": "b35db0d2f681",
-      "title": "구광모 LG 회장, 에너지·글로벌 사우스 기반 성장 전략 점검 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOU9rMDZhTVRlMmJZLTg1QnU4NW9lbjdpU1NUTzBwbTlBX3Z2ZTNzbmZ5eE9OVm80S1JvMXlsbDNfWklvZm80UlcwUEhXcFVCcU9OdGwwVEVnRUl6d3JUck81V1BLckcyZ3k0NDhXMXY4b041dDFQRVVOVFlUMG1rUGZyR1hlSkJseUpPQ01xYlYwNWZjb2cySk10ZkFRWGt0TzlR0gGjAUFVX3lxTE45T2swNmFNVGUyYlktODVCdTg1b2VuN2lTU1RPMHBtOUFfdnZlM3NuZnl4T05WbzRLUm8xeWxsM19aSW9mbzRSVzBQSFdwVUJxT050bDBURWdFSXp3clRyTzVXUEtyRzJneTQ0OFcxdjhvTjV0MVBFVU5UWVQwbWtQZnJHWGVKQmx5Sk9DTXFiVjA1ZmNvZzJKTXRmQVFYa3RPOVE?oc=5",
-      "source": "조선일보",
-      "pubDate": "2026-04-02T01:00:00+00:00",
-      "description": "구광모 LG 회장, 에너지·글로벌 사우스 기반 성장 전략 점검 조선일보",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "923c81db89e3",
-      "title": "구광모 LG 회장, 美 ESS 거점 점검…“어떤 외부 환경에도 흔들리지 않아야” - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MQTJYMVlTS2piUGM2N2R4bVRsNWdzYzlIT1l0WWJGZ1B0UW1rcFlfNWpwSkdZNUVqWm9VRFpnb2UycmlwM1ZrcUtaRUJzMTRTMVdfSA?oc=5",
-      "source": "이투데이",
-      "pubDate": "2026-04-02T01:00:00+00:00",
-      "description": "구광모 LG 회장, 美 ESS 거점 점검…“어떤 외부 환경에도 흔들리지 않아야” 이투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "f1193820d709",
-      "title": "구광모 회장, ESS 사업 직접 챙겼다…AI 인프라 선점 '속도' - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hN0tvd3BBTkF6RUNfWjlMTkRMVEZLTWhyakNtWF91TGllWkpOSlpPZTE5eFl1dk84WGE5bGMwdm91eHNsdk1jenRocFhybXVTV0F1cElFSHEzaUhK?oc=5",
-      "source": "뉴스핌",
-      "pubDate": "2026-04-02T01:00:00+00:00",
-      "description": "구광모 회장, ESS 사업 직접 챙겼다…AI 인프라 선점 '속도' 뉴스핌",
-      "category": "ESS",
+      "id": "9830b69ca6b4",
+      "title": "한전, 데이터 신뢰 경영 가속화…'개인정보협의회' 출범 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVLVktUHVyV3lWVlZEY3haaTIteEhPS2hjZGZRQTEzMVk1b0V0YUJMWTRFVlg1RGNnM0MzNTNtWUZvSHgxM2N4UUVjQnVhMllTYUdXMTVYN1J4U0NkbXB1Q2FqZGxvSW5QZC1lUWxFUXVucFFPMEVKYtIBeEFVX3lxTFBVLVktUHVyV3lWVlZEY3haaTIteEhPS2hjZGZRQTEzMVk1b0V0YUJMWTRFVlg1RGNnM0MzNTNtWUZvSHgxM2N4UUVjQnVhMllTYUdXMTVYN1J4U0NkbXB1Q2FqZGxvSW5QZC1lUWxFUXVucFFPMEVKYg?oc=5",
+      "source": "뉴시스",
+      "pubDate": "2026-04-02T00:46:32+00:00",
+      "description": "한전, 데이터 신뢰 경영 가속화…'개인정보협의회' 출범 뉴시스",
+      "category": "AI",
       "priority": false
     },
     {
@@ -769,526 +1229,6 @@
       "source": "핀포인트뉴스",
       "pubDate": "2026-04-02T00:44:27+00:00",
       "description": "ESS부터 전기차까지… 글로벌 기업들이 서진시스템에 줄 서는 이유 핀포인트뉴스",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "000bcec1b1e1",
-      "title": "\"AI시대 ESS 필수\" 2차전지株 일제히 강세 [핫종목] - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56MWlvTWtlR0Q5YndIcmNSeWhFRWUtNG1vYm1pZzJneUhieGtDLUlfYlNZLVhKT2ZObDAwQTBZODk4ZDNkZUM5N216ZS1yMlRhWWZn?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-02T00:43:00+00:00",
-      "description": "\"AI시대 ESS 필수\" 2차전지株 일제히 강세 [핫종목] 네이트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "d28ee7b82478",
-      "title": "테슬라 유럽 판매량 반등에…2차전지주 동반강세 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qUFBocWI1amdxVVVxRTRDZm9JN3hIRV9HdDZ4LV9pQkFMSklVbjRsdDFrajVraExVSDc0UWkxS2lDVVVTVTBGc2VaZkoycjVXSEhyOdIBVEFVX3lxTE5qUFBocWI1amdxVVVxRTRDZm9JN3hIRV9HdDZ4LV9pQkFMSklVbjRsdDFrajVraExVSDc0UWkxS2lDVVVTVTBGc2VaZkoycjVXSEhyOQ?oc=5",
-      "source": "한국경제",
-      "pubDate": "2026-04-02T00:29:24+00:00",
-      "description": "테슬라 유럽 판매량 반등에…2차전지주 동반강세 한국경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "2ac759515f47",
-      "title": "삼성SDI, \"본격 실적 개선\" 증권가 긍정적 전망에 강세…4.5%↑ - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwN3hKZ1lkWmtYUElvWEVrNDVjaXR4UnRwWktYcFJXLWhjaXQxZ0Z4ekI0ZlRGRURjaUNoV0RSMXFCLUN5enhQbFpNZHRiQjNDLWZGald1SURJTEVoei1zZWFvZXFiTXg2bUJMczh3dFNOWUU?oc=5",
-      "source": "마켓인",
-      "pubDate": "2026-04-02T00:25:41+00:00",
-      "description": "삼성SDI, \"본격 실적 개선\" 증권가 긍정적 전망에 강세…4.5%↑ 마켓인",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "958911e5162b",
-      "title": "[강세 토픽] 2차전지 생산·판매 테마, 삼성SDI +5.21%, LG에너지솔루션 +2.95% - 조선비즈 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM19CV29jaTEyUkFZbEhkVXJCS3BYcXAzWTM2RU9TUFl5NTl3YnVSc0tlWTAwMnJZYlRGYVNhQ2RHb0l1aXAzYk5zcHFEbTRZczBoOWR6VUxxSGRKdU5oVHZxbzkxRkdiN0lpZVJwMWtRbzhGNURtZ1JhdjRYalZtU2VfN1ZTLTIteFhhRXZmZllQYkhXWS1N0gGXAUFVX3lxTFAzX0JXb2NpMTJSQVlsSGRVckJLcFhxcDNZMzZFT1NQWXk1OXdidVJzS2VZMDAyclliVEZhU2FDZEdvSXVpcDNiTnNwcURtNFlzMGg5ZHpVTHFIZEp1TmhUdnFvOTFGR2I3SWllUnAxa1FvOEY1RG1nUmF2NFhqVm1TZV83VlMtMi14WGFFdmZmWVBiSFdZLU0?oc=5",
-      "source": "Chosunbiz",
-      "pubDate": "2026-04-02T00:18:00+00:00",
-      "description": "[강세 토픽] 2차전지 생산·판매 테마, 삼성SDI +5.21%, LG에너지솔루션 +2.95% - 조선비즈 Chosunbiz",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "0972621b5892",
-      "title": "LG에너지솔루션, ESS 회복에도 EV 부진...1분기 실적 저점 - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hdzV4aFh0amhqTy0xZldIdEVYWlMwQTR3ZDFQd2N2ZWowd21QYjlTUGxnRnFFQVRSdk43c0I3QjNRSUYtdDNiMHJoWVgxR2ZZck1raU9GXy0wNHpOS2fSAW5BVV95cUxNM1ZmS0RsMERnaGV6YUNfZzBLSVFKeVJ2SlVaYllEaXV4M3dVczA3TGtSZE5FU3Y3bTE0VVFVMy1feUo1azY3aWtURWR6Tnh3TmZhTGhlNVhodGxDTFBfa0plZ2hUaXhGRmxGUWw1dw?oc=5",
-      "source": "알파경제",
-      "pubDate": "2026-04-01T23:43:24+00:00",
-      "description": "LG에너지솔루션, ESS 회복에도 EV 부진...1분기 실적 저점 알파경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "b51a12a0ab9d",
-      "title": "IBK투자증권, 삼성SDI 목표가↑…\"본격적 실적 개선세 전망\" - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVU3FOaGZVSXhhMjgyZW1RZEJNN1dDMUdzb0MzZ2JqY29xamw3LUduVzY1VkRrVnY2RERMWjN2U2FvSnpmSkNtODczdWpPdThpYnl1SjRQcjVuU1FDdTNZQ9IBYEFVX3lxTFBVU3FOaGZVSXhhMjgyZW1RZEJNN1dDMUdzb0MzZ2JqY29xamw3LUduVzY1VkRrVnY2RERMWjN2U2FvSnpmSkNtODczdWpPdThpYnl1SjRQcjVuU1FDdTNZQw?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "2026-04-01T23:31:43+00:00",
-      "description": "IBK투자증권, 삼성SDI 목표가↑…\"본격적 실적 개선세 전망\" 연합뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "79067cbcf3bc",
-      "title": "삼성SDI·SK온, 북미 JV 놓고 다른 전술…ESS 전환 '속도' - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsZFJjSV8wSkROUFVpSFNBclVWY0ZRblR0NFRORW5RWm5LS2FKSDA1RWRMM2dYMkU0dmo4RkpNb05MMkJNUG5MZmpGcG8yWjNGU0hVdkV2M0xfLVBENU82OXVUMUtVeGNicEEzM1VFalVXaDNUZnpTVQ?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-01T23:17:00+00:00",
-      "description": "삼성SDI·SK온, 북미 JV 놓고 다른 전술…ESS 전환 '속도' 네이트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "7300df8c128b",
-      "title": "\"삼성SDI, ESS 호황에 EV 회복도 기대돼…목표가↑\"-IBK - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02bVZJbWZ5MEVMVEZza2NnVVh6Y2JUMUVYUmtWZjNsNzNxQkMtSzJKMXR1YkZsM1NGelE1NGZEcXNNTWE4RTV4eUVGa0hvUHJ4RC16ZFpMWERMZlR4UXdKRw?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-01T23:06:00+00:00",
-      "description": "\"삼성SDI, ESS 호황에 EV 회복도 기대돼…목표가↑\"-IBK 네이트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "d1c179332e49",
-      "title": "AI·EV·ESS 삼각 수요 폭발···HBM 다음은 '전력반도체' - 서울파이낸스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93cjVGR3dvQUFjZE5JQzNPdmNDdlM5eEpOZ1ljVm4zSW5wMkRRTU1VM2M4ZTdZekh3ZjBWS21ZZzJ4NmhTQ3FyWVZ3R2JfbG1YVzJOVTJaaWtLYzRpaVpNOTdQVWs4WWhod2c?oc=5",
-      "source": "서울파이낸스",
-      "pubDate": "2026-04-01T23:00:00+00:00",
-      "description": "AI·EV·ESS 삼각 수요 폭발···HBM 다음은 '전력반도체' 서울파이낸스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "4dc99c76722a",
-      "title": "AI 시대의 귀환, 스리마일 아일랜드 2027년 재가동 박차 - 에너지안전신문",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuTW1oeTBfMFZiWUY0LVpTUzNFTlFRNDJLT3AzZmNDV2ZYQk5LaS1XMWExa25QbWlPMF8zcXBkbW01aGg0c000VXhlN0RBbTF4dThqSmkyZVdZZ0dSZE5ka2kwQUc?oc=5",
-      "source": "에너지안전신문",
-      "pubDate": "2026-04-01T22:59:53+00:00",
-      "description": "AI 시대의 귀환, 스리마일 아일랜드 2027년 재가동 박차 에너지안전신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "76e43eb65965",
-      "title": "▒종합 경제정보 미디어 - 이데일리IR▒ - ir.edaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RN3U4TXVvbHJfSWtZdkRRN2EtcGxWRDFzbkZaT0xQOFVNRHRqTVBsemk1VWlkSm5faDloWnlCTzBaUTVKT3p5dEpDYWQ5NEtuOGE4LXNPVUk0ZXdnLXI4MmtZaw?oc=5",
-      "source": "ir.edaily.co.kr",
-      "pubDate": "2026-04-01T22:46:23+00:00",
-      "description": "▒종합 경제정보 미디어 - 이데일리IR▒ ir.edaily.co.kr",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "24cc647e1e8c",
-      "title": "삼성SDI, ESS 장기 물량 확보·유럽 EV 회복 기대…목표가↑-IBK - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3N6aUx0Vm5xNEM2Nk94c0JlOWlZM0l3cExHZG1ydXRWVXhoSW5qRGFFdEhTUG4xaUVhSVIydzE3NlY4LW9pQ01RM1QzT0hnSWdOMnJqMV9xd2Q1V3dtaS1QY0oxakpOc2l1andoNEJmY0VvVlFZS1Q1M2kzaFRwSg?oc=5",
-      "source": "이데일리",
-      "pubDate": "2026-04-01T22:46:23+00:00",
-      "description": "삼성SDI, ESS 장기 물량 확보·유럽 EV 회복 기대…목표가↑-IBK 이데일리",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "3fdea2140b6e",
-      "title": "\"전기 없으면 AI도 없다\"… MS·셰브론, 텍사스에 10.5조 원 '에너지 요새' 구축 - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOGZWc1VQWFJMT0Zpd0tJOENISno3cm1uVVd1WjF3SnpwNWdGWEJKQm1CdlVfSF9pWmJ4dDdtNVM2VG9QeWx3MnpNdmFGZWFTMVdBUTFycHBKSW5hWl90aWl0Snc4VFZqRnlZS19kUGVmUjVCSVUxTFFFeW5ucEFDQnNaS0N4TkZ4?oc=5",
-      "source": "글로벌이코노믹",
-      "pubDate": "2026-04-01T22:35:58+00:00",
-      "description": "\"전기 없으면 AI도 없다\"… MS·셰브론, 텍사스에 10.5조 원 '에너지 요새' 구축 글로벌이코노믹",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "29059a73682d",
-      "title": "\"K배터리 또 따냈다\" 조 단위 계약 턱턱...이 회사 '음극재 뚝심' 통했다 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43bHc0OHJITjRXZmRLcXlhVU5xMlBKb1RwQ1dHOTJWRnB5RXppaWl2OGpDbDdOTWlHc19NNGViMGs1U3poUzdBNlUzRXJfVVJDZ2E5Q2tsMzAyN2ZmTDcwTVg4VWJCUU02eWNCRQ?oc=5",
-      "source": "머니투데이",
-      "pubDate": "2026-04-01T21:20:00+00:00",
-      "description": "\"K배터리 또 따냈다\" 조 단위 계약 턱턱...이 회사 '음극재 뚝심' 통했다 머니투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "5ea527b310ab",
-      "title": "에너지 안보 위기감 최고조…신규 원전ㆍSMR 건설 ‘속도’ - 대한경제",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EQlJpTk1PR2NCMFgxa3JtbXdqdUZ2cDVaYzV4M0RxaWdrdllZUFlNS0IxTDRFb0NxUkg0eWRLcEdlQXRRNjdRVjI1Z213VUlNN1RvajBuWTVRdDExbzg2VVd6N0YwVzI4X1FPNmtQcXdrR1FF?oc=5",
-      "source": "대한경제",
-      "pubDate": "2026-04-01T21:04:39+00:00",
-      "description": "에너지 안보 위기감 최고조…신규 원전ㆍSMR 건설 ‘속도’ 대한경제",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "b5b3f49a6b3a",
-      "title": "\"AI가 불당긴 전력 수요\"… 中 간펑리튬, ESS 시장 ‘폭발적 성장’ 자신감 - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTFkeWhVS2RjRWtoSjhkbGRJQ0tPUWVLcThORzNLeWRQUGRCb0VNV3ZJTjRvRWpZdXQtMTRIVUhuNkRWbXVWTmRfQ3RyTkdvSlMtSWR3b21SRXpNWXB4V2RhRnhBeHF3NmFmQ2ZTV1RSNGl5MFg4X3pNNmFCSkRoSmhTRVJzQlpI?oc=5",
-      "source": "글로벌이코노믹",
-      "pubDate": "2026-04-01T20:50:00+00:00",
-      "description": "\"AI가 불당긴 전력 수요\"… 中 간펑리튬, ESS 시장 ‘폭발적 성장’ 자신감 글로벌이코노믹",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "018bd6471cde",
-      "title": "기후·전쟁·AI 삼중고, 한국 '그린 에너지'로 질주하라 - 피렌체의 식탁",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QNXNSaXhRbnBRSzQ0VVlaY0o3dEJ6RjJjU0lnQTE2WFkxaTJUZHlmMnBraWJJZ3BZcHcyV0NjV0tFdlhuc0lMMU1jNFFQRzFBamVKQmlsMXBDYkYtU045LWdwa1ZwWlpHWXfSAW5BVV95cUxPdElfdnhqWExmRkFzdTM5T3czN1NoNFZ3RURueVRoZXEyOFBUUnJ5NkNjbU8yZkE5U1J1ZlVnQnNmOF9qRlphVlJfbE1VOHdLLUNwZEFnTWl1SUxfck9OWkR0aTR6ZzZSZWZMR21KUQ?oc=5",
-      "source": "피렌체의 식탁",
-      "pubDate": "2026-04-01T20:50:00+00:00",
-      "description": "기후·전쟁·AI 삼중고, 한국 '그린 에너지'로 질주하라 피렌체의 식탁",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "714c488f54e8",
-      "title": "이란 전쟁發 ‘에너지 쇼크’에 日 전력 선물 거래 사상 최고치… “보험용 매수 급증” - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX282ZlFSajZVdXRsMVZHSnFSd1VpUnZKdmFKdXFKUERlQTk0QlFvMDA1VE9HdWJjZ2NrYTB2UzdyRzdYSlJxNFEyS2J6dFY2Wm5KekR6YU84bmtJcHdwbW5kbEt5aE8yMnZGNENEWTB0NkdjcU5QVnhiV2x1d21icUYyeGoyclRH?oc=5",
-      "source": "글로벌이코노믹",
-      "pubDate": "2026-04-01T20:25:00+00:00",
-      "description": "이란 전쟁發 ‘에너지 쇼크’에 日 전력 선물 거래 사상 최고치… “보험용 매수 급증” 글로벌이코노믹",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "8d7a8904d141",
-      "title": "전기차를 넘어, 전 산업계로 확장되는 배터리 - 플라스틱코리아",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pcVZBX3p2VWw4OEtUb2FfcjVhT2NUUjg1cmllNTlqNDVfdV9lM3kyUzd3Q1UzV3Q3WDh2bFM5SExWTU95dWFwRU5IOFpJMndaMUpoQWpKREtxMkl5YThnRlpYcE40cEFfdllkY3c2QUtZVV9F0gF0QVVfeXFMTWlxVkFfenZVbDg4S1RvYV9yNWFPY1RSODVyaWU1OWo0NV91X2UzeTJTN3dDVTNXdDdYOHZsUzlITFZNT3l1YXBFTkg4Wkkyd1oxSmhBakpES3EySXlhOGdGWlhwTjRwQV92WWRjdzZBS1lVX0U?oc=5",
-      "source": "플라스틱코리아",
-      "pubDate": "2026-04-01T20:09:35+00:00",
-      "description": "전기차를 넘어, 전 산업계로 확장되는 배터리 플라스틱코리아",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "0ec54fe0d5af",
-      "title": "[아주초대석] 박광선 어플라이드 코리아 대표 韓·美 R&D 센터 통해 차세대 칩 상용화 기간 줄일 것 - 아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDSXF6b3ZnZ2lKUHZvQ0xHYllmYk03eG4tMTFrUmVXdEdWbzFFYVpnSkRfRDY4d3dka0FkQmltMzY0UEFIRkdFYlM1OVpha2c4Qk9HQk93ekrSAVhBVV95cUxQQ0lxem92Z2dpSlB2b0NMR2JZZmJNN3huLTExa1JlV3RHVm8xRWFaZ0pEX0Q2OHd3ZGtBZEJpbTM2NFBBSEZHRWJTNTlaYWtnOEJPR0JPd3pK?oc=5",
-      "source": "아주경제",
-      "pubDate": "2026-04-01T20:00:00+00:00",
-      "description": "[아주초대석] 박광선 어플라이드 코리아 대표 韓·美 R&D 센터 통해 차세대 칩 상용화 기간 줄일 것 아주경제",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "e5f9ba4b72b1",
-      "title": "“울산 부유식 해상풍력, 행정력-정치력-공급력-시민력 모아 성공시켜야” - 바른지역언론연대",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XaE9IUkdQejZWdnc0eDlWX1VLdUQ5WnpMRm1TT1RCaHNpT09VTWphZ0N4dGx2ZFJab0VxWE9NbVkzeFRVRnFVb2NQbXhYclhpRTFlNHJjZ1NVUi1TallOTml1a0owTjhGV2o0a9IBbEFVX3lxTE9XaE9IUkdQejZWdnc0eDlWX1VLdUQ5WnpMRm1TT1RCaHNpT09VTWphZ0N4dGx2ZFJab0VxWE9NbVkzeFRVRnFVb2NQbXhYclhpRTFlNHJjZ1NVUi1TallOTml1a0owTjhGV2o0aw?oc=5",
-      "source": "바른지역언론연대",
-      "pubDate": "2026-04-01T19:32:48+00:00",
-      "description": "“울산 부유식 해상풍력, 행정력-정치력-공급력-시민력 모아 성공시켜야” 바른지역언론연대",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "269466868fd4",
-      "title": "LS일렉트릭, “AI가 냉각까지 관리” 데이터센터 효율 혁신 - 테크데일리",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HTzVTejJqX1NOS0wwOGhHWHVJVGhRVVJHSWVZcWgzRGgtTUVhYjNWQXpzdnlvZGxTYVFRb2t3cjhwNnpIZlBhYkdzZ3B1OFprZXlVWHRoc1kwNWVuS2c1ZEhNWUZpY0kyTjF5cVFEZ2JmQdIBckFVX3lxTE1HTzVTejJqX1NOS0wwOGhHWHVJVGhRVVJHSWVZcWgzRGgtTUVhYjNWQXpzdnlvZGxTYVFRb2t3cjhwNnpIZlBhYkdzZ3B1OFprZXlVWHRoc1kwNWVuS2c1ZEhNWUZpY0kyTjF5cVFEZ2JmQQ?oc=5",
-      "source": "테크데일리",
-      "pubDate": "2026-04-01T19:13:55+00:00",
-      "description": "LS일렉트릭, “AI가 냉각까지 관리” 데이터센터 효율 혁신 테크데일리",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "bb206dfac706",
-      "title": "서부발전, 김포산단 中企 '에너지효율화' 업무 협약 - 컨슈머타임스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oYjF4MjROWWltd1JEbklPTmhvNG5BQmloVjVNZWQ0STlMT3hGUlpOSVppOEV6U2dSYVB3bHR6dGJpaG92YmRIZ3Bja09nUnJqbmRGRXRpaFpfak9hcEFkeHFYQ2ZJbmNyblE?oc=5",
-      "source": "컨슈머타임스",
-      "pubDate": "2026-04-01T17:57:27+00:00",
-      "description": "서부발전, 김포산단 中企 '에너지효율화' 업무 협약 컨슈머타임스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "3d06f654c75f",
-      "title": "무더위가 절정에 달하기도 전에 전력 소비량이 이미 10억 kWh를 넘어섰습니다. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFZiWHYyM2FWc3NYVEtnV1lRVTRUelJrcm16dDZjbGUyX0ZzYmZ4Z1lCelBIeXl4V2Rzb1F6VmhtbmFNcFpjMnYxUTdCZFhZeVhRQnFNSy1PSnFTbHJTZU5HNlRVaFFLU3FrTUVwUGNydE1MVlh3T0hlX2tvUWd1OE5YdG5maFNqdy1VSQ?oc=5",
-      "source": "Vietnam.vn",
-      "pubDate": "2026-04-01T15:44:46+00:00",
-      "description": "무더위가 절정에 달하기도 전에 전력 소비량이 이미 10억 kWh를 넘어섰습니다. Vietnam.vn",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "18d7f6124849",
-      "title": "풍력에너지 관련주, '덩실덩실' LS머트리얼즈·현대건설· 우리기술·SK오션플랜트... '눈물' SK이터닉스 - 현대경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ad3ZPSmZZTE5TTnJWLU9FRnNubGV4ZE1vRkZPS09sWFdBamhFS19CZ3lLcC1OcW5RNWVFNVVaRFk4TDBwWTZkNmxSM0dvbUYzZzZoYjZSNFNNNFJiRVFfMUVsYjVCaWZm0gFrQVVfeXFMTlBSMjN6ajZVYkwtdDdjUG5UV0c2MkMtdWRQR0F6aGJHd0EySWROZ1V4QkxrTEYzN3NGNjNONURVV3ZRaEdqVk40aTQtNnF6RVJVb1BFY3cwTUliOEZzaFR0WWFIRFJXTGgyOUk?oc=5",
-      "source": "현대경제신문",
-      "pubDate": "2026-04-01T15:16:00+00:00",
-      "description": "풍력에너지 관련주, '덩실덩실' LS머트리얼즈·현대건설· 우리기술·SK오션플랜트... '눈물' SK이터닉스 현대경제신문",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "9ee0447f0da8",
-      "title": "“물류·저장시설도 세제·보조금 지원 대상에 포함돼야” - 경상일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BdWlUT3BwaFJwSjA0emFpRHZtZkVTcnl0RHdkZ2FhNGliX3FpVkFDMTZHWnZsTS1vcFNLNUJzZi1YUEZ4Zl9vYkUyeG0yU25MWDJVSzA1Qzl1SEhBQWdkcm5QdXRvaWxWblVMUA?oc=5",
-      "source": "경상일보",
-      "pubDate": "2026-04-01T15:00:02+00:00",
-      "description": "“물류·저장시설도 세제·보조금 지원 대상에 포함돼야” 경상일보",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "1fe64ff3102d",
-      "title": "남동발전, 중소기업 '무탄소 업전환' 지원 결실…신사업 매출 75억 달성 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRNzZpd1AyQkh5SGpkN0o1NEh6WWFveU1mR19STHkzUG41eWN6UndvS1BIblVPcTBTQVQ1NTJDUnRhaUFZdU9kcW1Yd1NTNS1fbFBn?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-01T13:12:00+00:00",
-      "description": "남동발전, 중소기업 '무탄소 업전환' 지원 결실…신사업 매출 75억 달성 네이트",
-      "category": "제도개선",
-      "priority": false
-    },
-    {
-      "id": "9881ed0fc299",
-      "title": "셰브론, 마이크로소프트 전력 거래에 UBS ’매수’ 등급 재확인 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MMEViNmRDMVh5dS02NEpyc3dQWjhwZTJtVEtLbkpwWE1jbVVZbVE2VzA4Qkd3Nk5jN0VwcmxxSC1FcTRtVkNNaUVFUlBWV0gyWUxadFBCQXpEa3Joc2xLS3AzNkhndUgwQmliQk9YUnhhMmFD?oc=5",
-      "source": "Investing.com 한국어",
-      "pubDate": "2026-04-01T12:35:00+00:00",
-      "description": "셰브론, 마이크로소프트 전력 거래에 UBS ’매수’ 등급 재확인 Investing.com 한국어",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "1f32757f98d7",
-      "title": "코오롱글로벌, 풍력 민간 가상전력구매계약 개시 - 서울파이낸스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80QjViTDlZLTlLTklwQWZZUC1tU3lBd1dCdlV1M0hmbGFnZElHY3hNX3R2SGV5TGxidTd4NDgtWUwxQWYyQjB4SERVMmctTEJzQVFfU1F5b0tKeDJRa3lIckFvSTE3Zi1PcWc?oc=5",
-      "source": "서울파이낸스",
-      "pubDate": "2026-04-01T11:35:26+00:00",
-      "description": "코오롱글로벌, 풍력 민간 가상전력구매계약 개시 서울파이낸스",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "903cfa01f2b0",
-      "title": "[특별기고] 계절·시간대별 전기요금 개편, 산업현장의 새로운 비용절감 기회 - 대구신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oUnB3akxGbEZLUnlRZm1zUFBocV9qNDc0anNaUzNuZkJBa2d1aE9FZ1BCLTFNS0lFRzQ4OUNsTDdDTVJWTlV0RmkxWHJqeWRRcHlMLVBtUEtNcFdqbGdZTEcySUhsUG84bU04?oc=5",
-      "source": "대구신문",
-      "pubDate": "2026-04-01T11:10:30+00:00",
-      "description": "[특별기고] 계절·시간대별 전기요금 개편, 산업현장의 새로운 비용절감 기회 대구신문",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "61323c0217c1",
-      "title": "[브리프] GS건설 현대산업개발 두산건설 코오롱글로벌 동부건설 쌍용건설 HUG LH - 비즈트리뷴",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xYmV0TnlUSzJTSzF5SjdxbDExTmRoOUo1N09Ha2ltcHNENDVCTmZQM1FmYXVwTXotZnFaWWZpSWZYT3pQcUxUZG1rZktTR0t0OFVpRU51ZGJkN2lyck15T1NmSl9wNU1lQlVsbWxtaWc?oc=5",
-      "source": "비즈트리뷴",
-      "pubDate": "2026-04-01T10:48:23+00:00",
-      "description": "[브리프] GS건설 현대산업개발 두산건설 코오롱글로벌 동부건설 쌍용건설 HUG LH 비즈트리뷴",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "388845617c5b",
-      "title": "[마감분석] 대한전선, 역대급 수주 기대감에 12%대 급등 마감 : 금융 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JTDVzTGV5S1F4TWU2bjgxZzh1MmtGOERYZjl4SDVTcEp0b3NRZVNRSHlWTmFTN2hWY1hnRzN6RjZ6d2I5bWE0SkVB?oc=5",
-      "source": "재경일보",
-      "pubDate": "2026-04-01T10:09:00+00:00",
-      "description": "[마감분석] 대한전선, 역대급 수주 기대감에 12%대 급등 마감 : 금융 재경일보",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "6983143c749c",
-      "title": "화웨이, 2025 글로벌 베스트 프랙티스 어워드 수상 - issuetoday.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYYTMtSGZRa2E0a3BQWHJfU1lsWWZFLU1JaDlWSEZiMGVnV2JNRVFYVDNrcWVEM3dFeDU2a2NlNjZNVVBqc3RYLUhQR3lBTF8zVzBJN3dpbUxOb2tCbWVUUTlxcnl6UQ?oc=5",
-      "source": "issuetoday.co.kr",
-      "pubDate": "2026-04-01T10:01:58+00:00",
-      "description": "화웨이, 2025 글로벌 베스트 프랙티스 어워드 수상 issuetoday.co.kr",
-      "category": "VPP",
-      "priority": false
-    },
-    {
-      "id": "17b4acd24b5c",
-      "title": "광운대, 켄텍과 인공태양·전력반도체 등 국가전략기술 R&D 선점 '맞손' - 뉴데일리 경제",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Wemkzb1dvVmhTRFdkU3FTM2VtbXlqLWRzR0hoSTVYRXBPWHJ5UDVpNWtEUE4yUVRfQi13Sk03SkJ1RS05RUk4MHZ6ZC1Kd2ZvbVVLa1VMM3QwTFFuM29xTTRaZG9LUlBja1YtRGl3SnEyTGVIdHlyWTZqcw?oc=5",
-      "source": "뉴데일리 경제",
-      "pubDate": "2026-04-01T09:32:42+00:00",
-      "description": "광운대, 켄텍과 인공태양·전력반도체 등 국가전략기술 R&D 선점 '맞손' 뉴데일리 경제",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "027b692b2afb",
-      "title": "AI 공조로 데이터센터 전력 25% 절감 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55QTl5dmMtdnM5MU5ra3BYX09Udk11YUxJYkNpVEhNYnktZl9Mek5mTUhzWEYwTWFCdDdUc19yMEFxeU5zREpodW5udWFJVk1TNkQ0?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-01T09:22:00+00:00",
-      "description": "AI 공조로 데이터센터 전력 25% 절감 네이트",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "8653c07e289c",
-      "title": "[마감분석] HD현대일렉트릭, 전력 설비 수요 폭증 속 8%대 급등 마감 : 금융 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlbkdodTI2dFBVRlplMFhrMG1HUmRmTDB5NDQtVDFQaXQ1S2pKTzNSTjZvMXNDVFo0c3ZmeTVaakVLeFllRnB1SUtR?oc=5",
-      "source": "재경일보",
-      "pubDate": "2026-04-01T09:16:00+00:00",
-      "description": "[마감분석] HD현대일렉트릭, 전력 설비 수요 폭증 속 8%대 급등 마감 : 금융 재경일보",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "db789134d960",
-      "title": "전력설비 관련주, '어깨춤 으쓱으쓱' 대한전선·대원전선·보성파워텍·광명전기 - 현대경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEU0ZFMTE5bjY3c3VncF9Ea1FKMnJNRGF5aW9YWXJkYlhPc2JyY2p4c0MwX1AtU0NzQ1ppV2tEaWNpWWJFN0N3bWYxZ1E1UHpSdWJyXzBrX3d5THNOWGNqSFM2SV9XZjTSAWtBVV95cUxPVmxoX3RIX1RCNTMzdV9Ib0xoUEtXVGduc0I0bTllZ2o5WldRWS1RRzVEdDdCa01FbVNyOTgtUTBrLVFfbjBIQlg2N19UbDhzRlUtWGN5QmJBVDNKd0N5b1BRN3VOd0t0UDFLcw?oc=5",
-      "source": "현대경제신문",
-      "pubDate": "2026-04-01T09:15:00+00:00",
-      "description": "전력설비 관련주, '어깨춤 으쓱으쓱' 대한전선·대원전선·보성파워텍·광명전기 현대경제신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "7cea52189c3a",
-      "title": "[마감분석] 한국전력, 베트남 원전 협력 소식에 견조한 상승세 기록 : 금융 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBBdDAtVzNNaDM0MktkMUFROW1kNWRjWXA0UXpRemprZmxxekZBNFktbm1BaXFCNUw2cWN3SU0zSFJ1TUUyRE5ZdW13?oc=5",
-      "source": "재경일보",
-      "pubDate": "2026-04-01T09:07:00+00:00",
-      "description": "[마감분석] 한국전력, 베트남 원전 협력 소식에 견조한 상승세 기록 : 금융 재경일보",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "b6eb94b9530a",
-      "title": "AI 시대, 유틸리티 주식의 반전 매력 - 환경감시일보",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6c3JBMU9MRTlMcVcyZjh5dWt4LVNQdkg4NFlmYlJqM3BBb0tjQWFpTGtOcEdRdms2eG5SbnNmai02eHVBaFFQNzhDOHV6REk?oc=5",
-      "source": "환경감시일보",
-      "pubDate": "2026-04-01T08:15:16+00:00",
-      "description": "AI 시대, 유틸리티 주식의 반전 매력 환경감시일보",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "0233b94f86c5",
-      "title": "삼성전자, 英 콘월 1500세대 신도시에 히트펌프·에너지관리 솔루션 공급 - 디일렉",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5teGVvLTlSVUpGUWc0Z19VclNreUh5dUN6RTJoNzhja1dzaDBzcm1ScVQ5LUdRQmI5R2JYVk5oaER6QlBsSDBMQUIwY1J0V2R1RTR6T3VkYzRtQlNVV1B3RDdvODVfdw?oc=5",
-      "source": "디일렉",
-      "pubDate": "2026-04-01T08:02:16+00:00",
-      "description": "삼성전자, 英 콘월 1500세대 신도시에 히트펌프·에너지관리 솔루션 공급 디일렉",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "ee2a9b722b99",
-      "title": "보릿고개 넘는 배터리업계…EV 의존 줄이고 ESS·LFP 확대 - 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KYWJQenVuZlB6dko0N1Q4NTBLa095SVl6Ynl1WElHTG96aGx5R0RfbmNQeVkxTmNoUFZWcTY3aUZEN3R4U1YxS2ZYQ1R0dw?oc=5",
-      "source": "전자신문",
-      "pubDate": "2026-04-01T08:00:00+00:00",
-      "description": "보릿고개 넘는 배터리업계…EV 의존 줄이고 ESS·LFP 확대 전자신문",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "44ab94181e4b",
-      "title": "전기차 배터리 이력관리 도입…전력장비 수요 급증 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mY1BXRmdCcDFsemVudzBrQnhxc0l5U2pXbmpqdnhwaEdpZzk1ZkVsbWlJd0RkenczNVF0TEFXWkhKREVkTjJMQzZySjdQR0k1WWJR?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-01T07:56:00+00:00",
-      "description": "전기차 배터리 이력관리 도입…전력장비 수요 급증 네이트",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "8d7c5a16a537",
-      "title": "코오롱글로벌, 국내 최초 풍력 민간 간접 구매 기반 전력 공급 개시 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RYjFSQzNRT3hzNUMwdmJpZThJRkRsRktuQUxQVXVIV0RXeDladGg3M01mZjcwZTZmc19zblVUeXU3eTJOSXo4bjBLZUJMVXB4aDFJ?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-01T07:48:00+00:00",
-      "description": "코오롱글로벌, 국내 최초 풍력 민간 간접 구매 기반 전력 공급 개시 네이트",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "029e3813a2ec",
-      "title": "전기차 주행거리 2배 늘리는 차세대 리튬금속전지 - 동아사이언스",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yTE5HdXY0ckRsbXNjR2hDdFFGenJ2Yl9sVFJSdnV0SHA2bVItRlE0Rk9hNTNFb0ZfOTE1QWRxN2hCOTBIcFpQWnlnRWkyTzQyWFRrZA?oc=5",
-      "source": "동아사이언스",
-      "pubDate": "2026-04-01T07:47:00+00:00",
-      "description": "전기차 주행거리 2배 늘리는 차세대 리튬금속전지 동아사이언스",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "ba99ebbe8cde",
-      "title": "\"태양광 넘어 풍력으로\"…코오롱글로벌, 국내 첫 풍력 V.PPA 결실 - 비욘드포스트",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lNDJPRXdOM2pGM2RGSklBeFVub2g2U29SVnFKOWtZYmdBWVRwZXFFTlVraTFuOEhmTjY4Tk5ZSnhrdW9hYlhyR0tNdk9mMVVTbDk5eU9VZDJIa2pRTFQtQlZPZHJWZm1FTmJjbUQ2dTNYQktsb0VvaVVR?oc=5",
-      "source": "비욘드포스트",
-      "pubDate": "2026-04-01T07:41:00+00:00",
-      "description": "\"태양광 넘어 풍력으로\"…코오롱글로벌, 국내 첫 풍력 V.PPA 결실 비욘드포스트",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "bd6392a60fcf",
-      "title": "코오롱글로벌, 강원 태백 풍력 전기로 국내 첫 민간 직거래 개시 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUQUF2MVhVNHM3TGlyTlNmeEdCVzRpZkliNGVzcmQyMm1TWW1lc0lxQ2ExMHdOWW1pNVhGTGlTNnlWdGdlcnptYjE1ZVhLYnpINndR?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-01T07:11:00+00:00",
-      "description": "코오롱글로벌, 강원 태백 풍력 전기로 국내 첫 민간 직거래 개시 네이트",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "3037465bfe9d",
-      "title": "[일렉 스타] 모나, '연료전지+배터리'로 발전 시스템 만든다 - 디일렉",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zWm9OSGZJQTM4VlN1Q05nbFdETDJhbmJya3FjWm1xVUl6aE9RZnd4NGlvazJJVzNJTTFTdDMtdGJTOFU3TVR4OUxpaG9kU1FXNVJtQVI0X3dCclJ1R2xjS0hBRWJiZw?oc=5",
-      "source": "디일렉",
-      "pubDate": "2026-04-01T07:07:18+00:00",
-      "description": "[일렉 스타] 모나, '연료전지+배터리'로 발전 시스템 만든다 디일렉",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "e277dcf3604d",
-      "title": "한전기술, '용인 데이터센터 전력설비 설계용역' 계약체결 - 데일리안",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNVE1ZZE4tYllqYTFoWDMxcHI1MGRtUk5vMUZGdUh3WlZma1RBajd3Z1Y3OWhKVUtCb0poY0RoVGVvMy1BeDlXWjItSS13Ym43dXk5RU9IdGJTTlBfTHUxNVFReXlqLUtuYVRzYnpZV0hxRVRtQy1CS0hpOEp6RGkwNEZsSmZUaTlEM0tZc1ViZVUxQW1jUHBjZDdrY3pjYzFYRjg5ZlY5T2I0RjJ2ZDBsS1pOT2lKUTFGbTE2cUFRLU1qajN6T2p0cUI4ZGw2ZmUzclhIbVBQSElmVVNPelF3R01LakNoY3lsOW1WcUNpdXhVbE00Y2RLUW5pcENvdGNWQjdNRXk0NlVnSVBWNG52dERtSUZ5OXJ4RmdvcVdha05WNGZvdlHSAaYCQVVfeXFMTVRNWWROLWJZamExaFgzMXByNTBkbVJObzFGRnVId1pWZmtUQWo3d2dWNzloSlVLQm9KaGNEaFRlbzMtQXg5V1oyLUktd2JuN3V5OUVPSHRiU05QX0x1MTVRUXl5ai1LbmFUc2J6WVdIcUVUbUMtQktIaThKekRpMDRGbEpmVGk5RDNLWXNVYmVVMUFtY1BwY2Q3a2N6Y2MxWEY4OWZWOU9iNEYydmQwbEtaTk9pSlExRm0xNnFBUS1Namozek9qdHFCOGRsNmZlM3JYSG1QUEhJZlVTT3pRd0dNS2pDaGN5bDltVnFDaXV4VWxNNGNkS1FuaXBDb3RjVkI3TUV5NDZVZ0lQVjRudnREbUlGeTlyeEZnb3FXYWtOVjRmb3ZR?oc=5",
-      "source": "데일리안",
-      "pubDate": "2026-04-01T06:56:00+00:00",
-      "description": "한전기술, '용인 데이터센터 전력설비 설계용역' 계약체결 데일리안",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "6a221d8dcdc2",
-      "title": "[건설사리포트]GS건설, 액체수소 저장 국책과제 주관 선정·코오롱글로벌, 풍력 민간 V.PPA 본격 개시 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wVERIaFhfUTUwTDFyRzlXOFgzQTUzM2tJODlESjhEdVdMOHo2TWpCV2pGTFRBY2tBOFY5RkpOalhRaUlCTTdWM0lVb3RuOEhzaHRV?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-01T06:53:00+00:00",
-      "description": "[건설사리포트]GS건설, 액체수소 저장 국책과제 주관 선정·코오롱글로벌, 풍력 민간 V.PPA 본격 개시 네이트",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "eb44e83dc33b",
-      "title": "“SMR 키우려면 전력시장 손봐야”···‘탈한전’ 촉진론 부상 - 이뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBONGpjRnpoV3lMbnVtOUliQlFiYV9KSGhtVHE3V2xtVE5jd0NZeFZVZXhWYmNfa1JCcHJSMjNhZnlTeTVzVHc5UENoeE95eTVzVmdsRWVGTG1iRHp2eWVUeUVkcktpZ2N4bVNtRlRrYjhqWlpt0gF0QVVfeXFMUE40amNGemhXeUxudW05SWJCUWJhX0pIaG1UcTdXbG1UTmN3Q1l4VlVleFZiY19rUkJwclIyM2FmeVN5NXNUdzlQQ2h4T3l5NXNWZ2xFZUZMbWJEenZ5ZVR5RWRyS2lnY3htU21GVGtiOGpaWm0?oc=5",
-      "source": "이뉴스투데이",
-      "pubDate": "2026-04-01T06:22:54+00:00",
-      "description": "“SMR 키우려면 전력시장 손봐야”···‘탈한전’ 촉진론 부상 이뉴스투데이",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "ef46f775d054",
-      "title": "코오롱글로벌, 태백 하사미 풍력발전단지 전력 거래 개시 - 한국아이닷컴",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jTXYtSUtoeks3ODNwdzRkclZ1ak1SdGtPTWJNWTR0VzNZSDIteW1vSXF0SjZ1RGJLMklwNVU2VlF0c2xCc3ZBZmNueURLOEtNR2N1bVRYS3ZzUVQwTFBlcmlxcG1BMGt1eXBraF9MWdIBb0FVX3lxTE9jTXYtSUtoeks3ODNwdzRkclZ1ak1SdGtPTWJNWTR0VzNZSDIteW1vSXF0SjZ1RGJLMklwNVU2VlF0c2xCc3ZBZmNueURLOEtNR2N1bVRYS3ZzUVQwTFBlcmlxcG1BMGt1eXBraF9MWQ?oc=5",
-      "source": "한국아이닷컴",
-      "pubDate": "2026-04-01T06:07:34+00:00",
-      "description": "코오롱글로벌, 태백 하사미 풍력발전단지 전력 거래 개시 한국아이닷컴",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "c247fea5ee9f",
-      "title": "코오롱글로벌, 풍력 통한 국내 첫 민간 전력거래 시작 | - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Hc1JSN2s4R01rSVdFMG1sWFBmYkR6Q1U1QlRaSmo2bzVkdUhjaUFYYWhLbWJpVVdPZjA0YUZjbUo2QVNoczhyYjhsTl9WMWlIT1VXMFlpS3daMk5vTnd6Tm9nQnMxNG1Xa0RWZGEwZWZKcjdP?oc=5",
-      "source": "연합인포맥스",
-      "pubDate": "2026-04-01T06:07:33+00:00",
-      "description": "코오롱글로벌, 풍력 통한 국내 첫 민간 전력거래 시작 | 연합인포맥스",
       "category": "전력시장",
       "priority": false
     }
