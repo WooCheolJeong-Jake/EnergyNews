@@ -1,11 +1,171 @@
 {
-  "lastUpdated": "2026-04-12T08:21:36.220764+09:00",
-  "totalCount": 23,
+  "lastUpdated": "2026-04-12T15:18:32.023662+09:00",
+  "totalCount": 25,
   "articles": [
     {
-      "id": "e9aeae674ab2",
+      "id": "9f7e5e69d153",
+      "title": "솔루스첨단소재, ESS·OLED 드라이브 본격화…\"2분기 실적 변곡점\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0WS1NNTFWTXBqejV0RzZxWldDZDJDRG1lRHFTaWlxc29NQkNfWk00R1Atd1NpZ0hGZHJsQWVPY1FpQndyc1NpMnJpTVNuQ2JTNWhn?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-12T06:01:00+00:00",
+      "description": "솔루스첨단소재, ESS·OLED 드라이브 본격화…\"2분기 실적 변곡점\" 네이트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "94dfaa8288f5",
+      "title": "전쟁에 AI 전력 폭증에…산업연 \"재생에너지 즉각 전환 어려워\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JOUVWNVpvaUpiQXZVQXcwSzhXQkVlNTZub3o1Nm9nRFlVRE5WUzNPaHVkdGdKaHFyejVyRlp6cFZxSWZvcnhTX0NzNGFuR2MtM2x3?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-12T05:58:00+00:00",
+      "description": "전쟁에 AI 전력 폭증에…산업연 \"재생에너지 즉각 전환 어려워\" 네이트",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "2f84801a0755",
+      "title": "백만 개의 AI 위성이 지구의 에너지 공급을 과부하 상태로 만들 위험이 있다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc0d1RTllZkx6MllnNDdSMEFjZjF5cHJFUTJoa0F5SzNmMFI0Tm9BUFpTZGptZVE0MFlLLWxOX1Z1NUd0ckVjMzlPRjBUckRvLUlHYUllNUU3RXM0N0VENG1Ib0hsTGdXZ1NMbnA5UDByMEd6c0RPYUV2NWxlcjhKMlp4TnN3UQ?oc=5",
+      "source": "Vietnam.vn",
+      "pubDate": "2026-04-12T05:48:20+00:00",
+      "description": "백만 개의 AI 위성이 지구의 에너지 공급을 과부하 상태로 만들 위험이 있다. Vietnam.vn",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "6435874f553f",
+      "title": "K배터리 점유율 15%까지 밀렸다…북미 전기차 의존 부메랑 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RRWZPRU50R2lXM0NZcVVCamdPZllEd0M2d1A1RThQaG8tRGk2bHRhZmhBS3Z4R05oaERfTW5NaHp1RGkzeFBCQWx5elh1YjdaRjhr?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-12T05:14:00+00:00",
+      "description": "K배터리 점유율 15%까지 밀렸다…북미 전기차 의존 부메랑 네이트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "68387f6cc1b5",
+      "title": "하반기에 풀가동…삼아알미늄, 배터리 반등 신호탄 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tcU9XbDhrWXMzTUxaTDRtZzRhOHkxWFJKRzFRWUpDeS1KbklWakZRUW91c2tWLWRCOEFsNXRVU1VaOU9FdFo3eGdKNTNpNW5rSVVReG1yY0x2VmJCU1ZieGxFSEtGcnNIVUFnWkh2YWdfeTjSAXdBVV95cUxONWM3b21wYVBlUV93MVZIVklDX1pLUl90MXRTY1hHNTBlS2V5UjREbXFqNFBSSHVlNTZnSm5vbE0tUUhONVFQVHpsOE45UTNxMzN0M1o4M2JMMnRxSVJiUmRfa2poVE9GQmVNeTk3RzVQT19XUWdpMA?oc=5",
+      "source": "핀포인트뉴스",
+      "pubDate": "2026-04-12T04:20:54+00:00",
+      "description": "하반기에 풀가동…삼아알미늄, 배터리 반등 신호탄 핀포인트뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "fe023eee5f28",
+      "title": "LG에너지솔루션, 북미 ESS 선점 효과 본격화…실적 개선 기대 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJNXY0V0lXUFNCcnFfRG9qaDRMX09hd3NWMFJYdzFFTFFjOFE1WEl2Z1J6eUFiX1ZGVkNIWnQ0V2dDU2d3aGJiRjlXOGpCVk1MeUlnNmI0MUdqS19hOC1j?oc=5",
+      "source": "메트로신문",
+      "pubDate": "2026-04-12T04:05:37+00:00",
+      "description": "LG에너지솔루션, 북미 ESS 선점 효과 본격화…실적 개선 기대 메트로신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "bd9eb3bc0510",
+      "title": "중동 전쟁으로 재생에너지 주목받지만…\"즉각적 전환은 어려워\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qSkZIQ2hSYk5BSUZrYk1POGxKaUhUS3A0bUdOLUNlbjkxQVBMbF9FV1BoOWwzQUNad3VwQ2prdC1DS2U4N1lobkRoT0E5WTNQUUM5M1dvdDlVOVBkdUt2WNIBYEFVX3lxTE5qSkZIQ2hSYk5BSUZrYk1POGxKaUhUS3A0bUdOLUNlbjkxQVBMbF9FV1BoOWwzQUNad3VwQ2prdC1DS2U4N1lobkRoT0E5WTNQUUM5M1dvdDlVOVBkdUt2WA?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "2026-04-12T02:39:25+00:00",
+      "description": "중동 전쟁으로 재생에너지 주목받지만…\"즉각적 전환은 어려워\" 연합뉴스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "640555a383ae",
+      "title": "중동전쟁으로 재생에너지 '급부상'…\"구조적 제약 극복해야\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mS1lIUHRnTVJnS1R1NUxBdUhWRUpCeVNObE5teUFFOTdScFd1UlJ4RVJWNGI2dXQ3ellOeFJCS1lLSEM3RFlsUDZRNHUxb1lBSl9MUENqOUd5Z1M5RGtZeGkzOXZXU19SV1FPZVV2YnAyS0x2QjRCTA?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-12T02:02:00+00:00",
+      "description": "중동전쟁으로 재생에너지 '급부상'…\"구조적 제약 극복해야\" 네이트",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "79c28af76a9a",
+      "title": "\"재생에너지 전환 필요성 커졌지만 전환 속도 구조적 한계\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QRDU5LXJWSC0wRXI1VGxpbWlpLVR6bDRuMzJhb1lDQmRyRG5kY2ZoVXk0QmhIUlF0Vjc5X1NBZDlDM3pKc1M5Y2p2dkg2SGhmTXZidk12NjRFQ3k1anRoXzJSajVGWUlyOThReXZ1dkFFX2VSaFFLYw?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-12T02:01:00+00:00",
+      "description": "\"재생에너지 전환 필요성 커졌지만 전환 속도 구조적 한계\" 네이트",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "767c83602637",
+      "title": "중동 위기, 재생에너지 전환 불 지폈지만…구조적 제약 여전 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IMmZYWm5GcXpGY3NRbmdaTHliUUJ6R20xLWROd0dHcEpKaTJncFFMWWJYRGkxREJHczdPaVRCbWFETk85MmtQdkRiTWdVSVhsbXNxQzFn?oc=5",
+      "source": "지디넷코리아",
+      "pubDate": "2026-04-12T02:00:01+00:00",
+      "description": "중동 위기, 재생에너지 전환 불 지폈지만…구조적 제약 여전 지디넷코리아",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "fd1a31733f15",
+      "title": "유가 폭등에 재생에너지가 해답?…KIET, “AI 전력난·비용 한계부터 풀어야” - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52Sl85dmlfZ3JJY3RWdmFhWWdyOWh1bVl2VTlyY21BTW4wamRNaGh5dUE2Tmxmc2ZmTWpvdW1xU0RrRXB6bkczSDcxZUI3UQ?oc=5",
+      "source": "전자신문",
+      "pubDate": "2026-04-12T02:00:00+00:00",
+      "description": "유가 폭등에 재생에너지가 해답?…KIET, “AI 전력난·비용 한계부터 풀어야” 전자신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "7156d1477b32",
+      "title": "중동 위기 속 떠오른 재생에너지···\"고비용·광물 병목에 즉각 전환 한계\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oTGV0NVhjbnJtZGZiOGRsQnByVHhqczBUdTFKLXl0ODNnQldFVW9vV1NTSWt6bHVlc3BtN3M1SkJyWTFQcUtjWlZpV01GZWwtR2hN?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-12T02:00:00+00:00",
+      "description": "중동 위기 속 떠오른 재생에너지···\"고비용·광물 병목에 즉각 전환 한계\" 네이트",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "d679c4f13f57",
+      "title": "[기획]전력 인프라, 또 다른 안보…국산화 과제 부상 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5waTBoNE1xV2xiTnRZMld5aFJrcEppU0RZaHhubVRVS0F1c1k3c2xUR0E5c1BQeUo1T1ZpOFFfeWxZUlNEYzF6aGJzbjUtX3Y1Z2d2RzNTbERsME9pdi13U2VmWQ?oc=5",
+      "source": "매일일보",
+      "pubDate": "2026-04-12T01:33:44+00:00",
+      "description": "[기획]전력 인프라, 또 다른 안보…국산화 과제 부상 매일일보",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "0b021388e74a",
+      "title": "[기획]중동 쇼크로 드러난 韓 에너지 취약성 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBNzJqSy1yU0pCRERhbVF1YnZ3QXBxbGFkazAtRVBCaGgwamFjT09zQU5xMEpBZkZCTjBxTDd4TmVMZUk3TDN0dmZXTmlpbC1QZDQ0d0VPQ2M1czBlVm9QVG5SNA?oc=5",
+      "source": "매일일보",
+      "pubDate": "2026-04-12T01:32:09+00:00",
+      "description": "[기획]중동 쇼크로 드러난 韓 에너지 취약성 매일일보",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "e8b0ad48c285",
+      "title": "AI 전력난에 ‘탄소중립’ 접은 빅테크… 가스발전에 16조 배팅, K-전력기기 ‘역대급 수혜’ - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmY3NUZuNHVPcTVyR3FaaDNBREgxZ0pXYWFvTXduY1pXR1hzMnU3aHhHTldnallod1FhN0dlLTcyMjBNRDlnZTVpMXUxYlp5MTI5czJXdkl0NUxKVldIYTlFVmd6WE92V2twajdvT2E2c3hlYm83N2ZmYWM5cnI2NVI2bm9xcW5G?oc=5",
+      "source": "글로벌이코노믹",
+      "pubDate": "2026-04-12T00:36:36+00:00",
+      "description": "AI 전력난에 ‘탄소중립’ 접은 빅테크… 가스발전에 16조 배팅, K-전력기기 ‘역대급 수혜’ 글로벌이코노믹",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "75d4f2ef22dc",
+      "title": "지역별 차등 전기요금제, 中企에 약인가 독인가 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JWXpCMndYd3JxTjdRd0s2TFFSQ3NQa0lkWkZzLXd2WnhmOEJOMzVLYXo2MW1RS0NFa0xOM1h0SndzOGd0Mno2dUsxZlF3cnFycFBsSlY0VVlJSkZ2WGZMdm1FajU?oc=5",
+      "source": "매일일보",
+      "pubDate": "2026-04-12T00:33:58+00:00",
+      "description": "지역별 차등 전기요금제, 中企에 약인가 독인가 매일일보",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "0bbe62d270fd",
       "title": "어두운 1분기 실적 전망…`상저하고` 노리는 K-배터리 - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWXzFiTk1kNnJaVnNLWURiR04xQi1GNWpDaExfSnBrcC1Zc09QNHNqRWlqV1FkNXZtbXZ6Vi03RUUwVDQ4SlZVcjJfMHlKZ1ctcm1yczlQVHBoQnNCcHhnT0pn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yTm5IVnBWOF82M05HekFveXRmSkRjQU5wQWlaeWpucVY1OGpQdWRVb1hWQWVZWXo1MHk2enRTc25YVTFuV0swOERMdEctVURteGUyNmxpZkc5RXlXNVJXWEcxU00?oc=5",
       "source": "디지털데일리",
       "pubDate": "2026-04-11T23:17:36+00:00",
       "description": "어두운 1분기 실적 전망…`상저하고` 노리는 K-배터리 디지털데일리",
@@ -13,19 +173,9 @@
       "priority": false
     },
     {
-      "id": "7af4576ac91a",
-      "title": "'30년 무충전' 원자력 배터리 떴다… 삼성·SK HBM 전력 대란 '게임 체인저' 가능성은? - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2xkbndfeUpGQlJkWnNOR2VfQWw1N2FMUk0tS29xOEJFVTUtTUo1VjJwZ1JxOWxLcHBvdnZGVVJPY1RuMUJLU3hsdEhaaTJDc1gwXzVqcHYwSWdMQmljWFhobmpzSFEzRlRIVE5ZOW9hRVNfUW1Cc0VMQVhicENjTk10bi1jWGFf?oc=5",
-      "source": "글로벌이코노믹",
-      "pubDate": "2026-04-11T22:21:28+00:00",
-      "description": "'30년 무충전' 원자력 배터리 떴다… 삼성·SK HBM 전력 대란 '게임 체인저' 가능성은? 글로벌이코노믹",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "6008f60636b5",
+      "id": "8b228f3b1f3e",
       "title": "배터리 3사 1분기 '동반 적자'…ESS로 하반기 반등 노린다 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5obHF0T3JteFZmbXgybTJrbFQybXcydEZpSmlpSEJWOW1OYldfSmVCMXRJdl81TURwcERoTEg4Ri1NZENnanhQQnlXclhmOUJ6d2VaSWdaT2s3SVM1Y3hUdWZfYUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80eklDY2lFSS1iazdTSzdqeXo5X05iT1FESy1uajRGQzZ4QWVJalZjek5oN09tcG03NHZBNmlLTVVFMlVLV25nYnFURFdrLXRMcks2WjJmd0xOeWo5UjJ3ZHhfMHVFMFd5SHc?oc=5",
       "source": "뉴스1",
       "pubDate": "2026-04-11T22:07:00+00:00",
       "description": "배터리 3사 1분기 '동반 적자'…ESS로 하반기 반등 노린다 뉴스1",
@@ -33,23 +183,33 @@
       "priority": false
     },
     {
-      "id": "694b36d5dff2",
+      "id": "83e564d0d0d1",
       "title": "전기차 수요는 테슬라 쏠림, ESS는 걸음마… 적자 늪 못 빠져나오는 배터리 3사 - 조선비즈 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN0lBenVYUGlhTkRFd201ckRiOGVHV0s4WV9yTDBWdkJpcjNjY0hmX0FERmhKdkY1TnQ1dXd2V0ZDSzRZdjA1VUdxX0ZmaEVqM2FWbGMzT2Z4aGV3WU9rWXR0VWZtdFhhdDk5b2dTNVF6aUVxNWZyUlp5OHY2VEtBUHYxTEdsQkR3UHNGT0ZHVy1KQVo4NnpsWNIBmAFBVV95cUxPN0lBenVYUGlhTkRFd201ckRiOGVHV0s4WV9yTDBWdkJpcjNjY0hmX0FERmhKdkY1TnQ1dXd2V0ZDSzRZdjA1VUdxX0ZmaEVqM2FWbGMzT2Z4aGV3WU9rWXR0VWZtdFhhdDk5b2dTNVF6aUVxNWZyUlp5OHY2VEtBUHYxTEdsQkR3UHNGT0ZHVy1KQVo4NnpsWA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUWg3MmdKN3BhTEczWVotSmplN1c5MWtIZkp0dXFrUTNtVy1sejJRX1lLcjFLMVNFS0x0enFOZ1BCVWJWUjVDa3pkQmVxZTFJYjhHNW1ld0pkdnh4bXBOdE03d0puRGNrY1NPdXl6akNLLW5nRVM5SWNFMktoNEF6RWpnYlHSAZgBQVVfeXFMTzdJQXp1WFBpYU5ERXdtNXJEYjhlR1dLOFlfckwwVnZCaXIzY2NIZl9BREZoSnZGNU50NXV3dldGQ0s0WXYwNVVHcV9GZmhFajNhVmxjM09meGhld1lPa1l0dFVmbXRYYXQ5OW9nUzVRemlFcTVmclJaeTh2NlRLQVB2MUxHbEJEd1BzRk9GR1ctSkFaODZ6bFg?oc=5",
       "source": "Chosunbiz",
-      "pubDate": "2026-04-11T21:00:00+00:00",
+      "pubDate": "2026-04-11T21:02:08+00:00",
       "description": "전기차 수요는 테슬라 쏠림, ESS는 걸음마… 적자 늪 못 빠져나오는 배터리 3사 - 조선비즈 Chosunbiz",
       "category": "ESS",
       "priority": false
     },
     {
       "id": "cffef6c40e28",
-      "title": "日 전력 소매업계 ‘공급 중단’ 도미노… 이란 전쟁발 에너지값 폭등에 패닉 - 글로벌이코노믹",
+      "title": "日, 전력 소매업계 ‘공급 중단’ 도미노… 이란 전쟁발 에너지값 폭등에 패닉 - 글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ21pMnRLblBmNVozak5oY3huX2JPUkRqdGpTM2Q3N3VTT2lsOUFHN0xsb3pkTktMZlA5dm5yM0sxbHdpekRoYkZncGEyVHhzNmxyUU85SUFwOEtuYWs1X1NCbHRFUVdjQXRSY01MWmFuUlFrWF9fUDFkNXFtMnI3MG5LNTZ6dlVV?oc=5",
       "source": "글로벌이코노믹",
       "pubDate": "2026-04-11T20:35:00+00:00",
-      "description": "日 전력 소매업계 ‘공급 중단’ 도미노… 이란 전쟁발 에너지값 폭등에 패닉 글로벌이코노믹",
+      "description": "日, 전력 소매업계 ‘공급 중단’ 도미노… 이란 전쟁발 에너지값 폭등에 패닉 글로벌이코노믹",
       "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "5985c895485d",
+      "title": "소프트뱅크 `SB에너지`, 오픈AI와 초대형 데이터센터 `스타게이트` 구축 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMi_wZBVV95cUxQMVRyd3BiV2tpMTN0TTE3eTBBSnNRSTZZMzZfaklOWEdrSVUyNXpkRGIzMjVqdk1PUzRkeV9CMWhDS0M2WEp1bDVoWHlHenM3VHByOXgyR1FPdWJ6UlhkaEltckFLRTlRM2xobVU2bVlwcDhldWNlQlpUbVYxZUd4eTJaV2JRcDNIajFQaGVMcnFBWll1b0hSUlBlTFJ2ZDEzWUtOREhVdG5pU2doQmF4c3NpcUg0OF9ielFQc29ZWWtCQmROc01uV290ZmgxaVVaNkFrSWkxcXdWbktDbTI1NVQ2SXY4bjFqclh6ZFRFRHlJSDNCMUFXTkxhal9YRGJ3ZVFYN1NZU0xmVVVqWGJTMkNSblEwQUZTTV9WanFjSHprbk1nODZaeFFHMWgwT1Bxd1paTENmOEVtTUxrenE5TVY4VVI1VW92eW42WnNrcm9ITC1UZXFMQm9tVHlGWVV5bmR2SFFPa1FNb0E3OFM0OUNTOEMzWUFRdUJieEVCWnJMRzRZMEhnRTdTNnFOWnVSXy10OGprTDA5SFJfRGpYMWdMNWp5UTdfeEdLQ3VrSk9TbUpwYkFJNVEzbm9aOVQxaS01cEc1bmFSSWxFT2FYQzYxeWdNRTlzMnJ0ck5fUG1IbmZjTl9TQkZQSjVaSHItOVIzN2dWV2ZJMUZQc005X0Z3ZGl0Y3lCcXkzaS1paTdBdEdkNUdSRGtPYW0zRVdiVlJicGEyalBNV1FzREJpRFRTM2NVelYtSkY3dXVmZTVoOVFIYWxpci1qZ0tMcjN3TzIydE1qWEQ5YUZValo2cWk2cm5jel9OUnBrRnNfN1ZYTk9zYlYzOUFIamJNS01CZzlkVTRjNGt1YnQxUWt5UmJ2RC1EYzc0QXhVdFAwYUxPekxlMWtfU2FRaFlYbTR3WUtpUFVRRy0xSlNEcDZhamJhVndkUktwS3pMbDZJSWxRSnFQVW5uUk00bWNQOGdmNkYzZmNKcElZVEVsUFN2RlJsSmthbWcwN05Jem5iTWE5UnFiOV9nNmY4eEdOVWt4dWRqR1RPbUFvN3lVV3EtcWtRNDJTVzJ0cTVYOC15b2J0SThCUzlaa3REQXFOMjNPNE1WQUtCaDU4N1BhUi1MTGZGTGI1MWEwVEpGQzRod1RROS1UWjZxWWdhWlVWMVZrMTlOc0QyT2JnRklOc2Nj?oc=5",
+      "source": "디지털데일리",
+      "pubDate": "2026-04-11T18:51:20+00:00",
+      "description": "소프트뱅크 `SB에너지`, 오픈AI와 초대형 데이터센터 `스타게이트` 구축 디지털데일리",
+      "category": "AI",
       "priority": false
     },
     {
@@ -73,13 +233,13 @@
       "priority": false
     },
     {
-      "id": "5053c388d6a8",
-      "title": "\"채굴기 끄고 AI 가동\"...수익 10배 차이에 업계 줄도산 시작 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5IaEE3MXllTWowRTdJb2o4S2dBblo3TFNrMDRvYXo0RENPVko5ck50c0tUZzNXTFFJVUh6Q0k1VzJRbDhHYjc4ZjRn?oc=5",
-      "source": "코인리더스",
-      "pubDate": "2026-04-11T08:00:00+00:00",
-      "description": "\"채굴기 끄고 AI 가동\"...수익 10배 차이에 업계 줄도산 시작 코인리더스",
-      "category": "AI",
+      "id": "cbc28d61a94f",
+      "title": "21시간 거래: LNG 리스크 증가로 유럽, 에너지 거래 시간 확대 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YNjFibDJqaWR0TEFpVkFtSmRUV24wTGx3NWM1SVZFclJaODFiaThaNXZGZllLbktmVzVGLUFrMS02YWVqWlVydmxzaHpzWEszOC1WYkNmcUhUVm1vTU5FOHYtaFJGRFBBQTMzcmNfQlc?oc=5",
+      "source": "Investing.com 한국어",
+      "pubDate": "2026-04-11T09:14:00+00:00",
+      "description": "21시간 거래: LNG 리스크 증가로 유럽, 에너지 거래 시간 확대 Investing.com 한국어",
+      "category": "전력시장",
       "priority": false
     },
     {
@@ -90,146 +250,6 @@
       "pubDate": "2026-04-11T07:04:15+00:00",
       "description": "제주지사 경선 ‘해상풍력 100조 공약’ 충돌… 수익구조 공방 격화 전국매일신문",
       "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "caca3d87b98c",
-      "title": "KI-Gigafactories: Die verschwiegene Rechnung – Wie der Ausbau von Hyperscalern in den USA und China die Ressourcen belasten - Xpert.Digital - Konrad Wolfenstein",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd0N6WDVIVFhjOHBScVlISnpiQm1JVzZ6c0VWdTRWRHRoRk9Eb090cHN4MnBDS0VSY1hMcWw1ZmtUX0V6c2MxNW84QjI2NjN5OWt5ZU1Eb0lycTBrbTQtSXlhekJkdU5lM0dqZVBhUjZEZ0dLZDU2WXRnbFRhOENzaEpJUnhzMGphRmhr0gGTAUFVX3lxTE1YWnR0UTUxZE5oZEE4eXl2R0kwbkdMYWY1emphRXJmTHMtQlpaMW12UTRUdzZhbzFiNkF3RmJzcklxdHl0aXM4a3BEZWVQcGt0ZHhZRF8wV0NyeXFodHc4SVZpc0h4dE1XaHBMSkxNVnJfdzAyX3ZvT0ZlNXE5V1ZZZkh4aGJ6bmVSSjRLRFo4SjVPVQ?oc=5",
-      "source": "Xpert.Digital - Konrad Wolfenstein",
-      "pubDate": "2026-04-11T05:55:24+00:00",
-      "description": "KI-Gigafactories: Die verschwiegene Rechnung – Wie der Ausbau von Hyperscalern in den USA und China die Ressourcen belasten Xpert.Digital - Konrad Wolfenstein",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "8ea520cdd5f0",
-      "title": "[팩트체크] 위성곤 ‘100조 해상풍력’ 공약… 실현 가능한가? - 뉴스N제주",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHSFh6Z1NtZEhzY2ktbkN3djlxWl9ReUQyemNTTnY1c255X2RxMXk0bTZyMVJmdnFlWkJWcWdMaFV0dHU0UWJncXFOaUpRVFE4eTl4Uk9NNWVIR3VIeUZsc0VoajJiZ0Rra21oNA?oc=5",
-      "source": "뉴스N제주",
-      "pubDate": "2026-04-11T05:45:00+00:00",
-      "description": "[팩트체크] 위성곤 ‘100조 해상풍력’ 공약… 실현 가능한가? 뉴스N제주",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "586e18f458a3",
-      "title": "삼성SDI, 5개 분기 연속 적자…작년 4Q 적자 폭은 축소 - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMimwdBVV95cUxNeEZzbUluT1c3MzFxZDE1ampaTWQtdk43dVVaQmFONVFNN08xTzFlMXVtYWs5a1hyOEpXTlJXTmxxNzFWTmlPeTlobDQzVUEycVVHQ21YZGdXbmNvU0NFUktUd2ZXVlVOaXN6X1RmMjBGSTg3TkRuRWpCZXNoQWlPTjFTSTFPT3JWTjNaN28tMElxTEw0MXdzbjVaOUhDUjZkRHo3QlNrdVRRSmVfRHJYNEtTdHA0WnNmVFFOWlFmRl81WTZDdWgyc0FzSk8teEVGaWt0WTFOSjU3b3NEQzZxN283RVM0UXRCWmd4aEZNN2pRMWNVS3JPUFZMRkxXU3Myak9INzZXTnV1UkxYa1drVHZEZ3RtSzhCX1JWdFB6Z0pjTGQwb3ZibUNYM3FpYkNWUnVjNEdrTDNQVUV5Z21vYWV0R3ZiWjIxQk00c2RCa1N3Q3g2eEMwMUxMY1lJYjB5Y0hGUG1KaHF4eS1MWUQ4VVY3eE9JczJMT2xSMVJEcHN5My1SZTMwdldhVEJaUVBqaGxaTHMzTk80aVk5SWVUcDVHUjI5TXhyR0loM21VMVlxT3VvaXdKMTFCT1hpYWN6aDRkZTY3amFlYi01VWplY1BFRFRINmw2c1RfeW40MzhJZDdDcmpYRENQR3djZUVJZjhRcG10bXA1WU1Vc05idUZqTkZXM0R3cTNpQnZ6bnlsVmdmNUxXaGViVHJZVTk2Z1RDc3lwak5OelV5Z2RTWjNJQlJIWDZsVlhuUE1aQ2tXcERqeFJHSU44aDBRU0U1X1BwUDVEY0d2Q3p3ZjYzMUhlY3pzWHpZYlVPbzdoeHB5OGRsOG5uSDlSVm9KNjJ4NS1DTTh1MlBBUk5HZ3k4cTRhY2NiNnRmSTlPQlVWR2NjRUpxc1lndnJGb2pKUk13VGt4RDVaRG5YRzhEY2ZQWEtHS2s1d0wteEJCclZlSzFEY0pnWHE3VmN4U1RESGhOV2gwdVFVSVMyaGR3Ti1zQ0Eyci1nQlVPVWEyanNEUWpReUp5eTBiRDU5bkhSeXYtMU5YSjlULWhoWE5NallhajdBSnN6ejBZNDhVdVI1NFhlREdzbDFxNFd2azBzVzBWemtGSW9EZndTYVVGbllyMWtDUXUzQWlVXzJidmFLQU1RRWNBYXRsQXBPTUdaZFZoeDVJMFpFTTF2S09EQnpLLTNoVTNUbTRiN0dmNmtsdDcyaVhPdk42WU93MA?oc=5",
-      "source": "디지털데일리",
-      "pubDate": "2026-04-11T05:37:08+00:00",
-      "description": "삼성SDI, 5개 분기 연속 적자…작년 4Q 적자 폭은 축소 디지털데일리",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "c22f4bdfbe97",
-      "title": "Stargate UK scheitert an den Stromkosten? OpenAI stoppt britisches KI-Mega-Projekt und flüchtet nach Norwegen - Xpert.Digital - Konrad Wolfenstein",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcnhWQXFodUpzQVBVbnZkWWxzeG54SWtLR3ZmUUphbHljVG9TdzFJbUxCR3FHcmo1UUlSU210YTNKRTdSWDlwOHJVS1R2WUl0b2RCOUJ4UldVcl8zMjBkRnZlNnVNLVFra3Z3UzR5MmtxckxjeGNZVjQtTE9WemNpaE9RZkgtcTU4VVBaY1dleFVQdDIxdFRsVDEwS094RXhCQTFOU2FFcGZLdXZEekYyZ1BlU09YN3cwSXQ0bGNNLV9tUHltVzBUedIB0AFBVV95cUxQWkhuWE9MTW04VFVIZERQbzgydDVsNEhST0FvNXB3RFZnRG1yazY0aXQ5V2QzZzBmbDBRcDNpcElWZ1JCTC1NWXdpMzdyekV0Y19XWTFaTE5KZExYRTdJTjdBMGtyT05abHpoeWIzT0xCQlk5bDViSm5VWHhPMGJ4a1UybXlLejNkSEhrQXRkVm15dUs4c1Y4dUlja0VRQ0JwQ0ROVHJwSFIzYVg1bkhRRzZ2MzNoSDJ1dkNoTmZKN0haWGRLMGctRVNKeUhVRVY5?oc=5",
-      "source": "Xpert.Digital - Konrad Wolfenstein",
-      "pubDate": "2026-04-11T05:20:26+00:00",
-      "description": "Stargate UK scheitert an den Stromkosten? OpenAI stoppt britisches KI-Mega-Projekt und flüchtet nach Norwegen Xpert.Digital - Konrad Wolfenstein",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "e033159f9c8c",
-      "title": "위성곤 해상풍력 100조 공약…문대림 측 \"수익구조 검증 안 됐다\" - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51OHM2aHYxVGFvLTFRS25XZGpCRmxuZnQ5ZU41amJuZWN2T0F3SERHcGFUcTJyZDFLVTRqRjhkb1h5SGJGU05XZ21HdmMtbndzTUpZ?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-11T03:58:00+00:00",
-      "description": "위성곤 해상풍력 100조 공약…문대림 측 \"수익구조 검증 안 됐다\" 네이트",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "f2d625106773",
-      "title": "초지능·SMR ‘국가전략자산’ 선포…대한민국 산업지형 대전환 신호탄 - ainews1.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DNVRGZC13MFMwNjNfUk5sR0VWUVhlODcxV2Z3WkJLZ3pjaGpOTEppd1pLR1pMUWhmbThGWHp5MUp2cUpvOXB5Y1FmRHpqRldWcWZuUEpnZ2R2WmRzbmx5cGd1M0FqOUUwNTg4?oc=5",
-      "source": "ainews1.co.kr",
-      "pubDate": "2026-04-11T03:37:06+00:00",
-      "description": "초지능·SMR ‘국가전략자산’ 선포…대한민국 산업지형 대전환 신호탄 ainews1.co.kr",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "5dedb9f5d1ed",
-      "title": "전력망·고객·안전 ‘AI 전면 적용’…한전, 업무혁신 본격 시동 - 전기신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NYTBUdUFZaUcwajFnU213bWZaak0zT2xEcmprZ3lnVFVESGR2cU5oSmN6LUhOV3hLVVpFNHMteDFJbkFTTUVmeFJsd1NKVEx2TDNiWVNTbFZCVXNDOEowLXV1dU9jQXF5Wld1c9IBcEFVX3lxTE9GU1F2LUJFSnpjMjlPcHJBcXFGZk9vOWJpd3dVNzdHQ3dfeVFYOS11OW1QRzYzem5EVXo2R0R5VUcxemdfQUc1LUZWbUJEczhVU0FCVS1rTkN5WFdrRXE2MWhDMXdyQTJ0SERlVXh5MDc?oc=5",
-      "source": "전기신문",
-      "pubDate": "2026-04-11T03:00:00+00:00",
-      "description": "전력망·고객·안전 ‘AI 전면 적용’…한전, 업무혁신 본격 시동 전기신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "21da76e5b072",
-      "title": "한전KDN, KAIST와 AI 기반 에너지 혁신모델 개발 및 글로벌 시장 선점 협력 추진 - 전국시민의소리",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YeFFUSGd3V0R4U2FYbDVJX1VkVDF0a0tLM0ZBZGMzckJLdmMzTklHME9FZ1lrVFVnMGpnNjg0NC0wR0JpUEkxRndrSmRqX2Y2dHVmUlR4RFVwMlFVLWlocDdjckNFaVBOdGVBQl9B?oc=5",
-      "source": "전국시민의소리",
-      "pubDate": "2026-04-11T02:50:32+00:00",
-      "description": "한전KDN, KAIST와 AI 기반 에너지 혁신모델 개발 및 글로벌 시장 선점 협력 추진 전국시민의소리",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "d8c175d31661",
-      "title": "AI 데이터 센터, 에너지 위기에 직면하여 획기적인 초전도체 기술로 전환 - ekhbary.com",
-      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxQbkxJOUw3SUFrYTgzX18wY2FvUENiMUx1dUZlUktWUk9rVXNRNE91U2lHT0xobmRTVHBFZk5sdk92aGRsZzhxZ3BoWnNKSUdMbXRFbmF2MVZqSE82dFpRaDhwX3NQb2VzX1RjTndFVkNLcTVNMW05YjExWTVRaWQtSWNPZTM2dm5aN0hWYk9nbTR6cUNFUURhck9mQlQyNGFpZTVocGZ5TWVMZTAzSVNKT0RucWx0TzZybjNuNmNNb2pTbWd6RGxLRVpSNV96ajlteXhXSWRkZzlIRjN6a2Q1YkQyUWU4NE5PUDhVbGtrSWtGRmVaOXdYUGlMX21MRWRaWk5la0xfSDJNOXF5aG5nQVAzb1g4N21KYmYyQkNTdnZ3bG9WNHRjYjIwX3pkM2dNTVctM1NKRUpEWjZzMjgyOGJMNGNnRW9SN202eGUzVzlMcUhZSGxvemVVd3I4cTk2d1lfc0huOE5yMFZUMzFVdFJDTk5FRHI2eUpzSkJxRG0xbGxGZVZOOFh4Z0thVWNPT0FOVUw1OVFPRHB3UXFSdTlXdGczUk1RMHZqMXVHNFZlRGZja2pKQVBZOHE?oc=5",
-      "source": "ekhbary.com",
-      "pubDate": "2026-04-11T02:46:24+00:00",
-      "description": "AI 데이터 센터, 에너지 위기에 직면하여 획기적인 초전도체 기술로 전환 ekhbary.com",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "d77e41cde460",
-      "title": "AI 데이터 센터의 더럽고 디스토피아적인 세계: 숨겨진 비용 - ekhbary.com",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQODlOTW5nTS1tblNHajQtMVM0aFJoN25VRmctcjZBa2lEcDFuRmxCYlNkWW5hZTRyT2pwU0F3ZXlaOTAtWElCVTYzZXkwYzFkMERaR1lTTzJsbzY5dDgzTXFmbUR6UnE3cXduanNDWW9Xd2sxVVUzV01iV2MzbjJnaHNfMGtxaGF4Q1dHTzBMcE9sOGtpUVRNWUwtaDF5OThVaWhmY0JtUzNJWVFxSFFvSjBwYXE5ZEd6c2tkbjRoYTJYeEVCX05EeFJyWkVWVTBfS1FaUnM3bjVId244VEtBZjVmQ1Y3Zk1YdFBuVWlkeUdhYzFBMXBoamtPZjZvWi16U2NYNXpaeHZZUXRSRDN4a0lQajdiMUlYclczNUZHMExJeVFPSDlNM1h3Y0xTSUtWVnptR052c3AzLWlfX19CMnl2dXFLcjRfSGZ2LTBHWEJfZ1MwRmEtVHUzVnBwTklYbXA1Ni04WldBdVNDd0RFU0I1ekhkRnpidDQyX0ln?oc=5",
-      "source": "ekhbary.com",
-      "pubDate": "2026-04-11T01:34:45+00:00",
-      "description": "AI 데이터 센터의 더럽고 디스토피아적인 세계: 숨겨진 비용 ekhbary.com",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "9bec60fc0439",
-      "title": "비스트라의 40억 달러 부채 리파이낸싱이 비스트라(VST) 투자자에게 중요할까요? - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWV3dEU4bFBBcmNjcm5HaWVXb05FaHFGNjRLRWlwcXlUeC1reXhQUTc5d1lBOWdfNVBLVzliOWpPWlowSFo4djQ4blRZUjZSNVlQWXU3RWlKYUN5NDBIZTI4WTd0SF81cEVoSlJRcjEwVkc4MURzN3FsUERvc2h6Q1RiUzNLaXZ2WTlzZ2sxRdIBjwFBVV95cUxQdWV3dEU4bFBBcmNjcm5HaWVXb05FaHFGNjRLRWlwcXlUeC1reXhQUTc5d1lBOWdfNVBLVzliOWpPWlowSFo4djQ4blRZUjZSNVlQWXU3RWlKYUN5NDBIZTI4WTd0SF81cEVoSlJRcjEwVkc4MURzN3FsUERvc2h6Q1RiUzNLaXZ2WTlzZ2sxRQ?oc=5",
-      "source": "simplywall.st",
-      "pubDate": "2026-04-11T01:30:17+00:00",
-      "description": "비스트라의 40억 달러 부채 리파이낸싱이 비스트라(VST) 투자자에게 중요할까요? simplywall.st",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "3b1324f91e14",
-      "title": "‘데이터 센터’ 막으려 총질까지…“전기료-소음 못 참아”[딥다이브] - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoVVhfYjZfWVhxc3o1dzAwZGJJZVUyaXpuNU5hVmo4TXpybGNyQzBJeFJ4NHk2QWFoTE5kTlIyeldsNFo2Y1UzWEVzbnpWX2QyVUNRdlpDLUdDWmNQZkNfLUhkczdTTmRRc09iR18zUTBQNGU5MmfSAWZBVV95cUxPcjJLU0dRVVpGWG5Famk4cEl3TXQtM29lc2tMZWVVWjZzTy12dkdwekRHTWMxNllGYkJCek1jS3hVdmdQU2t3enlwZXoxenplWW8zVDRvYndnc3ZvbkhYcUV1UmcwOFE?oc=5",
-      "source": "동아일보",
-      "pubDate": "2026-04-11T01:00:00+00:00",
-      "description": "‘데이터 센터’ 막으려 총질까지…“전기료-소음 못 참아”[딥다이브] 동아일보",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "1d6192830112",
-      "title": "‘AI데이터센터 특별법’ 표류···배경훈 부총리 “전력 문제 양보 못해” - 시사저널e",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6SkJTeVhIT19xNGdtQTVsUGIzUk9USHkwRnRyX2p1Sk5sNWZvbXo5TzJ1TFNkRVBOd2FnLTZRT1FwU2NXMElfbTBOMXlMR0dpZzBUWS1yQmlCdXRsOF8tcFhZbGM5a3loYUFSQXNLUkd5UnZtWUHSAXZBVV95cUxQekpCU3lYSE9fcTRnbUE1bFBiM1JPVEh5MEZ0cl9qdUpObDVmb216OU8ydUxTZEVQTndhZy02UU9RcFNjVzBJX20wTjF5TEdHaWcwVFktckJpQnV0bDhfLXBYWWxjOWt5aGFBUkFzS1JHeVJ2bVlB?oc=5",
-      "source": "시사저널e",
-      "pubDate": "2026-04-11T00:07:57+00:00",
-      "description": "‘AI데이터센터 특별법’ 표류···배경훈 부총리 “전력 문제 양보 못해” 시사저널e",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "e65d7f4190ad",
-      "title": "IT·통신업계, 고유가 위기에 에너지 효율화 '사활' - 빅데이터뉴스",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hZ3BzUjRoZEJzMExZLTdfQk82S2ZtbWlKa1RfU3U5dDFNYTh0N01xUlo0azV1VnVydnVsTzlpd3VfQkc4OVRxWlNMc0Z5eFNTVXNyRTB1UVd3RjlwaUluQ25rOEtxeFJfQnkxMDNWanhmQjB1WjV0QUVwMA?oc=5",
-      "source": "빅데이터뉴스",
-      "pubDate": "2026-04-11T00:00:00+00:00",
-      "description": "IT·통신업계, 고유가 위기에 에너지 효율화 '사활' 빅데이터뉴스",
-      "category": "AI",
       "priority": false
     }
   ]
