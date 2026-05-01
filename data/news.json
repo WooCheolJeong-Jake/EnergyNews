@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-01T08:40:29.054629+09:00",
-  "totalCount": 148,
+  "lastUpdated": "2026-05-01T16:22:00.452773+09:00",
+  "totalCount": 85,
   "articles": [
     {
       "id": "7525704d28c6",
@@ -13,9 +13,19 @@
       "priority": true
     },
     {
-      "id": "90f343aa4307",
+      "id": "c0a3f54b115e",
+      "title": "동서발전-한화에너지, 분산에너지 활성화 위해 손잡았다 - 에너지타임뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DcnA0ZURlWTVLUDA0YXNaTC1qU1FzNjMzZ1o2T3ZMNEFCT0xuMVJNRkNQZGpLbXp1cHk5U3htNVJzSWprWEVVUEVlM3k1R2FyNVJxRXk2bm41SklaV0xLYmgwaEtpZVlnTkNjbDZ5QTVXd9IBdkFVX3lxTE5jamo3OWNTRFgyMFVOQ1Z0NVBhM3dxOURrYWNXWWUyeThkc3ZHNFp0UlRiZEM0UGM1UzQ2OHZJOHJsUWpLYkM0RWVlZThqU053TjRrTmR5NVpUMzJFRE9FNlR2UXFDVEpYNlBIMWhDZHU3X2pmcWc?oc=5",
+      "source": "에너지타임뉴스",
+      "pubDate": "2026-04-30T08:56:15+00:00",
+      "description": "동서발전-한화에너지, 분산에너지 활성화 위해 손잡았다 에너지타임뉴스",
+      "category": "AI",
+      "priority": true
+    },
+    {
+      "id": "036437d5de23",
       "title": "동서발전·한화에너지, 분산에너지 협력 '맞손'…산단 전력 '지산지소' 본격화 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OWGNRN0hVLUF6b1gwYmN4cF9GNVljV0dkTFc3RHBlYm1JWXlMU0kwWHNDMm9ydmZOMmJjcUhUVnBRQVk1c0ZTWks3b1FydzA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05akNlU0xLczNvUkc2SmNMSHQzcnBGZV9ScmJKZ3ZwX3ZJM0VVV2RmcjJDVXlycnFMUXVXemV2OTdBS1Z4RDduZTZ3QQ?oc=5",
       "source": "v.daum.net",
       "pubDate": "2026-04-30T08:03:46+00:00",
       "description": "동서발전·한화에너지, 분산에너지 협력 '맞손'…산단 전력 '지산지소' 본격화 v.daum.net",
@@ -43,24 +53,104 @@
       "priority": true
     },
     {
-      "id": "3b84ee2fd507",
-      "title": "“전력 지역 생산·지역 소비실현”…한국동서발전·한화에너지 분산에너지 활성화 맞손 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ac0hBUE5RaS1YV1EzVG5pNWJYSTZvZG5mN05VbldId0lmQUUyT0Fja19BVWpmWDNYVEJoZERqTWliaXlXZGJsV21SUm1LaE00OG9pQg?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "2026-04-30T06:51:01+00:00",
-      "description": "“전력 지역 생산·지역 소비실현”…한국동서발전·한화에너지 분산에너지 활성화 맞손 v.daum.net",
+      "id": "237acd914feb",
+      "title": "[AI 대전환] ② 비싸도 산다…우주 반도체 ‘돈 되는 구조’ - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aZUk5N0lJM1lRTURqa1FUZWh6b21Va19nZWJfWDM3YkVYNEs1ZnZXbVVUdEtQdlRzdWJhQl9MWmYxa1FrV2tSYzF5Qkxnb0tadTNPWVMtM2FjUm00QnhvUGxIeUhWUUJGVXdwb0pXONIBb0FVX3lxTE9aZUk5N0lJM1lRTURqa1FUZWh6b21Va19nZWJfWDM3YkVYNEs1ZnZXbVVUdEtQdlRzdWJhQl9MWmYxa1FrV2tSYzF5Qkxnb0tadTNPWVMtM2FjUm00QnhvUGxIeUhWUUJGVXdwb0pXOA?oc=5",
+      "source": "한스경제",
+      "pubDate": "2026-05-01T05:04:35+00:00",
+      "description": "[AI 대전환] ② 비싸도 산다…우주 반도체 ‘돈 되는 구조’ 한스경제",
       "category": "AI",
-      "priority": true
+      "priority": false
     },
     {
-      "id": "4caccd309be8",
-      "title": "동서발전-한화에너지, 분산에너지 활성화 손잡았다 - 에너지데일리",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6NUtqMDhmVFlIX2l2T2l1UHAwY24tYTM4MnRnQWVvZDd3a1gybmw1ZmFUOFZGUTMzZWxublpfTkZJTGpFZS1ISnNSTWRPRU9NUE1GczJ2MkxJeHMxSlEzUG1QdlJ1WlZZYXoyVkVIVG5hQQ?oc=5",
-      "source": "에너지데일리",
-      "pubDate": "2026-04-30T06:33:48+00:00",
-      "description": "동서발전-한화에너지, 분산에너지 활성화 손잡았다 에너지데일리",
+      "id": "4408ac9714a1",
+      "title": "재생에너지 시장 재편…옥석 가리기 본격화 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aSV9INFc2cjBoSHduMFhhYTI2QkpaVEM5YVdQalg5c1g5QThLMlFvdGhWQkVWQUo4N1NFdmtJRW1TMGIyN1lRbTlGT0d2WW8?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "2026-05-01T04:26:34+00:00",
+      "description": "재생에너지 시장 재편…옥석 가리기 본격화 v.daum.net",
+      "category": "태양광/RPS",
+      "priority": false
+    },
+    {
+      "id": "34fc95a815b9",
+      "title": "LG에너지솔루션, 1분기 매출 6조5550억…영업손실 전환 - 충청일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWcThXUlBBcm1Xb2tDeDE2ZEpqQlpEOTlUc0c5RXJwLWhyTlk5Tnhlak1JMzc3NlVteFM2dTBUYmFBWUUybTRBVDVvamE5WWJtZDBwMVZqUTRzQ180TkdwdnVUTXJ4dEJnLXZlME1kSQ?oc=5",
+      "source": "충청일보",
+      "pubDate": "2026-05-01T03:31:41+00:00",
+      "description": "LG에너지솔루션, 1분기 매출 6조5550억…영업손실 전환 충청일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "e9421d6c4bfa",
+      "title": "“당장 급한 불 끈다”...AI 전력난 해결사 떠오른 천연가스 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yRkVvaFdiZDJDQ1hhRVhnYjB6VFhaQmx5VWZuYWpaZm9JampQMWZpVlRSU2lLcHlNamkzZElZbm8tVVIzMTZkNEFGNWRESE9lWFHSAVNBVV95cUxNalJYdHp3VmhYRDRRX2c1RUVuQXBjeWMwMUhjOXk4WHJrZzR5NENqZjVuU2RSMVlZcWluX3RldTh4NG55NUdDeFI3VXk5LTI0RW9FWQ?oc=5",
+      "source": "서울경제",
+      "pubDate": "2026-05-01T03:00:00+00:00",
+      "description": "“당장 급한 불 끈다”...AI 전력난 해결사 떠오른 천연가스 서울경제",
       "category": "AI",
-      "priority": true
+      "priority": false
+    },
+    {
+      "id": "66e2e3886379",
+      "title": "AI 데이터센터 전력 수요 2배 확대 속 RE100 조달률 12%의 역설 - 한국데이터경제신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JUldvaTlUVm8yVExOX3F3ZlEtbWNmM1V4WWQ3YzB2Z3dlOFVIOHkxOWloZzdPdVJDN3RCSjZQQnYyaXlUN0ltUVhKd3hyWjRoelV2czZuYW5NWUJGZUc0WHhTcU9oSGFjMXZBWDJWczQ?oc=5",
+      "source": "한국데이터경제신문",
+      "pubDate": "2026-05-01T01:50:41+00:00",
+      "description": "AI 데이터센터 전력 수요 2배 확대 속 RE100 조달률 12%의 역설 한국데이터경제신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "1d5905197621",
+      "title": "'드릴 베이비' 트럼프 못 막은 기후테크 투자…화석에너지 추월 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JZF9lN09jZ25CTF9ZdHBsY0p4bGxzNjNjbEJsTXVNM1FqYmZFcnRsZWFrTEF5THFvQTk2Wnl3bWlEZWhITFR3eUhjcl9UaHFpNExzbHdkWEcwNThoWFdHcVNtaUViTXlUaEdpbnl1TdIBb0FVX3lxTE1JZF9lN09jZ25CTF9ZdHBsY0p4bGxzNjNjbEJsTXVNM1FqYmZFcnRsZWFrTEF5THFvQTk2Wnl3bWlEZWhITFR3eUhjcl9UaHFpNExzbHdkWEcwNThoWFdHcVNtaUViTXlUaEdpbnl1TQ?oc=5",
+      "source": "머니투데이",
+      "pubDate": "2026-05-01T01:30:00+00:00",
+      "description": "'드릴 베이비' 트럼프 못 막은 기후테크 투자…화석에너지 추월 - 머니투데이 머니투데이",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "032283d09a28",
+      "title": "전기료에 흔들리는 철강도시…포항 경제도 '휘청' - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16dmNET0psVnNDU0xmM0U1WVdiVGpTaTNuRGd0c1hINHBWdS0zTmF3WHNWZWU4ajhWSjhjYTdkTmdLLWtteG1CSTZTcktya0R2WTRNaGJJalc2RWVpdGtDYtIBYEFVX3lxTE16dmNET0psVnNDU0xmM0U1WVdiVGpTaTNuRGd0c1hINHBWdS0zTmF3WHNWZWU4ajhWSjhjYTdkTmdLLWtteG1CSTZTcktya0R2WTRNaGJJalc2RWVpdGtDYg?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "2026-05-01T00:55:10+00:00",
+      "description": "전기료에 흔들리는 철강도시…포항 경제도 '휘청' 연합뉴스",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "aa134342272d",
+      "title": "'수요 급증' 전기차 시장…충전요금 등 인프라도 변한다 - 경기일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyaGEtTHFsa09Ed1N5N196dmoxbjRNZ2VYNXFjUEZGNzJVcXAyM2tsTTdMQXVyUVNmbWNGOUtNdHJMaHJTa2E5RTZTaXNwWEJIWlA2VmR4TEVKWmM?oc=5",
+      "source": "경기일보",
+      "pubDate": "2026-05-01T00:00:00+00:00",
+      "description": "'수요 급증' 전기차 시장…충전요금 등 인프라도 변한다 경기일보",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "b771c7fe6688",
+      "title": "황금알 낳는 거위를 살려야 하는 이유 - 월간수소경제",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SbTZyTzlWTF8zQkg3TjYyVFROd2lLWkxydVg1eUhiNHhTTi1FSzczbE9LUzdmVGYxdFB2ckc1NFg2WkZUZU5UWjRTTVAwM3ZTaGlyNGwwSnVabnFGUVpUQ3FDMjBJZw?oc=5",
+      "source": "월간수소경제",
+      "pubDate": "2026-04-30T23:55:00+00:00",
+      "description": "황금알 낳는 거위를 살려야 하는 이유 월간수소경제",
+      "category": "태양광/RPS",
+      "priority": false
+    },
+    {
+      "id": "5d53be43c49b",
+      "title": "'전력 인프라 확보'로 시장 대전환…재생에너지, 수익성도 턴어라운드 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGck5ueWwyMEJYeEdBWkw1NzE4Nk50S2xScFVCQlQxYV9oUzhoVWhvcUlFRzlPRkNrc1d3dl9FX0NRUldJRVpkRlplQ2phV2w4aW5fRdIBVEFVX3lxTFBGck5ueWwyMEJYeEdBWkw1NzE4Nk50S2xScFVCQlQxYV9oUzhoVWhvcUlFRzlPRkNrc1d3dl9FX0NRUldJRVpkRlplQ2phV2w4aW5fRQ?oc=5",
+      "source": "한국경제",
+      "pubDate": "2026-04-30T23:13:47+00:00",
+      "description": "'전력 인프라 확보'로 시장 대전환…재생에너지, 수익성도 턴어라운드 한국경제",
+      "category": "AI",
+      "priority": false
     },
     {
       "id": "b2746098fb55",
@@ -113,12 +203,22 @@
       "priority": false
     },
     {
-      "id": "a834c08d0c51",
-      "title": "LG에너지솔루션 1분기 매출 6.5조 기록…영업손실 2078억 적자전환 - 충청도민일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TWFk1WW1wWE1RZHZRdG8ybktvX29tNXZRbnp0MWRENTlEUW1VczYtM0ZOYVM4bHNNelBveWdJSkZMNUZKMjZCdmhHenlYQjF6MV9vbFc1X3VwVFY2cUx5UFdPX04yUzRfQ3FycA?oc=5",
-      "source": "충청도민일보",
-      "pubDate": "2026-04-30T22:45:01+00:00",
-      "description": "LG에너지솔루션 1분기 매출 6.5조 기록…영업손실 2078억 적자전환 충청도민일보",
+      "id": "4609825bea9c",
+      "title": "“단품 판매는 끝났다”…글로벌 ESS 시장, ‘완성형 시스템’ 쟁탈전 - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xVTJEUjlWLVl6QlZpYTZfUTVQaWdCSFNRSS1iRC1FMjZWTnM3dURia0Y2SUZKMkFkaFp5Mlg2a2dJOFJDUUp4RlFwMmdYZ29RWE1sUzVRQUh5UDgxXzByQnpoZlhLOGRocGVSZHNnUGjSAXBBVV95cUxOMVUyRFI5Vi1ZekJWaWE2X1E1UGlnQkhTUUktYkQtRTI2Vk5zN3VEYmtGNklGSjJBZGhaeTJYNmtnSThSQ1FKeEZRcDJnWGdvUVhNbFM1UUFIeVA4MV8wckJ6aGZYSzhkaHBlUmRzZ1Bo?oc=5",
+      "source": "전기신문",
+      "pubDate": "2026-04-30T22:12:52+00:00",
+      "description": "“단품 판매는 끝났다”…글로벌 ESS 시장, ‘완성형 시스템’ 쟁탈전 전기신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "9b4bd0e63e60",
+      "title": "각형 배터리 '원조' 삼성SDI, 특허로 '진입장벽' 쌓는다 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPXzlWenExSGNQZ1NZckh2OGdPNkszcWpEM2FhUmNBczJTSXlnVkNlVGhoX1NsR2p2Q0l5VnFGRmVMNnNKRHJYcDQ2ZGx4NHp2YWk5MFZKWDNRQllINzlBMTVLSTE2LS1RY1QwX1VBS1I3WjNzbjZNMGtmdjlYTW9XVnB3?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-30T22:02:00+00:00",
+      "description": "각형 배터리 '원조' 삼성SDI, 특허로 '진입장벽' 쌓는다 네이트",
       "category": "ESS",
       "priority": false
     },
@@ -129,26 +229,6 @@
       "source": "네이트",
       "pubDate": "2026-04-30T22:01:00+00:00",
       "description": "테슬라·벤츠 공급망 올라탄 LG엔솔·삼성SDI…배터리 경쟁 '선별 국면' 네이트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "62433d4a1fbc",
-      "title": "“단품 판매는 끝났다”…글로벌 ESS 시장, ‘완성형 시스템’ 쟁탈전 - 전기신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QLUQ0Vm5lOGtyMWRoei1iQ3dVM1R0SDNOeUhRTGJ1bUtsT194d0FRS01fNDRaOGZWSUQteF9CTUVsbmhNUFpkUDZWYWJCUlphZzFnSDVidWplOXhmdmhydlZIZ296a3FWZl85a9IBcEFVX3lxTE4xVTJEUjlWLVl6QlZpYTZfUTVQaWdCSFNRSS1iRC1FMjZWTnM3dURia0Y2SUZKMkFkaFp5Mlg2a2dJOFJDUUp4RlFwMmdYZ29RWE1sUzVRQUh5UDgxXzByQnpoZlhLOGRocGVSZHNnUGg?oc=5",
-      "source": "전기신문",
-      "pubDate": "2026-04-30T22:00:00+00:00",
-      "description": "“단품 판매는 끝났다”…글로벌 ESS 시장, ‘완성형 시스템’ 쟁탈전 전기신문",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "ff1f66750f8a",
-      "title": "각형 배터리 '원조' 삼성SDI, 특허로 '진입장벽' 쌓는다 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydDhmSzB6c0JWR3loUHBEdnhCZGZwNDQ0UGFRVUxGR3RVOUlybXVOYWI0MmFMY0YxUjNKWDBPV3JpMzJ4VkNTaU5iZmFDMlpFZWF0R3lnRmNiSjFk?oc=5",
-      "source": "뉴스핌",
-      "pubDate": "2026-04-30T22:00:00+00:00",
-      "description": "각형 배터리 '원조' 삼성SDI, 특허로 '진입장벽' 쌓는다 뉴스핌",
       "category": "ESS",
       "priority": false
     },
@@ -193,9 +273,9 @@
       "priority": false
     },
     {
-      "id": "b6108b85b6da",
+      "id": "4cad2dee7fd2",
       "title": "LG엔솔, BMW에 배터리 공급 ‘10조 잭팟’ - 세계일보",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fOWJHX3ZhS1czdEdvZC1iZ3RxZ2tXNzdsdnpQUUJSZExYZTlDeTE5U3dOcjRlVlhDTGtyT0o4OWtaZTUwZ2hvS09kdklOY2tTOXB4ME9vak_SAVRBVV95cUxPc05NNjBrNjFUb2NzbGxMUU14NlZBT18xV2c2UGxQWlJFWk1QOWJVaGV6OVFHS0lHZE4tV2QxMExIN2ZJMy1LZV9QU1EyVHlFMHFUdVQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yVllMSVlNY2FONzY4Y2YtbFl0Z1ExSnJEcDNxa1VTQXo1MFZUNzZHTGczR1N5eFpYYy1IMDBhWVMyQmJPTWMwUzFMYUdGbUJqZ1publE3VDNJZGlEbGNzSmNtbUg4NWZMdGgw0gFUQVVfeXFMT3NOTTYwazYxVG9jc2xsTFFNeDZWQU9fMVdnNlBsUFpSRVpNUDliVWhlejlRR0tJR2ROLVdkMTBMSDdmSTMtS2VfUFNRMlR5RTBxVHVU?oc=5",
       "source": "세계일보",
       "pubDate": "2026-04-30T21:00:00+00:00",
       "description": "LG엔솔, BMW에 배터리 공급 ‘10조 잭팟’ 세계일보",
@@ -233,13 +313,33 @@
       "priority": false
     },
     {
+      "id": "548390cd72a5",
+      "title": "LG에너지솔루션, 1분기 실적 발표-ESS 성장·신규 수주로 중장기 기반 강화 - 미디어파인",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ibGE3eVVrb2dTU2JWUnktaVFnMjlRY2FqOG82UHlvcDhQM0RlNF9fQnFvbGdJS1NoUnFMVmtQTFRwam1tcDc5dzkxdFQtODBlWDJRT1J3WnNCMzR3TDZEbjJRYWNKUjkxTVdmRDZR?oc=5",
+      "source": "미디어파인",
+      "pubDate": "2026-04-30T14:55:00+00:00",
+      "description": "LG에너지솔루션, 1분기 실적 발표-ESS 성장·신규 수주로 중장기 기반 강화 미디어파인",
+      "category": "ESS",
+      "priority": false
+    },
+    {
       "id": "a9e48deffe80",
       "title": "디캠프, 딥테크 및 소부장 분야 스타트업 7사 성과 공개 - outstanding.kr",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpdGdfVEQwbGhHdmRtNUJ6ZkZKSzJZcG9wMzhPRkJXamdFS1FIeHVwTlF6Z0NDZ0gtdjNadTBhdkQta0xTT24talM3YUpsaGpYaDB1cg?oc=5",
       "source": "outstanding.kr",
       "pubDate": "2026-04-30T14:38:35+00:00",
       "description": "디캠프, 딥테크 및 소부장 분야 스타트업 7사 성과 공개 outstanding.kr",
-      "category": "전력시장",
+      "category": "VPP",
+      "priority": false
+    },
+    {
+      "id": "8aef86cf9efb",
+      "title": "LG엔솔, 매출 소폭 증가에도 2078억원 적자 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxONmtIMHk0MkE5WkFZRVdqd3ZkOVFxbnUyLUJwZjhuRG9rMjluWmVRZnI4bjIyYTRMcktaTXhWSDNRVUtHQS1PZzRyWTBZUXl5NGpmVklLVl9CY3IxZTNsWS1SZWZqdjhXNVQtdHhrVk1GNzdsaGhYTWNFTzRDa2Q3QmJocUNidEJRbmU0NnZUM2ZJUTRpNm1TTUR5OXBQUWFZdUVmRDJ1c2E0TjZKME10TTdBWVlzRmotaXRId2g4bnFzeTNqeDlJZVRSNWF4UndKdExMempxMS1rRnVmeDNCN2l6M2FPUUoxc1htZmwzQlZMVFM3RFNvTzd5WjRMS1REZ291MlYycEU5SnZTN0xzb1UtS0FDemVxODZSR2x3RTB3VzQ2VXU4RnhycV8xZThiVUR3ejczYU9Ic1p4VHVvdm5UYm43andGeHh4WjdMQ2NaQzZzeFl4UGFTaWhicC1qc01HWDBtRG0yeTNUT3RRRHdUeTY5bG15SXVOLURhZS1fbEQ5UzhKV2FnWnFNcUI2VUFock5sM1JEZGMxWUJIS1N6OHRlYUpoOVNnZEViT2t5Wms?oc=5",
+      "source": "MSN",
+      "pubDate": "2026-04-30T14:26:23+00:00",
+      "description": "LG엔솔, 매출 소폭 증가에도 2078억원 적자 MSN",
+      "category": "ESS",
       "priority": false
     },
     {
@@ -250,6 +350,16 @@
       "pubDate": "2026-04-30T14:25:48+00:00",
       "description": "LG에너지솔루션, BMW-EV-ESS에서 재도약 불씨 살린다 이코노미트리뷴",
       "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "ba6156e3f908",
+      "title": "박형수 의원, 2026 아주경제 에너지포럼’에서...\"에너지 믹스 체제전환제시\" - 대구매거진",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvMk5lbVhqV3g3bWdGUWlaYUt0ZW1lOHRuSjBVNWRFM1RtQmNrejBJZEpCcDNEVmE0V1NPS0NQemxjdzZkNlBrTS1PT2FEcWlPODJvdV9iMlhjb1lRc29qd2djeExwRk11NE9XYnhYbw?oc=5",
+      "source": "대구매거진",
+      "pubDate": "2026-04-30T14:01:00+00:00",
+      "description": "박형수 의원, 2026 아주경제 에너지포럼’에서...\"에너지 믹스 체제전환제시\" 대구매거진",
+      "category": "AI",
       "priority": false
     },
     {
@@ -320,6 +430,26 @@
       "pubDate": "2026-04-30T11:58:00+00:00",
       "description": "LG엔솔, BMW에 10조원대 원통형 배터리 공급 전망 이투데이",
       "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "e8cba8203994",
+      "title": "LG에너지솔루션, BMW 10조원 배터리 공급 확정...1분기 적자 속 반등 모색 : 기업/산업 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tVE5nMHJJT2FmSTA1WkJaVEkwMzZzcWtHRVlGVjNvUVVfZGplSjZYQ2tOWWRVdFVjSzh4dWh1aEZRSnNjcHprYVRB?oc=5",
+      "source": "재경일보",
+      "pubDate": "2026-04-30T11:35:00+00:00",
+      "description": "LG에너지솔루션, BMW 10조원 배터리 공급 확정...1분기 적자 속 반등 모색 : 기업/산업 재경일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "1f17946c95b5",
+      "title": "LS 일렉트릭, 3.5조 원 규모의 계약 체결, AI 데이터 센터 전력 더 뜨거워진다 - VOI.id",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9kZFhzaWZsQWh0Rzc2NWxuWGpOeS03WG1QSlNmeUNwckJtRWZUNHU1bGtLWXY0YVpuMXZyZWFhTzAxUdIBQkFVX3lxTE9kZFhzaWZsQWh0Rzc2NWxuWGpOeS03WG1QSlNmeUNwckJtRWZUNHU1bGtLWXY0YVpuMXZyZWFhTzAxUQ?oc=5",
+      "source": "VOI.id",
+      "pubDate": "2026-04-30T11:33:33+00:00",
+      "description": "LS 일렉트릭, 3.5조 원 규모의 계약 체결, AI 데이터 센터 전력 더 뜨거워진다 VOI.id",
+      "category": "AI",
       "priority": false
     },
     {
@@ -423,6 +553,16 @@
       "priority": false
     },
     {
+      "id": "ff064ea02aba",
+      "title": "포스코퓨처엠, 1분기 영업익 177억… 배터리소재 반등에 '흑자 전환' - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EN0ZqSU5zQnRQbWJfNnptYmpMRXozdU5sdF8xbGZKWUh0TWc5OU9adG02VnB0UVRsb29zYXF2Sl85SUpVWkVub1VsZw?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "2026-04-30T09:26:53+00:00",
+      "description": "포스코퓨처엠, 1분기 영업익 177억… 배터리소재 반등에 '흑자 전환' v.daum.net",
+      "category": "ESS",
+      "priority": false
+    },
+    {
       "id": "39b9821c158f",
       "title": "한전KPS ‘창사 42주년’ 기념식 개최 지속성장 100년 기업 다짐 - 한국전력신문",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JT24tdGNFbnJEaTFnREtvaExoWU9ObGVfMnhqZlZDRC1jWHV4RjNNTmNETS02bl9vaTVTSExRNy1uaHVBV0kyN0p3MVdJTkR5Z0FzVEd5TU4yemd5NmFoTmxNUktDSnBsNEE?oc=5",
@@ -493,6 +633,16 @@
       "priority": false
     },
     {
+      "id": "a0d6681c72f5",
+      "title": "중부발전, 재생에너지운영본부 본격 운영 돌입 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15MTYtdi1sRE10WHJfaUtKQUlIT2h2TXVBZEdFRkpZMEpmcjlKRlEzcFM1Q3Fsc1c4aTMwaEJrcG1HTDlFeTVXOGNlU2FOSnR6QWEyQmV3X01OWHRjYnBUM2lJeVhjV3ZNT3hPYTln?oc=5",
+      "source": "투데이에너지",
+      "pubDate": "2026-04-30T09:05:45+00:00",
+      "description": "중부발전, 재생에너지운영본부 본격 운영 돌입 투데이에너지",
+      "category": "AI",
+      "priority": false
+    },
+    {
       "id": "e2d969adfeb5",
       "title": "한전, 미국 PSEG社와 765kV 송전망 기술협력 계약 체결, 팀 코리아 기반으로 미국 전력시장 진출 확대 - 한국전력신문",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEWEx0Ul9GdDFiTXB6b1BfTDQxdnFMelBZMTZPQnpnSnRHeWhGcTJDWlJKakJhUkFpdVRLUUJ4NzhXd3B3cExoVzNiTXlPLVExWFZsamY3WlFId1J4WEhvdm1EQjJ5LUhnMFE?oc=5",
@@ -533,6 +683,36 @@
       "priority": false
     },
     {
+      "id": "33a48cf7a03e",
+      "title": "비수도권은 전기 남아돌아 골머리…출력제어 2년만에 22배 급증 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41MGxoRmlrY3RJTnBNTFFldHVXYUhuM2QxejBMU1N0ampiN2hYN0ZETWx1ZHAyVjVfQmY3ZTZXSUhIb0VBSDg4R09CUXlLMXNCSGFV0gFTQVVfeXFMTjUwbGhGaWtjdElOcE1MUWV0dVdhSG4zZDF6MExTU3RqamI3aFg3RkRNbHVkcDJWNV9CZjdlNldJSEhvRUFIODhHT0JReUsxc0JIYVU?oc=5",
+      "source": "서울경제",
+      "pubDate": "2026-04-30T08:39:40+00:00",
+      "description": "비수도권은 전기 남아돌아 골머리…출력제어 2년만에 22배 급증 서울경제",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "d05c0499cc19",
+      "title": "LG엔솔, 1분기 영업손실 2078억원…2개 분기 연속 적자 - 인사이트코리아",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ec3ZQV2NIeU90ZFFlZzJmOS1wSTQtZ3FrVDFySzQ0WjVnRi0ta09Qb0RtMlFFQlhfaVp2VUdKNEFzVVNmQThBNFdEdjB6MjVENTkwYWhMRWxDYW8tZGlKdVZvLWVyT0EwcGxYcHJjeGZnVXYySWZB0gF3QVVfeXFMTURzdlBXY0h5T3RkUWVnMmY5LXBJNC1ncWtUMXJLNDRaNWdGLS1rT1BvRG0yUUVCWF9pWnZVR0o0QXNVU2ZBOEE0V0R2MHoyNUQ1OTBhaExFbENhby1kaUp1Vm8tZXJPQTBwbFhwcmN4ZmdVdjJJZkE?oc=5",
+      "source": "인사이트코리아",
+      "pubDate": "2026-04-30T08:37:31+00:00",
+      "description": "LG엔솔, 1분기 영업손실 2078억원…2개 분기 연속 적자 인사이트코리아",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "5bae6f66847a",
+      "title": "전자통신연구원, 제주에 기후위기 대응형 AI 돈사 첫 구축 - 이투뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2VUVPdlNWd1dxTlI4RlFJbW5qeUkxNWg1VE1sOUhkbXZoeHhrNjlsMF9SdFVkVzhpMmxKNksyTXJtUy0wVFVsOHlxd2hMd2drbjJqSXZKeEZabVUtRWNfSC16bFJ5aXfSAWtBVV95cUxQMmNaVzFHdFVwaVpnc2RYeDBVT21HNmc4NDRKMVVkV2ltUkRQQ3JZNVRhQno3Q1M0bmZFVTJRU3RqVXNFcUJGUGRERXJNUVRPbEZ3R04yWlBfQ1l0VVowc3ZmTWh2TWNKTjZJMA?oc=5",
+      "source": "이투뉴스",
+      "pubDate": "2026-04-30T08:37:20+00:00",
+      "description": "전자통신연구원, 제주에 기후위기 대응형 AI 돈사 첫 구축 이투뉴스",
+      "category": "AI",
+      "priority": false
+    },
+    {
       "id": "5346eb7e16f5",
       "title": "다관절 로봇·호흡기 질환 진단 등 디캠프 배치 2기 기업, 디데이서 성과 발표 - 네이트",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SY1oxN0JyTXV2U0l3ZlA4VVpFTWZnQklrbmJMZGpnUHNFSFJUZkZQNkVaOHBJRkZpd3NZQ1pqeUFHakV5V1NFVUNvbndHQzhGekVlTlZPNUNJY1hOTm5udjJEVlIzeWhySUx1S19xeG1fc1FINGcxVw?oc=5",
@@ -549,6 +729,36 @@
       "source": "디일렉",
       "pubDate": "2026-04-30T08:30:40+00:00",
       "description": "LG화학, 2분기 첨단소재 흑자 전환 기대 디일렉",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "a423c376e9cc",
+      "title": "\"車배터리 캐즘 넘어섰다\"…LG엔솔, BMW 10조 잭팟 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10TjRJQVpPczhYVUNMUjBzaElEaGZiTHY2VzRnazh1eE9IZmZhLUNIWURhMUR3b1N5Ny1jNWZ0NmY2c1NqQ1hZd0FLVkZtbDZXcXF6aDFZWm41RkJnMDd2Z0NqOTV3Z002RE9JRWx0akJscXB4TTljNQ?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-04-30T08:19:00+00:00",
+      "description": "\"車배터리 캐즘 넘어섰다\"…LG엔솔, BMW 10조 잭팟 네이트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "f88b21220131",
+      "title": "유럽부터 동남아까지…HVAC 여름 성수기 ‘정면 승부’ - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yMVhRNGRSSk5rX0R5RWhwajhnTVg3TFU0N19tN2JNdHk3T2hnVkZsZDdraEIwRjR1TDhLVFppQ3h6OUIxT1FiR1EyMVQ1V0tJaThhdzFvTVJUZnFWcF8waTllNFhoOTBaV0lmY3lXcHrSAXRBVV95cUxOeTV4ZzYxUFFRbk52X2o3eHUxVHRLREpqWktsUTZKVWdLeHVnb3dSaVlNUEg2YUFqd0U4Q0ZqdHVXYlNZTGYtYUF5c2xLV2ROR28xYXNqQkw3blVSQTJNeU1vckN5b3VQT2hNcVlWaGJhLUZUVA?oc=5",
+      "source": "IT조선",
+      "pubDate": "2026-04-30T08:10:11+00:00",
+      "description": "유럽부터 동남아까지…HVAC 여름 성수기 ‘정면 승부’ IT조선",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "61546fd35d05",
+      "title": "삼성SDI, 유증 참여자 수익률 410%…배터리 신고가 눈앞 - jabon.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TSzU2TlhROFZwV05QdktBeVNvMXYwQ05sN1JTVElZM2ZocXRIUU10eXpicG5LX0hid19QUlFjd1pIRlIzT0FuZXRlQm1Tci1NSEJ2TzdHZExKV3d6TWcxTFluOGtVcW8?oc=5",
+      "source": "jabon.co.kr",
+      "pubDate": "2026-04-30T08:00:00+00:00",
+      "description": "삼성SDI, 유증 참여자 수익률 410%…배터리 신고가 눈앞 jabon.co.kr",
       "category": "ESS",
       "priority": false
     },
@@ -640,846 +850,6 @@
       "pubDate": "2026-04-30T07:29:32+00:00",
       "description": "LG화학, 석화 웃고 배터리 울었다…적자 탈출은 '아직' v.daum.net",
       "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "fcdac17aabbd",
-      "title": "숨고르기 들어간 LG에너지솔루션…1분기 영업손실 2078억 원 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51TXBXYnhwVjV4bnlfd0hjUXE1MG9fSFFQMFBzVjNzZlFjV2NRUHY0NzRlOG9oOFpoNERETEJLOXVXWmVQWlNOTG14RTRWQTdiNDJYMXVyRVBHQ2ZnR2JsdTgyZVlFTG5CN3MwY0NDSXhObDExWVVWeA?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-04-30T07:15:00+00:00",
-      "description": "숨고르기 들어간 LG에너지솔루션…1분기 영업손실 2078억 원 네이트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "d050aaa4e289",
-      "title": "LG에너지솔루션, 1분기 적자 전환…ESS·차세대 원통형 배터리 수주로 반등 모색 - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVVJ5TU5LMzJhUkdUTmR0UnE0bGZmUjZhTDVDMUZkWEtnMlFvaFpya18yN2VMOXB0bDBtOTdGQTlqWGFWNDY1V0I1Z0pCMi0xeWZUOGJNZUZNSmh3Z1RMNzU4T0pscW43aDZzWWJkNUxhZjNQa0hTZENaM05EWDlxRERObUhyQQ?oc=5",
-      "source": "글로벌이코노믹",
-      "pubDate": "2026-04-30T07:14:39+00:00",
-      "description": "LG에너지솔루션, 1분기 적자 전환…ESS·차세대 원통형 배터리 수주로 반등 모색 글로벌이코노믹",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "9397f1020bc1",
-      "title": "한국동서발전, 바나듐 흐름전지 20MWh 실증 넘어 상용화 수순…에이치투와 해외 시장 공동 진출 - 이코노미사이언스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LTi0yUUNmMy0zcEFodDdaUEM3ZUFkd1lFXzVjaVg1RUNyZmxQSFhLMWdQODBza183RnlzYzZGZHdaZG5FaXF0d1ZuLXVSOWxSWGd2ZzZ0aVpKTWRHenN4Q2NOdVZUVFFmV1VPamp2RQ?oc=5",
-      "source": "이코노미사이언스",
-      "pubDate": "2026-04-30T07:12:09+00:00",
-      "description": "한국동서발전, 바나듐 흐름전지 20MWh 실증 넘어 상용화 수순…에이치투와 해외 시장 공동 진출 이코노미사이언스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "42c40cabfb12",
-      "title": "LG에너지솔루션, 1분기 적자 전환에도 ESS 성장·북미 셈법은 '긍정' - 팝콘뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oeGIyVzFnODZOanVzdURVUlloVWVmUnpkYzdaSGVIRS1OUENacTVDM25CZ0JMdUtJUHRnZHg0bXFQeUpEd3hwRVBZSTFuY3haWkJrTHVXRzQtN2RfT0VMQ0hxSzZsRTl5T052RzhR0gFyQVVfeXFMT2RwNGlzUU8wb0tQdS1fb0JYWmlxa2tkVjRIRUM2aWpfU1loRWkzS1hQWU44S0RBa3BrOEltczF6YjVMdXdnMkFKdC1MNmlMTUpKNHBYTUdtTDhxZERqTEM3OTV4WDEzS0IxbkFNN0pTYU9B?oc=5",
-      "source": "팝콘뉴스",
-      "pubDate": "2026-04-30T07:11:02+00:00",
-      "description": "LG에너지솔루션, 1분기 적자 전환에도 ESS 성장·북미 셈법은 '긍정' 팝콘뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "fb891e49ca9a",
-      "title": "포스코퓨처엠, 배터리소재 흑자 전환...1분기 영업익 177억 - thecommoditiesnews.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kdWdVMjNwQnAycldZZllSaE1ZUDVkbUJUYWdCemNMVTZkazdiTGkzWlFkNHd6d0ZNbUFwVllKeXNEdjV2OFFmR1YyWWZOLTZ0THlGTWd1TjZlbjJ6TjFqNGlIVW1IR2M1MXR0NkwtOGVsLU9TNW9J?oc=5",
-      "source": "thecommoditiesnews.com",
-      "pubDate": "2026-04-30T07:08:21+00:00",
-      "description": "포스코퓨처엠, 배터리소재 흑자 전환...1분기 영업익 177억 thecommoditiesnews.com",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "bf24c2ad805f",
-      "title": "디캠프 배치 2기 7개사, 기술 넘어 시장 안착 증명 - 플래텀(Platum)",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZNDMzVlgzZFZKaDFuV3NvSDFOM3l5LTFkRTEzS0VtUXJYTmtuX1lVVU5KcWFROUczU2lMamVhMENvbDQwN2txRw?oc=5",
-      "source": "플래텀(Platum)",
-      "pubDate": "2026-04-30T07:04:17+00:00",
-      "description": "디캠프 배치 2기 7개사, 기술 넘어 시장 안착 증명 플래텀(Platum)",
-      "category": "VPP",
-      "priority": false
-    },
-    {
-      "id": "600be54f60ef",
-      "title": "포스코퓨처엠, 1분기 배터리 소재 적자 11억원으로 축소 - 디일렉",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QZ29HQnM0LTZ1NDQ4QlFmY1M4Z2Q3MnM3VGkxQjVScEJsbVdfc2c4VTl0NnI3WFFMWVNzVmdwSGxzeEJwWm8zcnJocjRJV3Z3TDNFTVdzYkpORm50bVBnQTJrOEtldw?oc=5",
-      "source": "디일렉",
-      "pubDate": "2026-04-30T07:01:56+00:00",
-      "description": "포스코퓨처엠, 1분기 배터리 소재 적자 11억원으로 축소 디일렉",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "2a792e08b966",
-      "title": "\"제살깎아먹기 입찰 그만\"… ESS 중앙계약시장 ‘최저가 하한제’ 카드 만지작 - 전기신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xUGxrYWJWZlA1SEpid0o2Q3p2Tk83S3RiUlg3QWpMejJmamNFUk5mdkFiTzhsYVZsOWlxMGpFWk16Rm1jcXloeTJmZ3VzYXp0cHlLbFBJT3FLQjNyLThWdE1fUGVEaTlYZGdseA?oc=5",
-      "source": "전기신문",
-      "pubDate": "2026-04-30T07:00:00+00:00",
-      "description": "\"제살깎아먹기 입찰 그만\"… ESS 중앙계약시장 ‘최저가 하한제’ 카드 만지작 전기신문",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "fe4e3ce7aee2",
-      "title": "동서발전·한화에너지…멀리서 끌어오던 전기, 지역에서 쓰는 구조로 전환 - 이코노미사이언스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yQ3p5V0NsbkxsSDdvTTN0SlhqYTNWZlpyWk5UTWl3dWpITEcyV21pUGl5Vkc0SGNJTzZHVEp0Wm5FYXZJNkRtQ19sdXNpZWcwS19XQXlGY0ZRZEdadXpLTVYwcXZSX0RjQ2tKdUpONA?oc=5",
-      "source": "이코노미사이언스",
-      "pubDate": "2026-04-30T06:51:47+00:00",
-      "description": "동서발전·한화에너지…멀리서 끌어오던 전기, 지역에서 쓰는 구조로 전환 이코노미사이언스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "edf3bb4ddeba",
-      "title": "▒종합 경제정보 미디어 - 이데일리IR▒ - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtNjg2TGVMXzVtdXhJa1NhSy1UczRzdkFKNGdCcG5uemludVVxSHNxblBNNl9rSGxMZ3hfQkFFRFQ3SVNycDUtazcxdzI2ZFp5ejNjSVFNYU5GTzR0VWtRRlRjMA?oc=5",
-      "source": "이데일리",
-      "pubDate": "2026-04-30T06:49:29+00:00",
-      "description": "▒종합 경제정보 미디어 - 이데일리IR▒ 이데일리",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "217d42d32590",
-      "title": "2분기 연속 적자 낸 LG엔솔 “연말 ESS 매출 비중 30%까지 올릴 것” - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JX3plSkYyaGMyMEp2b2JHNTQtbDdXd3BOb0IyTEN5UEY4MmY3b19mMjNYSU1kUndRY1dQTDRnU3gxbzVvVVdfaFhmaThOZTlXRFZtdjZlaDNwa3ZPWGNJWEVPZy1KSnlOUW1ySHJReGR4QQ?oc=5",
-      "source": "한겨레",
-      "pubDate": "2026-04-30T06:29:00+00:00",
-      "description": "2분기 연속 적자 낸 LG엔솔 “연말 ESS 매출 비중 30%까지 올릴 것” 한겨레",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "7a14aec8fd99",
-      "title": "\"LNG 막힌 AIDC 전력망\"...'태양광·ESS' 대안 떴지만 비용은 숙제 - 미디어펜",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxUW95YWY5UUg5eW8tZFVocUwzczRURXRDQTFHeFpiLTloNTZLRG43aUlJVkdVZ00wMW9fd184OTBMbjZRcDUxUy1ON1Fpcm1PWV9HN3VrU1bSAVhBVV95cUxQMVFveWFmOVFIOXlvLWRVaHFMM3M0VEV0Q0ExR3haYi05aDU2S0RuN2lJSVZHVWdNMDFvX3dfODkwTG42UXA1MVMtTjdRaXJtT1lfRzd1a1NW?oc=5",
-      "source": "미디어펜",
-      "pubDate": "2026-04-30T06:21:11+00:00",
-      "description": "\"LNG 막힌 AIDC 전력망\"...'태양광·ESS' 대안 떴지만 비용은 숙제 미디어펜",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "f2a54ab97fe3",
-      "title": "디캠프, 배치 2기 디데이 개최...7개 정예 팀 성장기 발표 - 지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wNjU1ZjNSaEttSzZ4YTZEUFo3OWVvQ0pDb0lheHhoM3lRcVhOZkRxWjNhVk9lZi1Eel81YVdQWVluT0doZmJoR2JQeDhfYlhqdDFkYWhn?oc=5",
-      "source": "지디넷코리아",
-      "pubDate": "2026-04-30T06:09:27+00:00",
-      "description": "디캠프, 배치 2기 디데이 개최...7개 정예 팀 성장기 발표 지디넷코리아",
-      "category": "VPP",
-      "priority": false
-    },
-    {
-      "id": "ff0224e22cac",
-      "title": "구자균 LS일렉트릭 회장, 북미 배전 솔루션 ‘잭팟’...AI 전력 키운다 - 인사이트코리아",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JQWpyY1R6dVplaVQ4NGVOQmlZZ2hWTk9zRmhTdG1fc185OGoyc01KWmJFZTQ0NXJpSGszWmVMZ1Rqbm4wOWtaall6aHRtNDJKOEFxSlJCSGthNG15Z2luaHo4V2tTZFoyZVpKbmU3N2pqYVXSAXdBVV95cUxQbzVWejZjbWdOSnFQVFZtQmhMOHJTNXM3YVktVVZUcS1EZUFhTkJLZmlOc3F6ZzhXMmlZZWZpUUZWendyWklBdTFYbllGc25YN05UenJTRXNITUJiZmdGeUM3anNDWDdTV0hyRDRSSk1JQ3dtZThKZw?oc=5",
-      "source": "인사이트코리아",
-      "pubDate": "2026-04-30T06:06:49+00:00",
-      "description": "구자균 LS일렉트릭 회장, 북미 배전 솔루션 ‘잭팟’...AI 전력 키운다 인사이트코리아",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "b6e8cf3bf93f",
-      "title": "한전 부채 205조…\"전력망 확충없인 재생에너지 보급 한계\" - 뉴스;트리",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Bc19PUzN6aENCcVVrTTB1ZnB1bFpTYjVsb0NuUkRSY2pOOHJJNWZITjJ5WEs0VjJ5UHdvLU93ZElTSGxESlFlVktnTEx5d3BfLWVKM2VQVG1kMHE4?oc=5",
-      "source": "뉴스;트리",
-      "pubDate": "2026-04-30T05:49:10+00:00",
-      "description": "한전 부채 205조…\"전력망 확충없인 재생에너지 보급 한계\" 뉴스;트리",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "adb9f6b769a0",
-      "title": "Hyosung Heavy Industries, U.S. 전력 전시회서 차세대 전력망 기술 공개 - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGJFQXhtTXQwdEI4cm83NFdOb29qRnBtQ1hQX2VxcTNEWGtZYW9EcXhYamt0WTZRSXpYbzZCbkNhdlRtX29OOHlsM245dVE1OEpLNVNBNWt2cVQyWEZPcjF4eGhmdUZuWU5uUldOQWhQaEsxSHExWFFCVkNfLU95VEM4YVJyeXdzV2dYNE44MA?oc=5",
-      "source": "Traders Union",
-      "pubDate": "2026-04-30T05:44:03+00:00",
-      "description": "Hyosung Heavy Industries, U.S. 전력 전시회서 차세대 전력망 기술 공개 Traders Union",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "6e4d21436c41",
-      "title": "LG에너지솔루션, ESSㆍ원통형으로 실적 개선 박차 [종합] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GdDhlODRDT1BkclRrY0FVeEx1Zl9QWHJOdkdnZHNBQmdVU3NIZ0M4aXBEY0xxWWJwVTNCZjF5NnR0SlBQdXRBOXZqNkpLNlM5d2Y0cw?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "2026-04-30T05:42:06+00:00",
-      "description": "LG에너지솔루션, ESSㆍ원통형으로 실적 개선 박차 [종합] v.daum.net",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "7619a46c2635",
-      "title": "[명승엽PD의 이슈리포트] 격변 속 태양광, 전력·안보·AI 시대 ‘관통’… 차세대 주도권 경쟁 격화 - 솔라투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PWTJBNU9jeUtkbjRLaGg0aDd2QW5uY2VFN1pGQkN3OWhBVzhqQ0o3VmozQzdsN093cF9nMXJyLUhIcW1kRmRaOFVfRy1lNmpNb1U1ZzJueDBIeXN6ZHlKUmdwYmhIWDZJcEU1WGNKbkg?oc=5",
-      "source": "솔라투데이",
-      "pubDate": "2026-04-30T05:40:34+00:00",
-      "description": "[명승엽PD의 이슈리포트] 격변 속 태양광, 전력·안보·AI 시대 ‘관통’… 차세대 주도권 경쟁 격화 솔라투데이",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "caa9ac03304a",
-      "title": "BMW 잡은 LG엔솔, 차세대 원통형 배터리 46시리즈 440GWh 수주 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83NktYVy1OVDNsel9wQ0lTNmpYakNKMDUzdVY4dzNHek1wS0s3SmJxekNoY3lmSXJOdTNsSXJSZjFhUnpCMUFzYTQ4c1c1R1BZVTZmbE5nMDFUdU9zbGtOeGQzejBYN0FrMVQ5bVp1VWtkQdIBckFVX3lxTE83NktYVy1OVDNsel9wQ0lTNmpYakNKMDUzdVY4dzNHek1wS0s3SmJxekNoY3lmSXJOdTNsSXJSZjFhUnpCMUFzYTQ4c1c1R1BZVTZmbE5nMDFUdU9zbGtOeGQzejBYN0FrMVQ5bVp1VWtkQQ?oc=5",
-      "source": "머니투데이",
-      "pubDate": "2026-04-30T05:39:01+00:00",
-      "description": "BMW 잡은 LG엔솔, 차세대 원통형 배터리 46시리즈 440GWh 수주 - 머니투데이 머니투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "14ad2b10e258",
-      "title": "LG엔솔, 적자 딛고 ESS로 반전 노린다…북미 전력망 수요 정조준 - ER 이코노믹리뷰",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xZVBLSnZjVk5SaGdFVlpUUWZQNHhtb2pFOURwWHR3WFdGRDJzQ0dUb3JxekNkX08zb2tkMC1Va24tSG44R0NVZXZkT2N6MTNtLXBMMmJoemo2Vk9NdG9OYjE4WTg1MzFZWVh4cA?oc=5",
-      "source": "ER 이코노믹리뷰",
-      "pubDate": "2026-04-30T05:34:08+00:00",
-      "description": "LG엔솔, 적자 딛고 ESS로 반전 노린다…북미 전력망 수요 정조준 ER 이코노믹리뷰",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "6f2f69e8b11d",
-      "title": "[컨콜] LG화학, 전자소재 사업 ‘반도체·ESS’ 집중…“2030년 매출 2조 목표” - 아시아투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vTE9NaXBjMmViVENXWU1Ba3M1TDVXVFpJeUJUeHhlYVQwWk5kR2RVc3Y4UlVVSnRzajlLZ3dmam02aXVWS013aGFxdWVJLWRiUmFPVGRQNkVmRkVOOVA1YkV1aGRCTGFHNEhDZXRB?oc=5",
-      "source": "아시아투데이",
-      "pubDate": "2026-04-30T05:32:43+00:00",
-      "description": "[컨콜] LG화학, 전자소재 사업 ‘반도체·ESS’ 집중…“2030년 매출 2조 목표” 아시아투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "53c9f1655ec2",
-      "title": "“전력감독원 신설, 시민사회 지지와 공감 필요” - 전기신문",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qWFE1bldCZzM1WER1Z3JNOFVMdmRwczBDWTIyNl9XanlDcXlkOHc3cXp1elZzT2xTQnFyRlUwLTcwaWFoS3NYdDBVcVlreGVKTmlSNDhraUdFdElOR3hlV3lFX0tYZ1VqQ19GNjBaR2jSAXBBVV95cUxPalhRNW5XQmczNVhEdWdyTThVTHZkcHMwQ1kyMjZfV2p5Q3F5ZDh3N3F6dXpWc09sU0JxckZVMC03MGlhaEtzWHQwVXFZa3hlSk5pUjQ4a2lHRXRJTkd4ZVd5RV9LWGdVakNfRjYwWkdo?oc=5",
-      "source": "전기신문",
-      "pubDate": "2026-04-30T05:31:55+00:00",
-      "description": "“전력감독원 신설, 시민사회 지지와 공감 필요” 전기신문",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "4555ebdca682",
-      "title": "최태원 SK회장, \"한·일 에너지 통합과 분산 발전으로 AI 시대 전력 위기 돌파해야\" - 베타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiRFlvNFlZUXpscEFSekVmbjZtZ0hFUzZqeW9ING9MVFluQ0RhQUY1R1lDbjI1ejUtbW9XRVJoajhRaFc1ZjZraWU3Ym43SVBWVDVuaE9JNml4QjZ1dV9MTlJFOVU?oc=5",
-      "source": "베타뉴스",
-      "pubDate": "2026-04-30T05:20:19+00:00",
-      "description": "최태원 SK회장, \"한·일 에너지 통합과 분산 발전으로 AI 시대 전력 위기 돌파해야\" 베타뉴스",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "cbac1561a4db",
-      "title": "한국전력 SEC 공시, 실적·지배구조·탄소중립 3축으로 읽어야 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1feXNSaHZsRGdZdWxiM19vVHlBM2MtTWNHdkdJYnRyQjNDZG9TeDcwSWQ3QnpjUTN4TlFGbHBlRG41ak1TOGhBd0Z6SFJMUVJjOFlzZFpn0gFbQVVfeXFMUHBhbks0ZG9TV1psbFZiNEhpTlhzRExna2tzcDV5VU1VYVBnS0R2bHk0WTkwaDNRMVJYTlVWdEJaU0dWU2pQMURkT3VHZDdkampkdUNjbHBkZnVTYw?oc=5",
-      "source": "tokenpost.kr",
-      "pubDate": "2026-04-30T05:11:08+00:00",
-      "description": "한국전력 SEC 공시, 실적·지배구조·탄소중립 3축으로 읽어야 tokenpost.kr",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "e0e42ad693c7",
-      "title": "지주사 LS의 화려한 변신… 배당금·수수료 넘어 AI 수혜주 우뚝 - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAweGxZTnktOTRhT3Q2dkItTnVhZWROclJQWjZPUmMxTktuaWV2WUsyNGI4eXRMOTJRNXlISmtiYWVHVTdzQVRHTVY1VUlJR2w5UmNWZk00cVFxakxxUTBqdTBHSnVoZFJTbjIxRWJpakpIeUFKc1dF0gF3QVVfeXFMUDB4bFlOeS05NGFPdDZ2Qi1OdWFlZE5yUlBaNk9SYzFOS25pZXZZSzI0Yjh5dEw5MlE1eUhKa2JhZUdVN3NBVEdNVjVVSUlHbDlSY1ZmTTRxUXFqTHFRMGp1MEdKdWhkUlNuMjFFYmlqSkh5QUpzV0U?oc=5",
-      "source": "핀포인트뉴스",
-      "pubDate": "2026-04-30T04:57:57+00:00",
-      "description": "지주사 LS의 화려한 변신… 배당금·수수료 넘어 AI 수혜주 우뚝 핀포인트뉴스",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "99102e1f0a28",
-      "title": "산일전기, 블룸에너지향 503억 수주에 25% 급등[이런국장 저런주식] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXVEdrX3ZKMl9uNGM3b0NFTFRRSHFQSGVsbWVUcnRNTHY5TG0yT01xR0FRWFZVOHhFdmNyRU1nS0xWbnZFM3o2TmJWQlVrOGdadERv0gFTQVVfeXFMUFdUR2tfdkoyX240YzdvQ0VMVFFIcVBIZWxtZVRydE1MdjlMbTJPTXFHQVFYVlU4eEV2Y3JFTWdLTFZudkUzejZOYlZCVWs4Z1p0RG8?oc=5",
-      "source": "서울경제",
-      "pubDate": "2026-04-30T04:53:47+00:00",
-      "description": "산일전기, 블룸에너지향 503억 수주에 25% 급등[이런국장 저런주식] 서울경제",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "f82faec5de98",
-      "title": "어두운 터널 지나는 K배터리 업계···ESS로 바닥 찍고 반등 노린다 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YbDktdWhtMjNoU3E0dW1CQ1JqMWNlWThuZ0U2VVd6VVE5TFVOcDdxZUNLdHhwNHdCa0NTcVJpV2R0RXVzeE43WDZqMFUtRURSTG9HZA?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "2026-04-30T04:47:46+00:00",
-      "description": "어두운 터널 지나는 K배터리 업계···ESS로 바닥 찍고 반등 노린다 v.daum.net",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "4da50aa935aa",
-      "title": "포스코퓨처엠, 1Q 영업익 177억 전년比 3%↑…\"ESS 수요 대응, 실적 개선 속도\" - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxeWw2VTFjTkMtZEZiUFg5M3JuOUZHMzRwMlVuaGVjLVY0Vkx5V2dJMTUtOVMtZmhCSGtpX0FDM3B2UVhoekVJQ3hxQUVSd1RHZ1NoZHNaYlFvaWZFUU5pdDBwUkZxT1owX1VPQ0phQVF0NTRKXzFKONIBeEFVX3lxTFBxeWw2VTFjTkMtZEZiUFg5M3JuOUZHMzRwMlVuaGVjLVY0Vkx5V2dJMTUtOVMtZmhCSGtpX0FDM3B2UVhoekVJQ3hxQUVSd1RHZ1NoZHNaYlFvaWZFUU5pdDBwUkZxT1owX1VPQ0phQVF0NTRKXzFKOA?oc=5",
-      "source": "뉴시스",
-      "pubDate": "2026-04-30T04:43:26+00:00",
-      "description": "포스코퓨처엠, 1Q 영업익 177억 전년比 3%↑…\"ESS 수요 대응, 실적 개선 속도\" 뉴시스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "76674a4d1909",
-      "title": "LG엔솔, 1분기 적자전환…영업손실 ‘2078억’ - 부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OZmN5TDgwVDBkeDlGTXJqcThlY3hTYUtneFpqZi1wbjFoLWlGcWdqdnVjUUNPNkluOXhLczhWOTgtaWF0U2ZXV1VxMmRhM2JPVTl3aUZ1cThfODgtUWUzWFNuQjNMczhsVmZNRmh1Sms4OFc3?oc=5",
-      "source": "부산일보",
-      "pubDate": "2026-04-30T04:41:32+00:00",
-      "description": "LG엔솔, 1분기 적자전환…영업손실 ‘2078억’ 부산일보",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "bf8fbc08ecba",
-      "title": "LG엔솔 \"ESS 공급과잉? 시기상조\"…2분기 실적 회복 기대 - 지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qMl9DMXlKa3BQQTM2cmxkcnAtbDBjNW9xb3YydFBfcXNaMzVLVVlYM085ZDdYUG14b0pPamdpcUhvZHJwZGFrcUNSRlU1U0RWeDJWbjZR?oc=5",
-      "source": "지디넷코리아",
-      "pubDate": "2026-04-30T04:32:22+00:00",
-      "description": "LG엔솔 \"ESS 공급과잉? 시기상조\"…2분기 실적 회복 기대 지디넷코리아",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "a24435d1dc2a",
-      "title": "원주시, 이차전지 산업 기반 확장…나노인텍 100억 투자로 배터리 생산 고도화 - 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8teGZhbXJLREZNYk0tYUhoUkRHeGZValJhQk1idlFndExYZXphUkZCcC1Pa0piY3prLWFOd19GYUFhRWhBQTRzNDVGNGVxZw?oc=5",
-      "source": "전자신문",
-      "pubDate": "2026-04-30T04:31:53+00:00",
-      "description": "원주시, 이차전지 산업 기반 확장…나노인텍 100억 투자로 배터리 생산 고도화 전자신문",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "4ea92a7964da",
-      "title": "LG엔솔 '2분기 매출 10%↑…ESS가 반등 이끈다' - 데일리한국",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4Nzk2dTF2WHp5R1hIbnozeTlCZWtEczZqeXh2RkZFeTQwNk1fQVYwVFd6Uk55cU4yUXJULS1kSVhRT0FPZmRKMWVLcE85NHBXVkVtRHl6MGlrVVo1RUdKUGRPTVhUT2djaUZkN1pscnlZQ03SAXNBVV95cUxQeDc5NnUxdlh6eUdYSG56M3k5QmVrRHM2anl4dkZGRXk0MDZNX0FWMFRXelJOeXFOMlFyVC0tZElYUU9BT2ZkSjFlS3BPOTRwV1ZFbUR5ejBpa1VaNUVHSlBkT01YVE9nY2lGZDdabHJ5WUNN?oc=5",
-      "source": "데일리한국",
-      "pubDate": "2026-04-30T04:14:42+00:00",
-      "description": "LG엔솔 '2분기 매출 10%↑…ESS가 반등 이끈다' 데일리한국",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "aa9503cbc845",
-      "title": "엑셀론(EXC), 美 전력가격 규제 연장에 '수백억 달러 절감'…요금 안정·조직개편 동시 추진 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wUlVRc0RrZ2JJRFBUVXM5b09uVTktOFp5RG9NbnRjYnJEMWNzZVpBb0J6b01CVUF5ZjlUaUhBOTNmQy1FVlBGaE1RUnRBS2VIc3M2S1poNNIBXEFVX3lxTE1FUmJwRW91a0hlRDBDVWJoQ2lqRnlleklmSzJvNmk1eFZRSEhiVFhzVEZ1b2xJN1V0M25pTmdyRi1VRlV2WmF4cVlaSU02MGZJc2x4eEt6VG1HbFZB?oc=5",
-      "source": "tokenpost.kr",
-      "pubDate": "2026-04-30T04:09:16+00:00",
-      "description": "엑셀론(EXC), 美 전력가격 규제 연장에 '수백억 달러 절감'…요금 안정·조직개편 동시 추진 tokenpost.kr",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "c04c713c7e95",
-      "title": "DL이앤씨, 엑스에너지 투자 성과…지분가치 3년 만에 6배 수준 - 더쎈뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wOHFyRk5aUUZkVGxPZlZMdmE0ajlqMmM4RVhjTjlKWXc0ekJOTVI0aVUxZlYzLU8xcHV3enJ2eU9FSG9ZSE81R0V3TVVUU3h5eDcwdm1yS2JuSkZWcU1ZU1FKaUlxaHVE?oc=5",
-      "source": "더쎈뉴스",
-      "pubDate": "2026-04-30T03:32:06+00:00",
-      "description": "DL이앤씨, 엑스에너지 투자 성과…지분가치 3년 만에 6배 수준 더쎈뉴스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "74048b707890",
-      "title": "LG엔솔, 1분기 전년 比 적자전환…전기차 수요 부진 타격에 영업손실 2078억 - 인베스트조선",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcTk3dWdTclFpcVhyZ2xpdzhTYldXOV96ZHF4UTNrRXNZdV9BMWxla05rV1k2V2k5LW9FTXRfTDlpeDhoUFRZYXZoUFFLOHRPMkZ4WHExTlNmLXhsNmJqS1M5NkxOR1pKRXlFTEhSTlNkaGhSS0JZVFpNSmE3aHE2cG5zUQ?oc=5",
-      "source": "인베스트조선",
-      "pubDate": "2026-04-30T03:07:00+00:00",
-      "description": "LG엔솔, 1분기 전년 比 적자전환…전기차 수요 부진 타격에 영업손실 2078억 인베스트조선",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "e7ccd99846aa",
-      "title": "美 블룸에너지 호실적·주가 폭등…LS일렉트릭 등 韓 협력사 영향은? - seoulwire.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GamRlUVhCRENsWl82cDVtZjNpM09wYktOVXlPb181U0NURldQdHBLSkJzQnk3bFJHTFpBUmZnYWpmdkRyemhObWx0YUhlZUpjZGR2MGZ3b3R0NWxtX1BUd2NXaGZHdlNRT05J?oc=5",
-      "source": "seoulwire.com",
-      "pubDate": "2026-04-30T03:04:18+00:00",
-      "description": "美 블룸에너지 호실적·주가 폭등…LS일렉트릭 등 韓 협력사 영향은? seoulwire.com",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "e5aeaf1328b2",
-      "title": "LG엔솔, ESS 확대·EV 수요 회복 하반기 반등 기대(종합2) - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tYWVHczJaVG9Wa2xmUHVGRXZJLTNMT3AxejJzcjI5V0ktQnlkLVRBOE1DTThDbWRYZUZTSUJfaVhHMzlQb0o3dEhzMlpUdnNOU2xzMkNiSnE3TmZ6amYwb3NPRGp3Mmx3Vmc?oc=5",
-      "source": "뉴스1",
-      "pubDate": "2026-04-30T02:57:29+00:00",
-      "description": "LG엔솔, ESS 확대·EV 수요 회복 하반기 반등 기대(종합2) 뉴스1",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "374f0e03b4e1",
-      "title": "LG엔솔 2분기 연속 적자…\"연말까지 ESS매출 30% 중반 이상으로\"(종합2보) - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJZjRnclowOWpvWklVZlRFSTNlMlUwa1Itd3VXNE1mcFZKSzFNQW04VlBzQlM0eTZhd0VsTUlELXVXV0lEM1BkWHVNWTNYWjNRS3MyUFJmMlMxdU42TDRTWdIBYEFVX3lxTFBJZjRnclowOWpvWklVZlRFSTNlMlUwa1Itd3VXNE1mcFZKSzFNQW04VlBzQlM0eTZhd0VsTUlELXVXV0lEM1BkWHVNWTNYWjNRS3MyUFJmMlMxdU42TDRTWQ?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "2026-04-30T02:56:03+00:00",
-      "description": "LG엔솔 2분기 연속 적자…\"연말까지 ESS매출 30% 중반 이상으로\"(종합2보) 연합뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "306aa86426ca",
-      "title": "[종합] LG엔솔, ESS·원통형 EV 반등 노린다…\"美 46시리즈 수주 확보\" - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nMjRoVnBqdXpqUUdvVkM5MU8yRkxhR25rX1FOWEpSbDZTOVkwWlpMaFZjME5MUlg4MjVoNHVKMk1FVkUwTXcxVEFVY2tfNXZCcThhdERvcU5oZUE1cmNmbnRBSlA?oc=5",
-      "source": "디지털데일리",
-      "pubDate": "2026-04-30T02:54:31+00:00",
-      "description": "[종합] LG엔솔, ESS·원통형 EV 반등 노린다…\"美 46시리즈 수주 확보\" 디지털데일리",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "ea8d567dd986",
-      "title": "LG에너지솔루션, 2026년 1분기 실적발표 컨퍼런스콜 전문 - 디일렉",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYMGtoVUlybDFfaldTWE85NUVHQmk3R09IR1VlUnlFbEdJTkEzcU5MTXVSVGdkb0VuT0V6M29pUWhsenNfNHlQSFJ6V240U3JxekJPSE1MOXBxWEcxYXJ0MHVoYnphQQ?oc=5",
-      "source": "디일렉",
-      "pubDate": "2026-04-30T02:54:25+00:00",
-      "description": "LG에너지솔루션, 2026년 1분기 실적발표 컨퍼런스콜 전문 디일렉",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "21608f68945b",
-      "title": "“ESS 각형 배터리 2027년 말부터 양산 공급” [LG에너지솔루션 컨콜] - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KVktXcXJQSUszdk5YMEllTjM2dE9LYVRoT1RQbEs5NG14YVo2ZFI4TTRxLWtwQ19UU1lRYzdOYU15ZHRDY3hXYjhhR2RpeXN1Q3cwNnNsV09fM3NLNXNpVDgyQzhFTEJEUW43bVZUNHVEWnNt0gF0QVVfeXFMTUpWS1dxclBJSzN2TlgwSWVOMzZ0T0thVGhPVFBsSzk0bXhhWjZkUjhNNHEta3BDX1RTWVFjN05hTXlkdENjeFdiOGFHZGl5c3VDdzA2c2xXT18zc0s1c2lUODJDOEVMQkRRbjdtVlQ0dURac20?oc=5",
-      "source": "IT조선",
-      "pubDate": "2026-04-30T02:50:49+00:00",
-      "description": "“ESS 각형 배터리 2027년 말부터 양산 공급” [LG에너지솔루션 컨콜] IT조선",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "90bf12e50378",
-      "title": "정부·시민단체 “전력감독원 신설 등 감독체계 개편 필요” 한목소리 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GcjhBUVAxejNrSVhFV2MtMTlvUTdOZWs1b0xoNW9Dc015NDZUTzlJb1Rvb2xQdktMeFZPdUVFenc4cXE4WXlJczlfTWlZcTRHUUEwdld1eDdxckpJMWxmMFlQbFdfR01HWHdIRUZBX0pYdw?oc=5",
-      "source": "한겨레",
-      "pubDate": "2026-04-30T02:47:00+00:00",
-      "description": "정부·시민단체 “전력감독원 신설 등 감독체계 개편 필요” 한목소리 한겨레",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "3bc03ccabbde",
-      "title": "[IR]LG엔솔 \"각형 배터리, 북미 ESS용으로 2027년 말 현지 양산\" - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2UzJ6cU9oNUhMT1Nsbjgxd2c1ZVpsRmlVWk0zM1ozRjBBT2pWUTNWUnhBaVJxcmVlSWZUMHg2Wm5RckRTcDBCMloyMHR3dFF2ZmE4NU1FSU5BcGtUeGk3Y1lDSEc?oc=5",
-      "source": "뉴스1",
-      "pubDate": "2026-04-30T02:42:37+00:00",
-      "description": "[IR]LG엔솔 \"각형 배터리, 북미 ESS용으로 2027년 말 현지 양산\" 뉴스1",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "847fec2488f3",
-      "title": "LG엔솔, 1분기 반등 예열…ESS·46원통형 본격 성과 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mWGVhSzJKaTZodFgwdzBaUEJYeFJzOVhpZEZSc1NhSkdIcDlYR3JpTS0tcUlZSk94THBGQkRhTGF5OXlsck9jQ3JDSQ?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "2026-04-30T02:41:33+00:00",
-      "description": "LG엔솔, 1분기 반등 예열…ESS·46원통형 본격 성과 v.daum.net",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "3c4bb5220774",
-      "title": "'1분기 적자' LG에너지솔루션 \"ESS 매출 비중 30%대 중반으로 확대\" - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xZTBheEJOUmlnTjd6bTc1ZmoyTWRIZkdVVHpPa0VpMVZKRUx5ZzhFaU53QWJmVTNjMGxyQ19lZnJZRXllTVQ2Q2draUxLSjQ?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "2026-04-30T02:39:03+00:00",
-      "description": "'1분기 적자' LG에너지솔루션 \"ESS 매출 비중 30%대 중반으로 확대\" v.daum.net",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "dd7e1ecbe0b2",
-      "title": "[배터리 인사이드] 'ESS 집중' LG엔솔, 북미서 피벗 전략 가속화 - 블로터",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tYjNsUmRfYjRoTVRQaFEtbXdsdzdrRVV5bmhMRWtVQmI0YTl1SVVXMnZwN2NGemFaNUZaMUphMVY2cEY5MmNVbThwWU1JT1VCUi1USVlDSWV1SF9ORGxHdmxTXzdUNGxDaWxwRtIBbEFVX3lxTE4tYjNsUmRfYjRoTVRQaFEtbXdsdzdrRVV5bmhMRWtVQmI0YTl1SVVXMnZwN2NGemFaNUZaMUphMVY2cEY5MmNVbThwWU1JT1VCUi1USVlDSWV1SF9ORGxHdmxTXzdUNGxDaWxwRg?oc=5",
-      "source": "블로터",
-      "pubDate": "2026-04-30T02:34:53+00:00",
-      "description": "[배터리 인사이드] 'ESS 집중' LG엔솔, 북미서 피벗 전략 가속화 블로터",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "aedaa610b874",
-      "title": "LG에너지솔루션, 올해 1분기 영업익 -2078억원 전년비 '적자전환' - 인더스트리뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqQ2ZMQm55ZlA3VWo1OFJtUlM0SEktVFRLT3c5VjBwajlYVnk5bzY0MVRoZEpmdmI2MHpzYUpnU2ZBQVdoSS1YN3dWY1hpMzhwcFpBS3lxWUc2NF9DbTFoa3ZhdUY4VGw1OFJQdDZCazdMdw?oc=5",
-      "source": "인더스트리뉴스",
-      "pubDate": "2026-04-30T02:21:19+00:00",
-      "description": "LG에너지솔루션, 올해 1분기 영업익 -2078억원 전년비 '적자전환' 인더스트리뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "ef0b5dd625a6",
-      "title": "LG엔솔 1분기 영업손실 2천78억원…\"EV·ESS로 반등 노려\"(종합) - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2eGFKTXRVSmZES25FZXJ2SzJLUm9taVFDMUVxMzJMOTdVdDBabC15OWxQSHNSOW9Bc0oyWWFvd21sRkVjOXlmWEY1RTBGTEFFM1B3WC15cHItMnFhVnN0aNIBYEFVX3lxTFB2eGFKTXRVSmZES25FZXJ2SzJLUm9taVFDMUVxMzJMOTdVdDBabC15OWxQSHNSOW9Bc0oyWWFvd21sRkVjOXlmWEY1RTBGTEFFM1B3WC15cHItMnFhVnN0aA?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "2026-04-30T02:18:28+00:00",
-      "description": "LG엔솔 1분기 영업손실 2천78억원…\"EV·ESS로 반등 노려\"(종합) 연합뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "74134e1e033a",
-      "title": "LG에너지솔루션, ESS 확대에도 적자 지속 - DealSite경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcVJZTkxCM2pVTEtmTXBqRF9kbU84NkttQVJBUm5kR0ZMZkRyUnFkVl9GTmlqVjROSmFVR2tEeVQ2T3FEZTZIbjExSGltUUg0VmZvR1ZR?oc=5",
-      "source": "DealSite경제TV",
-      "pubDate": "2026-04-30T02:16:09+00:00",
-      "description": "LG에너지솔루션, ESS 확대에도 적자 지속 DealSite경제TV",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "70dfcdf038df",
-      "title": "LG엔솔, 1Q 영업손실 확대…\"에너지 자립으로 ESS 더 주목\"(종합2보) | - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45RVBpUEQ4VVZFSWhXajZuWkM0X3BtZlJKZl9rTDYzUzdralRlZDJjSjU5Q3k1YVpFQTN0bDFzX0dYbm1kYVBqWTZ4S1NBSWVSRmJ2WkotbE9DYWtlYWd3b1dxLWJSOXVLdWpOVFdVRFd2ckY4?oc=5",
-      "source": "연합인포맥스",
-      "pubDate": "2026-04-30T02:09:01+00:00",
-      "description": "LG엔솔, 1Q 영업손실 확대…\"에너지 자립으로 ESS 더 주목\"(종합2보) | 연합인포맥스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "546bd095e5cf",
-      "title": "연내 ESS 비중 30%↑… 북미 50GWh 이상 캐파 확보 [LG에너지솔루션 컨콜] - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93cDVWbWVqeTNINjNCMEVHaEdHN1d5QWxxWFpMbGlzOEdtRFUxSEQ3SVNRX0lzR2REU1loekNMR0RzSnhuYlF1bzlqMDF3OVV5dWZxSVJaUGZ5aXNLOXBOWlpXNl9WUEU5Q3BSd0pxMnN2Ri050gF0QVVfeXFMT3dwNVZtZWp5M0g2M0IwRUdoR0c3V3lBbHFYWkxsaXM4R21EVTFIRDdJU1FfSXNHZERTWWh6Q0xHRHNKeG5iUXVvOWowMXc5VXl1ZnFJUlpQZnlpc0s5cE5aWlc2X1ZQRTlDcFJ3SnEyc3ZGLTk?oc=5",
-      "source": "IT조선",
-      "pubDate": "2026-04-30T02:07:13+00:00",
-      "description": "연내 ESS 비중 30%↑… 북미 50GWh 이상 캐파 확보 [LG에너지솔루션 컨콜] IT조선",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "3e88eb3339dc",
-      "title": "LG엔솔 \"소듐 배터리 개발 초기…ESS·저전압 시장 적용 검증\" - 아이뉴스24",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBBeVBUVXBldTB0dE1EcmFhOERhYmkyUC1pMWxINXNGcW1uTm92TXhOUVA5SkVoNklPdnA5R0d3M1g3eGFMeXM1S0FvRW8?oc=5",
-      "source": "아이뉴스24",
-      "pubDate": "2026-04-30T02:06:25+00:00",
-      "description": "LG엔솔 \"소듐 배터리 개발 초기…ESS·저전압 시장 적용 검증\" 아이뉴스24",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "fb51fcc2200c",
-      "title": "더 이상 싸지 않다? 전기차 초급속 충전요금 '300원대 후반' 껑충 - 월요신문",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WckdOODRQeEFYWmNqZlBsc0hEVFFxUW1uTU9DcGxZc0FiYmstZVlYTWZfSjhiNkJ5alFsRHhxbWpMVkM5Qy1wdV9UbVZ1LU5BSFpGZEtlcnNEVzZGbmtjdFJtS2lLTWdadEE?oc=5",
-      "source": "월요신문",
-      "pubDate": "2026-04-30T02:01:52+00:00",
-      "description": "더 이상 싸지 않다? 전기차 초급속 충전요금 '300원대 후반' 껑충 월요신문",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "13f7a7e2904f",
-      "title": "LG엔솔, 1Q 영업익 적자전환…ESS 생산 안정화 비용 반영 - 지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aNG82RnY0ZGF6UWVwS2xGaHdsX3NtR29DOV9ndW5zOV9GSXpZX0xvTmFfQUN3cWNPMFVLTTZYWnctZ1lLYUxBUWw5SFRtZVVReEc5MXJB?oc=5",
-      "source": "지디넷코리아",
-      "pubDate": "2026-04-30T02:00:08+00:00",
-      "description": "LG엔솔, 1Q 영업익 적자전환…ESS 생산 안정화 비용 반영 지디넷코리아",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "f35c784df60c",
-      "title": "[컨콜] LG엔솔 \"ESS용 각형 배터리 2027년 말부터 현지 양산\" - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtRDdZTFREUmZGWXhlWHpGN3M2aFR3WXVFamZhLVQ0T3BDZWYxcXZZQmtkNFdMQWxucW5GaDNkN3dPNHFOR0lWc3BJWFdrMTVOekNwVG1zQTVtYjR1VHY4bThPbjlzZnAybjF3XzhPd1hfZ9IBckFVX3lxTFAtRDdZTFREUmZGWXhlWHpGN3M2aFR3WXVFamZhLVQ0T3BDZWYxcXZZQmtkNFdMQWxucW5GaDNkN3dPNHFOR0lWc3BJWFdrMTVOekNwVG1zQTVtYjR1VHY4bThPbjlzZnAybjF3XzhPd1hfZw?oc=5",
-      "source": "머니투데이",
-      "pubDate": "2026-04-30T01:58:58+00:00",
-      "description": "[컨콜] LG엔솔 \"ESS용 각형 배터리 2027년 말부터 현지 양산\" - 머니투데이 머니투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "cf08c115d869",
-      "title": "중동 리스크가 기회로?...산일전기, 초고압 라인업 확대로 승부수 - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpUGtqamFTVndCX3hMbDRMTHhUVUV5Rk5Qc2tCTXlPQlhUTTN4Ym5Wb01fWlUwWUVsdm43YXdfbXlocVpQZ3pLeVU1azVTc2l3Y29kQUMxMVFmaVpQcVU1QjVWUHJXNTRhZ2tUVnY5cTYweWdKVWhN0gF3QVVfeXFMUGlQa2pqYVNWd0JfeExsNExMeFRVRXlGTlBza0JNeU9CWFRNM3hiblZvTV9aVTBZRWx2bjdhd19teWhxWlBnekt5VTVrNVNzaXdjb2RBQzExUWZpWlBxVTVCNVZQclc1NGFna1RWdjlxNjB5Z0pVaE0?oc=5",
-      "source": "핀포인트뉴스",
-      "pubDate": "2026-04-30T01:58:56+00:00",
-      "description": "중동 리스크가 기회로?...산일전기, 초고압 라인업 확대로 승부수 핀포인트뉴스",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "0fde6912368c",
-      "title": "동서발전-에이치투, 국내 최대 울산 20MWh VFB ESS 연내 가동 - 이투뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3M1JGX2gxQndtTUNKdmprVkZWRWlZLTFxSm9JX3ZQalJLOFZFeFJ4d1ljQV9CZ2RRMjlLeFF3aFBfbDh5d1FKdi1Ja1NtTll5WDlFNWhMZWVEZHltZUtmcEFPTVE0MVl2WDBr0gFrQVVfeXFMUHczUkZfaDFCd21NQ0p2amtWRlZFaVktMXFKb0lfdlBqUks4VkV4Unh3WWNBX0JnZFEyOUt4UXdoUF9sOHl3UUp2LUlrU21OWXlYOUU1aExlZURkeW1lS2ZwQU9NUTQxWXZYMGs?oc=5",
-      "source": "이투뉴스",
-      "pubDate": "2026-04-30T01:58:51+00:00",
-      "description": "동서발전-에이치투, 국내 최대 울산 20MWh VFB ESS 연내 가동 이투뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "35ab997ec410",
-      "title": "LG에너지솔루션, 1Q 영업손실 2078억… ESS·46시리즈로 반등 모색 - 대한경제",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wNzJLYUhiN3lEeThuVGpEVXE2NE9PTjZtMTN5NHpvdVBvb080cUxGMy0yTUVEUW9POUtRODkzSnRjUXZLODZ1b0hzU0tqNWc3dUN3T2cxa3UwSlJkQXQxZi1fNExGRGgtM1FTcG94aUVHdXNy?oc=5",
-      "source": "대한경제",
-      "pubDate": "2026-04-30T01:58:16+00:00",
-      "description": "LG에너지솔루션, 1Q 영업손실 2078억… ESS·46시리즈로 반등 모색 대한경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "ea4405055022",
-      "title": "LG엔솔, 1Q 2078억원 적자지만…\"ESS 성장·수주 확대로 성장 동력 확보\" - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01aXlzVURXS2luRTVDcFFTdUdEWFpyTkJWekt6VzBoVXhITFBxbTd1WkZGUHlEakw4RGg0ZDZ3SDg0RnU4aENLZU03ek9EMDk2dGNKZnhGWFV4ODNiRWdlRUtXYkY2Q2pDWWxWS2E4bmFJZmZtelhtLdIBeEFVX3lxTE01aXlzVURXS2luRTVDcFFTdUdEWFpyTkJWekt6VzBoVXhITFBxbTd1WkZGUHlEakw4RGg0ZDZ3SDg0RnU4aENLZU03ek9EMDk2dGNKZnhGWFV4ODNiRWdlRUtXYkY2Q2pDWWxWS2E4bmFJZmZtelhtLQ?oc=5",
-      "source": "뉴시스",
-      "pubDate": "2026-04-30T01:56:18+00:00",
-      "description": "LG엔솔, 1Q 2078억원 적자지만…\"ESS 성장·수주 확대로 성장 동력 확보\" 뉴시스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "6c08f6a22c9b",
-      "title": "LG엔솔, 1Q 영업손실 2078억 적자전환…장중 -1.48% 약세[핫종목] - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsMEFGejV3aGQ3LUctcERZVGoycEx0Y0hYTzlMLWkyNlIxRXRKb2lHYzc0elRMbldZZXJXeERMTHBlMU1mN1NZT3BLVVNUOEZ0bTV3OG96eGMtX0E3YjFnYmdjSE8?oc=5",
-      "source": "뉴스1",
-      "pubDate": "2026-04-30T01:55:07+00:00",
-      "description": "LG엔솔, 1Q 영업손실 2078억 적자전환…장중 -1.48% 약세[핫종목] 뉴스1",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "d811d6d3b05a",
-      "title": "[IR] LG엔솔 \"미-이란 전쟁, 전기차 소비심리 자극 ESS 선호도↑\" - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhZVFQMEEyZmZmNDNDTEpaYjgtMWhjUU9OVkxLQUxxVFFZamdBYUlkRUdjMlFiQ0IwdUN1ZmIyRkRJckdMWjdEOEo4b2VXbHZobW9NQUItZDJueFBtc0xOcjdOVDQ?oc=5",
-      "source": "뉴스1",
-      "pubDate": "2026-04-30T01:55:00+00:00",
-      "description": "[IR] LG엔솔 \"미-이란 전쟁, 전기차 소비심리 자극 ESS 선호도↑\" 뉴스1",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "1b58b18a5381",
-      "title": "그리드위즈, 호주 LKAD와 BESS 100MWh 공동개발 추진-글로벌 사업 확대 - 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NQm41cmFDYXdFU2d1OVJJZ19Yc2d5Nk0wZWw0UnhWNEVLbEJjclNMbHpmdnZiUExiX2NsUzhuUDBjZk9HaXltYlZwZXotdw?oc=5",
-      "source": "전자신문",
-      "pubDate": "2026-04-30T01:54:41+00:00",
-      "description": "그리드위즈, 호주 LKAD와 BESS 100MWh 공동개발 추진-글로벌 사업 확대 전자신문",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "87e37ec20e75",
-      "title": "LG엔솔 \"2분기 매출 10% 이상 성장…ESS·원통형 배터리 견인\" - 아이뉴스24",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93QjE3VmNsOXRNS050VWlSRFY3YmdqM1ljWUZsbWEyVlAtUUtPeDdSczdsNDk1RmZBU3hCbHhrM1FLeklyc21NVWhTNm0?oc=5",
-      "source": "아이뉴스24",
-      "pubDate": "2026-04-30T01:54:04+00:00",
-      "description": "LG엔솔 \"2분기 매출 10% 이상 성장…ESS·원통형 배터리 견인\" 아이뉴스24",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "97852644cba5",
-      "title": "효성중공업, 美 송배전 전시회서 AI 전력망 솔루션 선보인다 - ER 이코노믹리뷰",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rRHd2YlQ4VnVNenRNam1pTnd6b2p5Q21ZYm1kY05ERnRPazB4Z2FTdnFmQkpONW5naFdJMnJVZFpERDM3TUMtTmNUTTJLck1sbmgxWHZ1Yjhlcy1kVUtMcEFCZU5idDI5b3J4Qw?oc=5",
-      "source": "ER 이코노믹리뷰",
-      "pubDate": "2026-04-30T01:52:35+00:00",
-      "description": "효성중공업, 美 송배전 전시회서 AI 전력망 솔루션 선보인다 ER 이코노믹리뷰",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "5637f4f16667",
-      "title": "동서발전, ㈜에이치투와 국산 바나듐 흐름전지 저장장치 공동개발 - yhjindo.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xazlaWFJkWEd6Nmd3c3B0RTJHZmkxZE5aY0VkaFVwbUpjRVZJWjV0SFNpNUZKOWVRQndUVVpoWmFFanFIZzdLTFRYRWpUemlwZjBCLTFtcmp4SUFBb3ctX0tjaFVXT2FPSHEw?oc=5",
-      "source": "yhjindo.com",
-      "pubDate": "2026-04-30T01:52:17+00:00",
-      "description": "동서발전, ㈜에이치투와 국산 바나듐 흐름전지 저장장치 공동개발 yhjindo.com",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "cb01a3693886",
-      "title": "LG엔솔, 1분기 매출 6조5550억·영업익 2078억 기록..ESS·원통형 배터리 수요 증가! - dailycar.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEbFZ6ckowc1FMZGFkN2kxYnliVHN0QV8weE5Pc1VkdmRWMlFQSUhZS3BsYzAzemYxdmV3bkdMSGlQWEVVSG9VbXExaEpsWlh5Zm5MUndXbkJjUE8xX2pSeDl3SEZDS2F4dVBUNTlPVWtnRTJJLWc?oc=5",
-      "source": "dailycar.co.kr",
-      "pubDate": "2026-04-30T01:42:15+00:00",
-      "description": "LG엔솔, 1분기 매출 6조5550억·영업익 2078억 기록..ESS·원통형 배터리 수요 증가! dailycar.co.kr",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "657ca877f5d8",
-      "title": "【ESG Deal】블랙스톤, 유로윈드에 20억유로 투자…유럽 전력 수요 급증에 대응 - 임팩트온",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKZlUtOTVPdnlHb0YwYTY4MmRiSk1RUDlvNFBPM19LVDNsb21tX3hsVTQ4eGtaVWNjLUd4YjVlZ09CSXRZclBGZ1JIWmp5VHNBU3o5QTYwUXhkYVBpMlJOZEJSXzJXQjhEVFHSAWxBVV95cUxQc1VfQ2h5eXNTUGxVXzBLczFuT1FScnlsM2MzLTBDWEQ4Ym1GS1dxNWprVEpibGVzcHhJY2dOaHFYZTBqSWNhQWZfeWpydkV3VUlPZ1lIdm4ySlBqWkEtMS1PODhMWWlWV1E0bzY?oc=5",
-      "source": "임팩트온",
-      "pubDate": "2026-04-30T01:39:14+00:00",
-      "description": "【ESG Deal】블랙스톤, 유로윈드에 20억유로 투자…유럽 전력 수요 급증에 대응 임팩트온",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "9960a6c5bef5",
-      "title": "LG엔솔, EV 부진에 1분기 적자…ESS·원통형으로 반등 모색 - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iUXpMdFZZQVZxUkJKUFE1c1pEeGtHdjdQa0VzQnFpb3MtSFM2UlMxQnRfMFBRTmlQQzNMaWZhNzR5dWZYYjloT25ib2gtbzBLcTV4cXNVVnFSVm5zbUxWdUh5Skc?oc=5",
-      "source": "디지털데일리",
-      "pubDate": "2026-04-30T01:37:02+00:00",
-      "description": "LG엔솔, EV 부진에 1분기 적자…ESS·원통형으로 반등 모색 디지털데일리",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "a4e79c95a2f6",
-      "title": "LG에너지솔루션, 1분기 매출 6조5550억…전년대비 소폭 감소 - 한스경제",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xc1FQT1dkVXFRQ2dIbnVheVQzdkNhLTZON2lhdEtRYTBLc2Y2OHZVaEJOUElLMDgxWFhULVJuRDJEWXhlWkg4TGRwY3RteGtHR2R1MHN3WkN3X0dVanZWQjZObmxUTVJTbUtPakxTRdIBb0FVX3lxTE4xc1FQT1dkVXFRQ2dIbnVheVQzdkNhLTZON2lhdEtRYTBLc2Y2OHZVaEJOUElLMDgxWFhULVJuRDJEWXhlWkg4TGRwY3RteGtHR2R1MHN3WkN3X0dVanZWQjZObmxUTVJTbUtPakxTRQ?oc=5",
-      "source": "한스경제",
-      "pubDate": "2026-04-30T01:34:23+00:00",
-      "description": "LG에너지솔루션, 1분기 매출 6조5550억…전년대비 소폭 감소 한스경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "c3d35637dd1b",
-      "title": "중동전쟁에 에너지비용 급증…\"피크연동제 개선필요\" - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QUVVzajhHakI1VjJQYVRicDRpZHdOZE9XQUpWY2hzNjJaWGJDSm9SUFRVVG95Zmt5bTVyQkhJdjZlaVc1RW9RRGdjY2FDdklycnNUNk53YzRjTzc0S241SG9QSXF6T0g3LW9lbGNRY0ZXNEQ2LUNzOdIBeEFVX3lxTE5QUVVzajhHakI1VjJQYVRicDRpZHdOZE9XQUpWY2hzNjJaWGJDSm9SUFRVVG95Zmt5bTVyQkhJdjZlaVc1RW9RRGdjY2FDdklycnNUNk53YzRjTzc0S241SG9QSXF6T0g3LW9lbGNRY0ZXNEQ2LUNzOQ?oc=5",
-      "source": "뉴시스",
-      "pubDate": "2026-04-30T01:32:27+00:00",
-      "description": "중동전쟁에 에너지비용 급증…\"피크연동제 개선필요\" 뉴시스",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "4e67d2d7cde4",
-      "title": "LG에너지솔루션, 1분기 적자 전환…“ESS·AI 전력 수요로 반등 기회 모색” - 투데이e코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03TkZvZGczRWNScjI1TG1CUGZvbnlOSVJjUzBMRFlwdXlJWEQ4ZjhMT0pXTUJiYUl6SzBKa3FydHVCdU1yNWxFMGhnSEhRNWhLNUt3N2l5eG9aT1ZBX1JWOHlGSjJrUHc?oc=5",
-      "source": "투데이e코노믹",
-      "pubDate": "2026-04-30T01:32:00+00:00",
-      "description": "LG에너지솔루션, 1분기 적자 전환…“ESS·AI 전력 수요로 반등 기회 모색” 투데이e코노믹",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "02484524f92a",
-      "title": "\"피크 한 번에 1년치 기본 요금\"…中企, 한전에 요금제 부담 호소 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JbW95VjZETmxFdGhPbm1BMnE1TEQyRE1YTm5yX1oxSXBubV9WQ2gzdWs5ckR2SndVTmNDZW15RmtRc2NQaXRJWENITXFMZnRsOE81WkpENnZtSmJT?oc=5",
-      "source": "뉴스1",
-      "pubDate": "2026-04-30T01:30:00+00:00",
-      "description": "\"피크 한 번에 1년치 기본 요금\"…中企, 한전에 요금제 부담 호소 뉴스1",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "2b965d3056fe",
-      "title": "LG에너지솔루션, 1Q 영업적자 컨센 하회…\"ESS 비중 계속 확대\"(종합) - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SZl9jRlpLQ3NYYW1mUTZ4WW9LRkRuV0FFM3hGNzJETUVFNXBYY3Z6NFgta0JRdUx0d0xlQS1hTmEtMng5UlpINFh0cUVkQV9TM3FnR3BJNDlwZDEwT2JMNllWakNHbl91QnJlOU1QU08?oc=5",
-      "source": "연합인포맥스",
-      "pubDate": "2026-04-30T01:29:01+00:00",
-      "description": "LG에너지솔루션, 1Q 영업적자 컨센 하회…\"ESS 비중 계속 확대\"(종합) 연합인포맥스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "930d42a4eec0",
-      "title": "중부발전, 해상풍력 등 재생에너지 발전설비 통합관리 운영 - 이투뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oYlpBZ2pUTXhWcGJobUVMaUlTOXJUR1c2Y3VDSEZSbXBHUE9jdkJhWGFqMDJBX1J6SEo4d1NtM2hOQ1hsQllPV2M2T2Y1b1hfQlAycEZsSXRHR1Z1QlZ0Z1AtcTF3MnPSAWtBVV95cUxOc0psXzV5TzJFS3lHYnhjUUpJZHRzd2hob2N3aUZrNk5XWm1LX1hNS25MX050dzF4MGNLNUJOb3F5QUhSYmI1WTM3WU54S2NDUUZaZUNEOUtxNHE2OWljYjNfVjNSMFhzcGxjRQ?oc=5",
-      "source": "이투뉴스",
-      "pubDate": "2026-04-30T01:25:42+00:00",
-      "description": "중부발전, 해상풍력 등 재생에너지 발전설비 통합관리 운영 이투뉴스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "da174cea9c16",
-      "title": "[IR] LG엔솔 \"연말까지 ESS 비중 30%↑…북미 50GWh 이상 캐파 확보\" - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1McEJiVmhha0JGNzFLbDR4YXNoYjhiVWFZNUNLOGhVd3RuQVZkU0duMWdPR1dVc09IWTI3UjY3bnFqNW9WOTVabHZxUFBqYVVBNXVqSkhaSFEwQnFkZUppUUlKUkZjS1JTSmc?oc=5",
-      "source": "뉴스1",
-      "pubDate": "2026-04-30T01:20:52+00:00",
-      "description": "[IR] LG엔솔 \"연말까지 ESS 비중 30%↑…북미 50GWh 이상 캐파 확보\" 뉴스1",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "143f1508ab43",
-      "title": "AI 에어컨으로 더운 계절 전기 요금 문제를 해결하세요. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkenB1M2RwRnI1NV90SmE1Ny1oNGxqTnBUU1h1WEQ5TnFPYlNWQU0tMDJMU2lLM0hTdzV0WU9QUERnMzNvODNfN2FWbzdaaDQ3V3hjYWhZUUhZR2VXczczY1EtWUR2eU9BVnk4alFZLVBZYzJrYzFCUjRlS0szZDQ?oc=5",
-      "source": "Vietnam.vn",
-      "pubDate": "2026-04-30T01:04:01+00:00",
-      "description": "AI 에어컨으로 더운 계절 전기 요금 문제를 해결하세요. Vietnam.vn",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "f629adfeee74",
-      "title": "EVE에너지, 데이터센터용 배터리 백업장치 출하 '눈앞' 전력 피크 대응 - 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzSnVBcGVPb3RHaEowazBZUmdhSzQzbkotcDRCbnhSNTlQT3Q5Q3VENnlrMTBaNmFiT0RkTXV2eVQyZWZ3RVdlNXFwSDZzS0cxSHZtOWhUZ2d5UjdjVzBFeUFxWQ?oc=5",
-      "source": "더구루",
-      "pubDate": "2026-04-30T01:01:22+00:00",
-      "description": "EVE에너지, 데이터센터용 배터리 백업장치 출하 '눈앞' 전력 피크 대응 더구루",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "a9ba2e97c88f",
-      "title": "증시 주도주로 떠오른 `이 업종`…반도체·조선도 뛰어넘었다 - 매일신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03YVdhSHp2LWxqN3o1V0toU0dJa2pvMnk2NXhtamdGZjhkcW5qZmdpS1pSdXhZbktmc0JFTGNXaXFBT0trV3ZnRXluQXE3d2hzUkc1WGdLRXF4X0ZqVFdCM1Fn?oc=5",
-      "source": "매일신문",
-      "pubDate": "2026-04-30T01:00:37+00:00",
-      "description": "증시 주도주로 떠오른 `이 업종`…반도체·조선도 뛰어넘었다 매일신문",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "800c00ccfbf5",
-      "title": "[PV·ESS리더스클럽 29] 솔라라이트, ‘운영의 기준’ 만든다… 김월영 대표 “신재생에너지 O&M 업계 표준 목표” - 솔라투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBveUdwdVB4UFY0cWZNc3NrcTNiWV9RWEU5d0tGX3lsLS1wQ1BnOEIxdEJ0dTVvZXhmRjMyeTFCRklqRkVveTByMXo1dWhDMjRUeHpyYk16bUxZSUs0VTdiWkRMRkVHWDJGOG5MVHEtT0M?oc=5",
-      "source": "솔라투데이",
-      "pubDate": "2026-04-30T00:19:34+00:00",
-      "description": "[PV·ESS리더스클럽 29] 솔라라이트, ‘운영의 기준’ 만든다… 김월영 대표 “신재생에너지 O&M 업계 표준 목표” 솔라투데이",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "a97e43459186",
-      "title": "효성중공업, 美 송배전 전시회서 데이터센터 전력 솔루션 공개 - 시사코리아",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1HV1NMNk9RdERhTDNqc1d4NDBWbWNIN3R3cFFYeDYxeHJxZVNRTnB3Rl9wQjhWYkV5ekEyZWhncW16QnY5?oc=5",
-      "source": "시사코리아",
-      "pubDate": "2026-04-30T00:18:00+00:00",
-      "description": "효성중공업, 美 송배전 전시회서 데이터센터 전력 솔루션 공개 시사코리아",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "cabdf647774f",
-      "title": "[특징주]키스트론, 美 데이터센터 전력소재 비용 95조 전망에··전력소재 핵심 소재 매출 증가 기대감에↑ - 데이터투자",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wOHM4VHQ4MUVyQlNlVU5LcDV2NlRaR2FvRmx5NTZqWENoMTN5VVhReEV2Z1JXT0pnS3NHLXdjNmhVUGZxNUU0MHBKdElkYlhxaHVVZjNpZnVHblBsT0p1LWFyd3c2QzVwSnhPdTJvWWFuYTQ?oc=5",
-      "source": "데이터투자",
-      "pubDate": "2026-04-30T00:13:43+00:00",
-      "description": "[특징주]키스트론, 美 데이터센터 전력소재 비용 95조 전망에··전력소재 핵심 소재 매출 증가 기대감에↑ 데이터투자",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "6e17ab4f63d4",
-      "title": "[심층 분석] 북미 AI 전력망 패러다임의 전환: 효성중공업, '토털 솔루션'으로 승부수 - 뉴스밸류",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IOEhmSUdaWFozVUcxQlFxNWZYRnVFb2RLcVZBM1Y5bUphT2dUVE00WllrcTNvSUJreHY2Wml2dm5SbkFMSVoyVXNXQmtxcWplTWY3cjU1dkdDN1VjbEhjWV9wTjBrQjJmQWc?oc=5",
-      "source": "뉴스밸류",
-      "pubDate": "2026-04-30T00:10:00+00:00",
-      "description": "[심층 분석] 북미 AI 전력망 패러다임의 전환: 효성중공업, '토털 솔루션'으로 승부수 뉴스밸류",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "40f3048a27c6",
-      "title": "LS ELECTRIC: 스마트 에너지 자동화 혁신 : 기업/산업 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JVVpjX3A4Tm1LN0FRQmFsd25TRlRqQ2hPclhaVjlHYlJha0lKSnhnUmVXSktTR2RDN3ZQajh5YnV5TXl1VzhaQmVR?oc=5",
-      "source": "재경일보",
-      "pubDate": "2026-04-30T00:09:00+00:00",
-      "description": "LS ELECTRIC: 스마트 에너지 자동화 혁신 : 기업/산업 재경일보",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "b184632119d9",
-      "title": "\"100GW 재생에너지 목표, 전력망·시장 구조 개혁 동반돼야 한다\" - 에너지데일리",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaS1NmSzdwdFVfZkJnTUhldW5GRWV6MFQxNkNrNnM3UU5nYkpVU05qMFAtdThqV2xSbnhwTHh0WmVoVkZEd2NNeXFRemR2aFM3SlRRc0JJRnpqc1o3RTQ0dEZyMC02U0UtNXZ4SEVHa0hpZw?oc=5",
-      "source": "에너지데일리",
-      "pubDate": "2026-04-30T00:06:00+00:00",
-      "description": "\"100GW 재생에너지 목표, 전력망·시장 구조 개혁 동반돼야 한다\" 에너지데일리",
-      "category": "태양광/RPS",
       "priority": false
     }
   ]
