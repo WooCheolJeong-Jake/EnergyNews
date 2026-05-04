@@ -1,11 +1,21 @@
 {
-  "lastUpdated": "2026-05-04T08:32:50.445373+09:00",
-  "totalCount": 57,
+  "lastUpdated": "2026-05-04T16:42:44.541053+09:00",
+  "totalCount": 54,
   "articles": [
     {
-      "id": "4f21dfe979a8",
+      "id": "edfd62dc1037",
+      "title": "동서발전, 한화에너지와 분산에너지 활성화 위해 손잡았다 - 일렉트릭파워",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FSUNzY01FTG93YWRDaFhaekRkRHZCZlQtYkRJSHhFdnJzQmlvX0J6YWk5UjNBeVFTbGo3QkJEWkpuNG1sMEdvTDZwekFwMXJ5LTIySU9OMzBSODc5MVhkak1sX00?oc=5",
+      "source": "일렉트릭파워",
+      "pubDate": "2026-05-04T00:16:00+00:00",
+      "description": "동서발전, 한화에너지와 분산에너지 활성화 위해 손잡았다 일렉트릭파워",
+      "category": "AI",
+      "priority": true
+    },
+    {
+      "id": "2295c8551948",
       "title": "[기고] 전력감독원, 분산에너지 지휘자 역할 맡아야 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NbllHLTBPMzBhY2E0YTNBbzJCZVlmMEJzR0VKdWZkb1VhWVRUV0xGdXFzMTRtcERaZFZwazZtbENVQVY0Q0pDaEE0YnlVYk1WODBwa2E0ZTN3UWVYWUhJMGRhbkZDd9IBU0FVX3lxTE1ZRjFrYTNyYzlzUWVVOHlBS0JEQzJHcV9IUW5YSU1qNnhENkp4Umg1SU0zZ18wSzFIaG9ZX21WdFUydWJUbVl4NkVQaFBQOG1ILVg4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9peGZkZGNrWmE4cGNNVGpLSHJDMnVSNDBvNnIyS3dNTGJYMFFGWERVR2dTY3hPOXRabkZQb0FXTXJnMWJORFp4bUFzZHU2UVNZMWfSAVNBVV95cUxNWUYxa2EzcmM5c1FlVTh5QUtCREMyR3FfSFFuWElNajZ4RDZKeFJoNUlNM2dfMEsxSGhvWV9tVnRVMnViVG1ZeDZFUGhQUDhtSC1YOA?oc=5",
       "source": "서울경제",
       "pubDate": "2026-05-03T20:00:00+00:00",
       "description": "[기고] 전력감독원, 분산에너지 지휘자 역할 맡아야 서울경제",
@@ -13,14 +23,334 @@
       "priority": true
     },
     {
-      "id": "818befc77d62",
-      "title": "[기후테크이니셔티브]“전력망·요금 안 바꾸면 탄소 못 줄인다”…VPP·수열 등 해법 - 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vOEdHVjZVa05iRkREMVB5ME0xNzBuUlVBdGR2SUdQTTFabGVXOHVhanNwb2U3SVpsWHpDUV9sdGhtdTFpMm1TWmFxUXc?oc=5",
-      "source": "전자신문",
-      "pubDate": "2026-05-03T00:32:17+00:00",
-      "description": "[기후테크이니셔티브]“전력망·요금 안 바꾸면 탄소 못 줄인다”…VPP·수열 등 해법 전자신문",
+      "id": "600842120a41",
+      "title": "전력기기 3사 수주 잔고 증가…“초과 수요 국면 이어질 것” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xa1ZoOEo2Z0RrWVhzVXI5UjRtd3FEbHZ2X21uTWNDT3c2ci1UNVNBRDZQRGlmdjFFNTBZTENSeVZnTUE4WjloNW9PdWlMaTdsX0xjdVZGS0l4d3N5VDhxWTd6ejFUTk5CV0dtcDlRZFlUZw?oc=5",
+      "source": "한겨레",
+      "pubDate": "2026-05-04T07:40:00+00:00",
+      "description": "전력기기 3사 수주 잔고 증가…“초과 수요 국면 이어질 것” 한겨레",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "ca836ac75dd1",
+      "title": "창원시의회 미래전략산업연구회, 창원형 산업고도화 전략 제시 - 경기뉴스원",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IZWhwWTEtd1pRMzktdWVsSG0teGVCTEQzRU5EUjN4Y0RpSG9PWmRvWmFrdC1kU3dXejJhX3dXUU5lb0FGS21BNDVKeTVqVXRxaXVfQmZ2YS1WcFZ2bV9WbU5MNA?oc=5",
+      "source": "경기뉴스원",
+      "pubDate": "2026-05-04T07:30:45+00:00",
+      "description": "창원시의회 미래전략산업연구회, 창원형 산업고도화 전략 제시 경기뉴스원",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "ef2a2e11214a",
+      "title": "AI 수요 타고 번진 전력 테마···에너지 ETF 수익률 '급등' - 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SaWcyd1Z5OGVqTXBGR0ZSNU9EblpDUHJTYW9JdVVyNUJHSUNZdjhkbjdYdXY2M2JwSm41Y19acjNmNHE2VTZJbkNPSFBIc2xLT3htN1lBWlJmaVd4YklqTDNPLUdWczRJUFE?oc=5",
+      "source": "서울파이낸스",
+      "pubDate": "2026-05-04T07:17:34+00:00",
+      "description": "AI 수요 타고 번진 전력 테마···에너지 ETF 수익률 '급등' 서울파이낸스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "9a626dc5ba98",
+      "title": "중국은 인공지능 데이터센터와 직접 연결된 최초의 친환경 에너지 프로젝트를 운영하고 있다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVGlldHRqd0Jsczd4WmE5OEFqR2VTbUp5Mk90QVFTN2pUd3gzVW9jYUI3NWFvVVpFOXpVMGotU0dqbF9jWnVvWDQtQnhQUURlWFYxTFVVQXJLTUhMZjZpT2Rsekx4OUh6MU9MZWJSQjJXT1BFQlJwQzZsYnkwcDBwT09yTVhQS1lRTUtVMzdENlR5ZDdMUWphZVJtdm5hYm5ROVBsSl9WWnlPUWh1LVZUTkFFdEhFZw?oc=5",
+      "source": "Vietnam.vn",
+      "pubDate": "2026-05-04T06:39:48+00:00",
+      "description": "중국은 인공지능 데이터센터와 직접 연결된 최초의 친환경 에너지 프로젝트를 운영하고 있다. Vietnam.vn",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "0513252f3073",
+      "title": "'셀 Vs 소재' K배터리, 1Q 실적 온도차…2Q 웃을 수 있을까 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LSVd0djN0U0FFWXBqYnF6OFVXM3BuQV9xSC1HMXVhYXpOdWRodkIwa1RqM0dMN0tnQV9oazIwMG5xX2VjOTc3Z3JMeUJ6dHZPMzZKWHlZWTlkaTZ6NURMMXdSYW85cFBySWt6aVVsQ3Rndw?oc=5",
+      "source": "중앙이코노미뉴스",
+      "pubDate": "2026-05-04T06:10:04+00:00",
+      "description": "'셀 Vs 소재' K배터리, 1Q 실적 온도차…2Q 웃을 수 있을까 중앙이코노미뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "837155facfff",
+      "title": "[초점] LG에너지솔루션, 1분기 적자에도…ESS·46시리즈 성장 '청신호' - 뉴스워치",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjdFI1ZlJBQ0NEZ2h4TXFneGtGWVFEdHhVM2VIWmJkX0FvSVVWS2JYajNvdkxQWXRHUFFCSWFyUHQ2aFdzaUdrZU85QnZZRllZT0txdV9WVm9hNlpfY01wS2lZV2FNRGs2?oc=5",
+      "source": "뉴스워치",
+      "pubDate": "2026-05-04T05:30:51+00:00",
+      "description": "[초점] LG에너지솔루션, 1분기 적자에도…ESS·46시리즈 성장 '청신호' 뉴스워치",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "f522604bea50",
+      "title": "엠젠솔루션, 두현인프라텍과 LIC 배터리 양산 위한 MOA 체결 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kdEUwc0NNMTBZVE9YU052ZlRmbE10S3RxNllEdUIzM095UTUtMWRZd2JzMDBiS1pqSlZkZVJVdXZnOVl3TGdPWGFya0YwenlZNVgyQS1oLTg4Q1VK?oc=5",
+      "source": "뉴스핌",
+      "pubDate": "2026-05-04T05:08:00+00:00",
+      "description": "엠젠솔루션, 두현인프라텍과 LIC 배터리 양산 위한 MOA 체결 뉴스핌",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "418ac3420e21",
+      "title": "삼성重, LNG-FSRU 1척 수주…4848억원 규모 - mydaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92MGVSOWZnVEMzNGpmRFQyaVdCT0x0WW1KcVVsR1FKTEUxMHIxODN4NkkzaVl0LWg1NVNSdnFldTVWZjBsbnM2dm16SjA0V0tpUnRwZHQwVnRrZVdLOENjdlVRT1JhQQ?oc=5",
+      "source": "mydaily.co.kr",
+      "pubDate": "2026-05-04T04:38:13+00:00",
+      "description": "삼성重, LNG-FSRU 1척 수주…4848억원 규모 mydaily.co.kr",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "ad1e9853c66d",
+      "title": "한국전력거래소, 김성진 신임 이사장 취임 - 일간투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FNDhZN2k4WnJfVlBzZTZaamtmS2kyNjRZNlZLelBYMnZycl9JcGppYURmNkhZQVlHbnAzUG9OOVlaaXpFcjZGRE02QzRBdWg1TXctZlA5NDJjZDEydnZNNmNyRV9oR21wbF9B?oc=5",
+      "source": "일간투데이",
+      "pubDate": "2026-05-04T04:24:40+00:00",
+      "description": "한국전력거래소, 김성진 신임 이사장 취임 일간투데이",
       "category": "전력시장",
-      "priority": true
+      "priority": false
+    },
+    {
+      "id": "e9708bfdadf6",
+      "title": "AI는 에너지 블랙홀…수요 폭증·공급 충격 ‘이중 위기’ - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OVU44OUJrR3Q5N1lLSlZFVjdCbTlKSC15d19KMmtuc3VFR245UVhLTU5rUnpSQWdndjdHZ1RWSWp3V2RJbXItSlBnNW14cTF0VnM1UnpoU0lSc3NPUzBlNjdVdw?oc=5",
+      "source": "에너지경제신문",
+      "pubDate": "2026-05-04T04:09:00+00:00",
+      "description": "AI는 에너지 블랙홀…수요 폭증·공급 충격 ‘이중 위기’ 에너지경제신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "fcfb06cd5ca6",
+      "title": "LG에너지솔루션, 2026년 1분기 적자 전환 - 다나와 자동차",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQUxxWGRlWVdiNmV3bUVEbFNfQ0JOdy1zTHVJdDZLYTJWT2t1aFU1TTQ1ZHBab3U1NWVydkdEOUdZZmswRXlKQXl2UHlHM0hlR0RQMFQ1ZzNtX2ZVVUhzS0FDbGhEcDlxa0VZWXdnekJQYzRJU3V6SlUwM1prdjdOb0NmX2dKME9FQTlhc0J5ekpUV3JmNEo2R1BKaEkwOU5Zb3h3ZXBhNTBrZ0hlVlNxYloycV9PZVAtSDBzWE1WTWNkUlRsVnR1clNLcHZZcVQta2RLdnoyOHVxTjRSSHEyTXpDLVk?oc=5",
+      "source": "다나와 자동차",
+      "pubDate": "2026-05-04T03:33:52+00:00",
+      "description": "LG에너지솔루션, 2026년 1분기 적자 전환 다나와 자동차",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "0068b090348f",
+      "title": "이차전지 엘앤에프 독주 속 LG엔솔·삼성SDI·에코프로 일제히 상승세 - dailycar.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzRUl6NTV0U0R4MkhGWF8yZV9YQ1FjX2loU0V0MXhzSU9jY3VJU3Y1WHgxYWJBNHdFUF9pZ3dkcERGQWxncjNMcnJvMHRTSUVyRWJTTS1uLXgyLVZjOUladTd0OGRDcEFva2RkSjh0enpCUU5wN3c?oc=5",
+      "source": "dailycar.co.kr",
+      "pubDate": "2026-05-04T03:23:20+00:00",
+      "description": "이차전지 엘앤에프 독주 속 LG엔솔·삼성SDI·에코프로 일제히 상승세 dailycar.co.kr",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "3532999e39a9",
+      "title": "AI 시대 제조업의 힘…부산테크노파크 혁신의 기록 - 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMMXkyQXphZGI0cjhVcWJ6SHc3eDEwcjFWa1MtR0hUbEFkMV9FeGpQYWdwX1VVcmNvTWREVEtLdkVRMXV6enhKZHdiVi1qU1E3S2wxZUdoanVkaTZ3ZGs5clh4VUpCbGQ5U0p3UDVJQ3plRnU2?oc=5",
+      "source": "부산일보",
+      "pubDate": "2026-05-04T02:32:09+00:00",
+      "description": "AI 시대 제조업의 힘…부산테크노파크 혁신의 기록 부산일보",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "e25e5ebcea36",
+      "title": "삼성중공업, 4,848억 원 규모 LNG-FSRU 수주…해상 에너지 인프라 경쟁력 입증 - 코리아포스트 한글판",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uazlXQWkzNHAycEMyVVd4cHd4ZHFXcnUyNkxjRFhwYVk4RkFOa2ltUzhnSFQzQVYzVFgzVzRfYWRDRWtDSVVPa09FR3ROaGhHQnQ4dzZPNFZRaTcwUlZWOGRRaDlncXdxazR4U0pB?oc=5",
+      "source": "코리아포스트 한글판",
+      "pubDate": "2026-05-04T02:25:40+00:00",
+      "description": "삼성중공업, 4,848억 원 규모 LNG-FSRU 수주…해상 에너지 인프라 경쟁력 입증 코리아포스트 한글판",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "c4e4d287232f",
+      "title": "우리銀, 미국 대형 가스복합화력발전소에 K-금융 주선한다 - 파이낸셜리더스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZQlZxcXZfUUhKNFczWnFWU3hlcU9PSTFWbXBma3k0eUZTdHZYa3NkbUdGVWRQdWRqaTRUWE9sdXl4V18zSmx0ckw2WUp4VE1qMDYwV3FkSHV4bmlZdWFvWEVSakg0XzQzY3c?oc=5",
+      "source": "파이낸셜리더스",
+      "pubDate": "2026-05-04T02:05:01+00:00",
+      "description": "우리銀, 미국 대형 가스복합화력발전소에 K-금융 주선한다 파이낸셜리더스",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "db2e09452d8a",
+      "title": "삼성중공업, LNG 부유식 저장·재기화 설비 4천848억원에 수주 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5cFNpcE9QekFLYXVlOVVlcFQ5UXg5dU9OczBBSFVNNnYwUTM3RDU2RFNuaGtyYmJOdld6WFJoWHlJVWJhZWtzVENiOTJMMzBmV0hOc0tRWGdaZ1FtTHVyYdIBYEFVX3lxTFA5cFNpcE9QekFLYXVlOVVlcFQ5UXg5dU9OczBBSFVNNnYwUTM3RDU2RFNuaGtyYmJOdld6WFJoWHlJVWJhZWtzVENiOTJMMzBmV0hOc0tRWGdaZ1FtTHVyYQ?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "2026-05-04T01:57:39+00:00",
+      "description": "삼성중공업, LNG 부유식 저장·재기화 설비 4천848억원에 수주 연합뉴스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "db99a580944f",
+      "title": "2차전지株, 다시 질주 중...\"수요 회복·다변화로 주가 재평가\" - seoulwire.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQmNWanFPdFNRN1lPU1RLcHZGZG82QTVRNHNLWU1EY3dxc1Exa01kSVN2bjg3VnpwbzR3T2hBbjFjOUd1b2F4RHRxdkt6TDY2VXVvS29GM1pYVGp5SHFsVXZsblN2M3VNbHVodg?oc=5",
+      "source": "seoulwire.com",
+      "pubDate": "2026-05-04T01:54:13+00:00",
+      "description": "2차전지株, 다시 질주 중...\"수요 회복·다변화로 주가 재평가\" seoulwire.com",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "5f97e27b7d92",
+      "title": "삼성重, 4848억 규모 FSRU 수주···'LNG 통합 솔루션' 경쟁력 입증 - 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wcHgyZlhhV1FGOEgxbU9sMHh1UmNMZndNajBCeDRmNmo5c084c08yaU1YcE9rdU5RLVZ0ZE1yd2Rpb1BBYjRFWm50eGRCNmRxVUN6NGxwSmw2anMweDhrY3BPVVFNbmpSOFE?oc=5",
+      "source": "서울파이낸스",
+      "pubDate": "2026-05-04T01:47:56+00:00",
+      "description": "삼성重, 4848억 규모 FSRU 수주···'LNG 통합 솔루션' 경쟁력 입증 서울파이낸스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "57a78fced149",
+      "title": "변압기·GIS 기술력으로 무장… 제룡전기, 고마진 선별수주 전략 통했다 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56N0tEdW5UeGpMMFU0SUZnVHlBRHZ6N3NRa1RoOGtQNHBXejVweVRGX2M3eVhCR2VrYlkwa3h0V1hPSDlQS1Z1VUdMT25jbzJrZ2lwZUZKckRwMkZDeGNqLVZmelc3enQ5V1kyOFdTQVRBVmQzbGpz0gF3QVVfeXFMTno3S0R1blR4akwwVTRJRmdUeUFEdno3c1FrVGg4a1A0cFd6NXB5VEZfYzd5WEJHZWtiWTBreHRXWE9IOVBLVnVVR0xPbmNvMmtnaXBlRkpyRHAyRkN4Y2otVmZ6Vzd6dDlXWTI4V1NBVEFWZDNsanM?oc=5",
+      "source": "핀포인트뉴스",
+      "pubDate": "2026-05-04T01:41:02+00:00",
+      "description": "변압기·GIS 기술력으로 무장… 제룡전기, 고마진 선별수주 전략 통했다 핀포인트뉴스",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "12e254efbcc6",
+      "title": "삼성重, LNG-FSRU 수주...에너지 인프라 시장 공략 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QYmE2bGk1SXJGQ1ZGbTlQZG9sN21XVkMyYlM1d010T3RVSGxBMmhoWUtOMTRCOFkwMU8xNHNxc2lHLWNEZkFpRGlUZ0drUnJyZDhqaXo3a3g1Q2dFNWNLZGU0c3lJSzB5V0F6em93V2JHUWN1cUt30gF3QVVfeXFMT1BiYTZsaTVJckZDVkZtOVBkb2w3bVdWQzJiUzV3TXRPdFVIbEEyaGhZS04xNEI4WTAxTzE0c3FzaUctY0RmQWlEaVRnR2tScnJkOGppejdreDVDZ0U1Y0tkZTRzeUlLMHlXQXp6b3dXYkdRY3VxS3c?oc=5",
+      "source": "핀포인트뉴스",
+      "pubDate": "2026-05-04T01:41:02+00:00",
+      "description": "삼성重, LNG-FSRU 수주...에너지 인프라 시장 공략 핀포인트뉴스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "e7fd933059d2",
+      "title": "삼성중공업, 5000억원 규모 LNG-FSRU 1척 수주 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VajRuaUkwajYta050RFE5Qzg0OFQ3dXRDelNUMHFoQ24waEYySy1hcVRxTTRWRlpfeE9OUUZMZU01RnJSNzhHLXB1UEdyZC1HQ2hPZ2pYU0ZRVkFMQXEzSTI2QVREcEF3RHN6WVpsZVFjZ9IBckFVX3lxTE1VajRuaUkwajYta050RFE5Qzg0OFQ3dXRDelNUMHFoQ24waEYySy1hcVRxTTRWRlpfeE9OUUZMZU01RnJSNzhHLXB1UEdyZC1HQ2hPZ2pYU0ZRVkFMQXEzSTI2QVREcEF3RHN6WVpsZVFjZw?oc=5",
+      "source": "머니투데이",
+      "pubDate": "2026-05-04T01:40:19+00:00",
+      "description": "삼성중공업, 5000억원 규모 LNG-FSRU 1척 수주 - 머니투데이 머니투데이",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "e2594ef3feaa",
+      "title": "전력거래소 신임 이사장에 김성진 전 광주미래차모빌리티진흥원장 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wRFNkamE3M1NkOXVLMVh6dVlCWkg0Y1ltWnV1S1NJaDhfNlJyNHhmd2FaZUEybVFCQUE3d21oWjVvakoxTVoycWo0OXZxVXY2V0d3?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-05-04T01:31:00+00:00",
+      "description": "전력거래소 신임 이사장에 김성진 전 광주미래차모빌리티진흥원장 네이트",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "cbab7f5cbd7e",
+      "title": "전력거래소 김성진 신임 이사장 취임… 6일 취임식 예정 - 에너지데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12Z2FER1g4UDQ2S2FZNXRreElhWjR1bjNFelo0VEdETjFKUnN5SG9UemozVjhmdkdfTHE4SF92TkpXYVRDSmtOTGF6Z09MNFBLTl94VnYzMS1LU0lKbWVVempsZ2cyX0VLYTVkODNQLUE?oc=5",
+      "source": "에너지데일리",
+      "pubDate": "2026-05-04T01:11:00+00:00",
+      "description": "전력거래소 김성진 신임 이사장 취임… 6일 취임식 예정 에너지데일리",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "9f7ee8333769",
+      "title": "[강세 토픽] 2차전지 부품 테마, 테이팩스 +5.75%, 신흥에스이씨 +5.69% - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNXA5RllZMUJBY3BuSkNVRnFQVXVDUVNrXzUxbGlrcVBkS2FUTGhfcElFZzFpT1NiSGcyN19mY2ZGb3otOGY1X3RqLWtZNDctdkRQZDFrU1pBUWI5XzFLYUZuNDRILVJFYndGNGtwVkpreWJ3TGJwODV1c1k5b2pBUjV6SdIBlwFBVV95cUxOZTZJNXRVWXdLZ0pxbEJDNm9wWUZTWUNoYzlsOWlWRGw0Z2R1dVFfMjRxdk1ndVM0akxCUlEzcEFSLUk2WnRoUThrLUt1NWp1SUZVSDdhUlRHNlR5LVRzTk94UjVKZVhLX2ZOUDdtaVl5Qk5kd2JTUnBZR3R1TXc3dVhVd2RoTUxGaGxHQUxHbnhQR1JlNDdF?oc=5",
+      "source": "Chosunbiz",
+      "pubDate": "2026-05-04T00:59:15+00:00",
+      "description": "[강세 토픽] 2차전지 부품 테마, 테이팩스 +5.75%, 신흥에스이씨 +5.69% - 조선비즈 Chosunbiz",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "448f82dce8b0",
+      "title": "\"전력 화재 예방의 패러다임 바꾼다\"... 지투파워, 스마트그리드 시장 선도 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hNjlYV3JEYy1CTzJZUG9fSUhoaGM5MnZfN2ZMaEFoQ0tVUGlNWktnU2IwUnlFR1NvZkczcmQxSTVsWW5BcVVvc3JjaFBMa3QyR2tya0ZleFpwS1RuekhZV0gxTHhpb0hIRWNtdDlHaVRRNkU?oc=5",
+      "source": "핀포인트뉴스",
+      "pubDate": "2026-05-04T00:48:38+00:00",
+      "description": "\"전력 화재 예방의 패러다임 바꾼다\"... 지투파워, 스마트그리드 시장 선도 핀포인트뉴스",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "73322116187e",
+      "title": "LS마린솔루션, 주가 기호지세… 해저 케이블 역량 부각 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EeFBsTDZ1YWliUnBMdzgzZGdYelBPeTAzLVdXX2tfNVRzdDJTSm5pcEJPaDRJc2gzaXB6MmJwcGZqZzk3eXkzRE9xUGE5S2tZMHVZWHFMc2lNQWR4N3U3OXh2YjJVUm1WMUdIdm5fbnNpYXZvZmtr0gF3QVVfeXFMT0R4UGxMNnVhaWJScEx3ODNkZ1h6UE95MDMtV1dfa181VHN0MlNKbmlwQk9oNElzaDNpcHoyYnBwZmpnOTd5eTNET3FQYTlLa1kwdVlYcUxzaU1BZHg3dTc5eHZiMlVSbVYxR0h2bl9uc2lhdm9ma2s?oc=5",
+      "source": "핀포인트뉴스",
+      "pubDate": "2026-05-04T00:41:06+00:00",
+      "description": "LS마린솔루션, 주가 기호지세… 해저 케이블 역량 부각 핀포인트뉴스",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "b03cfd93df08",
+      "title": "[GRES2026] 선그로우 허페이 생산기지 \"화재는 100% 일어난다\" 역발상이 빚은 세계 1위 ESS 허브 - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DZjFXUk1lVXdqTFVwLWFyZ1lHVTNERmpkeVV0SDdpWnFjMU1MejRqV0tjX2ZQeWNwZ21VR1ZxQ1lvRUlmOFZOb0s1VHBJV0ZSTUFBMVQ5aUhvQk5jNm4zYTlTVWoxblhIWWpKQ0JjOTI?oc=5",
+      "source": "전기신문",
+      "pubDate": "2026-05-04T00:31:02+00:00",
+      "description": "[GRES2026] 선그로우 허페이 생산기지 \"화재는 100% 일어난다\" 역발상이 빚은 세계 1위 ESS 허브 전기신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "68361f3e0c61",
+      "title": "KBI메탈·선도전기 상한가…전력주 슈퍼사이클 시작됐다 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LVlh4U2xtRGNMTWVvRlNfNndHY29CMV9OLTFfbGFfc01EV2g4LTZYQ2dHSnBCSXAySWdXNGZZc1p6TlhEUDgteFRPM2JzcFNLUUh2NER0a2t2ZXR5dnlKNVhDNV9VM0dnMDdfRnRFNWR2dEXSAXdBVV95cUxQUzUyTUtlcVBPN3dZVF9ubmloTWFidzJOMTA1Tkpmd001aElLRmJPOHVYZVFHekp0bVRnQ3owcVNSbjU1Rmhja0NrX1lpdTVVcWc5RjFMcXlpTEJrQU5tQ21ESUlJeWg3aERTWDlxbjRXWTE0VFhUSQ?oc=5",
+      "source": "핀포인트뉴스",
+      "pubDate": "2026-05-04T00:26:29+00:00",
+      "description": "KBI메탈·선도전기 상한가…전력주 슈퍼사이클 시작됐다 핀포인트뉴스",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "5dd6586c2c05",
+      "title": "[SMR 패권경쟁①] AI가 쏘아 올린 전력 전쟁…SMR 경쟁 레이스 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CUzA3TkVPYUducVF3ajFJcFBSVV9KWlNzZ1FLTlVLWE5mTlhqLUsxb21sbzlaMWc5NmRtaUxmT3BORkZESFNSajdHeUJFeTZQTWd4bnlJVlNteFlERkNiSnJvUkdfODlreFFzTzVVWU8?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "2026-05-04T00:12:00+00:00",
+      "description": "[SMR 패권경쟁①] AI가 쏘아 올린 전력 전쟁…SMR 경쟁 레이스 연합인포맥스",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "89fd645b01f7",
+      "title": "우리은행, 美 가스복합화력 금융 주선…8.2억달러 리파이낸싱 - 서울타임즈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1semdKU19vcXg5LW05b3RIOHNoVElaSmpJYVN2QTlQUnlNWnJaQ2YwdkpmZGFmQzhDZ19peUxnbU5KbjJMVldWX0tySUdXVmgySW1VOWJTYzJBenpYNmc3U3kzU2VnamQzV2w0?oc=5",
+      "source": "서울타임즈뉴스",
+      "pubDate": "2026-05-04T00:00:00+00:00",
+      "description": "우리은행, 美 가스복합화력 금융 주선…8.2억달러 리파이낸싱 서울타임즈뉴스",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "535aba71235d",
+      "title": "'낙타'에서 '종'모양으로…전기화학 곡선 100년 난제 해결 - 동아사이언스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tTlRKZElXdmwwUjdiSUhzR0F5U1ZNbnplRl93Y0xVckVuczh6WVBsbDdnMUFlWkYxV1NYdTkycGVKNHlwQmI2Y2NhTkc0LU40dkJNVw?oc=5",
+      "source": "동아사이언스",
+      "pubDate": "2026-05-03T23:56:00+00:00",
+      "description": "'낙타'에서 '종'모양으로…전기화학 곡선 100년 난제 해결 동아사이언스",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "2ad87c961e2f",
+      "title": "우리은행, 美 발전소 1조 리파이낸싱 성사 - ikoreadaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SMmZzYmlZenRHSjFYUWViR1pBOWxfZkIzcXExeXhRdThMQUUyY01lODFDZUJZQ01ubVRLQkxGYk91ZWk0ZkZOZVhtMW83T1h4TGxTU1FsaUstMnFmangtaHRKZTJXUFRSVnoxa2paNHBPUQ?oc=5",
+      "source": "ikoreadaily.co.kr",
+      "pubDate": "2026-05-03T23:39:23+00:00",
+      "description": "우리은행, 美 발전소 1조 리파이낸싱 성사 ikoreadaily.co.kr",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "c27264ee0bff",
+      "title": "\"LG화학, 석유화학 부활하며 1분기 깜짝 실적…목표가↑\"-IBK - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IUkZRdFBNNTZPRWxIMUxITERlN3RSYkJ2aVd4RVFrbGllSUxEWENIa3hiM3hCVmdvc0tDSkVVZ21RVWx2MDZaRVdzQmR6X0Mya0NqWjI0TEl2THBfVjd0aTNDZVlfQ2Q0RmZsVFR30gFuQVVfeXFMTUhSRlF0UE01Nk9FbEgxTEhMRGU3dFJiQnZpV3hFUWtsaWVJTERYQ0hreGIzeEJWZ29zS0NKRVVnbVFVbHYwNlpFV3NCZHpfQzJrQ2paMjRMSXZMcF9WN3RpM0NlWV9DZDRGZmxUVHc?oc=5",
+      "source": "머니투데이",
+      "pubDate": "2026-05-03T23:33:33+00:00",
+      "description": "\"LG화학, 석유화학 부활하며 1분기 깜짝 실적…목표가↑\"-IBK - 머니투데이 머니투데이",
+      "category": "ESS",
+      "priority": false
     },
     {
       "id": "0a4c2f40711d",
@@ -33,13 +363,23 @@
       "priority": false
     },
     {
-      "id": "eee8c3e2aa5b",
+      "id": "6120586d7ff7",
       "title": "K-전력기기 3사, 美 데이터센터 시장 '3색 전략' - 딜사이트",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aVmRqWTh4aGRhbmxvbk43S1paaHpZLTVUVnpPdncyQ1N1RDhmSTFtdWlpa0MxNUF2MjhhRm9GQlBSeVp5UmZxMGlIY1BZU2M?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xaWxTRDg0MXUwU2VkRWp6WFlUbGV0V2xrb2xVRzBFZVhCVHhOX25LOXdib0lramNSRmI0VDR3LVFXYXJhd2V3WmpZMzM3MWxDTWlhc19qMi0?oc=5",
       "source": "딜사이트",
-      "pubDate": "2026-05-03T22:05:15+00:00",
+      "pubDate": "2026-05-03T22:03:53+00:00",
       "description": "K-전력기기 3사, 美 데이터센터 시장 '3색 전략' 딜사이트",
       "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "6b15d9e3cb6a",
+      "title": "[사설] 햇빛소득마을 엇박자 해소하고 더 정밀한 설계필요 - 이투뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqbmU4bFFwRzNFS08xQVJzX3QtelpVWU5HQmk2R2ZCZVVianBsV0tVTThhVTUtbVIxdzE0MWZ3RDJUNG1GdDhTcWpONHRPQUJBOXZXOHI2ekgxN0c3TVRHZ2JfV3JEa2_SAWtBVV95cUxQbUVfY2JJdEdPaWUtclR3QkVRa0ZDY3Z2c05qTklSQnc2ZnBHeUFCSHNMd3B3WHBJVW13Y21Hb09YVkM3MzlJYnNGcERqbVBZUHBIUXVkZkJzNzhnSE5FUDZZLUxzTnV6bm05TQ?oc=5",
+      "source": "이투뉴스",
+      "pubDate": "2026-05-03T22:00:00+00:00",
+      "description": "[사설] 햇빛소득마을 엇박자 해소하고 더 정밀한 설계필요 이투뉴스",
+      "category": "태양광/RPS",
       "priority": false
     },
     {
@@ -53,22 +393,22 @@
       "priority": false
     },
     {
+      "id": "78d5ba7a2dd9",
+      "title": "우리은행, 美 1조원대 발전소 금융 주선…K-금융 글로벌 확장 - 라이센스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1paXAzNC1rb0cwdHpjSGJkTmswUDdJRnREamRKUHNpMnJjbkxzOVVOVXBUdEE0T2k2M0tHV0k2dDl5QmxwNWtISU5NdF9ERm9ZSzRZc0V4b1czX042SGhQc1FZSG5CUzdwdG9V?oc=5",
+      "source": "라이센스뉴스",
+      "pubDate": "2026-05-03T21:30:00+00:00",
+      "description": "우리은행, 美 1조원대 발전소 금융 주선…K-금융 글로벌 확장 라이센스뉴스",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
       "id": "58665a1ff4aa",
       "title": "작년 해외 PF대출, 발전ㆍ전자통신에 집중 - 대한경제",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CYnZOTWFLTHVlM2NienNpQjV0MEtSX0hidGdMV3kwWUdmbEVlT2lXaG9tT29qQ3lkdTVPT3FtUEtyUWZaMFZ3RUxsaG9VM0VRbzBXeHJ2VzdETGZUVjJXdURZLU5reXQ0ZnNEcWVMRHFoSW1w?oc=5",
       "source": "대한경제",
       "pubDate": "2026-05-03T21:00:58+00:00",
       "description": "작년 해외 PF대출, 발전ㆍ전자통신에 집중 대한경제",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "899a312f7ea3",
-      "title": "1년에 단 49초 꺼졌다…두바이 전력망, 세계 최고 비결은? - 에너지안전신문",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NQ3NwQXNEMzczVVJKRWRIemE0QTFFaDhseEt3ZF95MEIwb3RGdWhlNVpVVl9GNWRZMldnQzA5ZHFtMnJVVW95RWtpc0NhTzY0Q3dNSnAwZ1lfNEo3LWNZczNMbDU?oc=5",
-      "source": "에너지안전신문",
-      "pubDate": "2026-05-03T20:57:41+00:00",
-      "description": "1년에 단 49초 꺼졌다…두바이 전력망, 세계 최고 비결은? 에너지안전신문",
       "category": "AI",
       "priority": false
     },
@@ -123,6 +463,16 @@
       "priority": false
     },
     {
+      "id": "76943ca8535c",
+      "title": "AI 데이터 센터 '3중 압박' 현실화… 주목해야 할 변수 5가지는 - 한국클라우드신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hVzh4eEl1NkxLb1dyX01qbmRzUUxTNnRNNVlqTlhOMmZMTkJHQTRFaFJsNTFUWEYxYWJJOE83YU5vSF9kR3Z0ejRDVDVqbVd1UVo1UHFjU1JNRjJ2VWQzeEVDWGJudXhkM1NTcjE2Z9IBc0FVX3lxTE4zdXZHMUk4SHk1LWN1LUhQeGlDWEFjNE41YmotLUFPWG8tc0pURlhDYk5tRE5pSzg4MnFfR2hQVU0wVG9PQ3FpdEFvYVNWaE1DWHBfcktrTUx5WEVleWVvVU9yQTlsTDFzNlpmcHRhUFZscVE?oc=5",
+      "source": "한국클라우드신문",
+      "pubDate": "2026-05-03T13:40:25+00:00",
+      "description": "AI 데이터 센터 '3중 압박' 현실화… 주목해야 할 변수 5가지는 한국클라우드신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
       "id": "97dbe024381a",
       "title": "[KHARN칸] 태양E학회, ‘집광채광 기술세미나’ 성료 - kharn.kr",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOGhmVzdPYkVRQmxUb29McWxOYzZpVWlUMGsydjVnTHVZWHNzZTR3R25mMW90WVZzX0wxNzJoeVVkSTZ2bUdLeEl4TlBUYnowUE9mdzBoNXNrbTA?oc=5",
@@ -133,22 +483,12 @@
       "priority": false
     },
     {
-      "id": "46cef509785b",
-      "title": "효성중공업, 미국 최대 송배전 전시회 참가…AI 데이터센터 전력망 통합 솔루션 전시 - 이코노뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUcE5hd0puLUJaWUU3T0ZIekZYT3dkS1JWTFVuemVzNkpoTXZaYTNwRnhaLWJwVk9Ud2hYQTZLOWpOZmE2VktBZzNBOGVlRWFacW90VkZkSFlLSjl6amkxTUVra01OOWMwRTZ5dGNkdw?oc=5",
-      "source": "이코노뉴스",
-      "pubDate": "2026-05-03T12:35:00+00:00",
-      "description": "효성중공업, 미국 최대 송배전 전시회 참가…AI 데이터센터 전력망 통합 솔루션 전시 이코노뉴스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "14d77ca27682",
-      "title": "ADB, 아태 전력·디지털에 700억달러 투입⋯서울에 'AI 혁신센터' 세운다 [ADB총회] - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfYjU0RXJVY3NTcklZQ0pIaE5YZ3hkZjQ2OFZCWFM5TTZjMzZqWnNydkE1Rlc0aUgzbWx4VXcyejg0UDl6OWplNXFCSk1lb1pIVGEtdg?oc=5",
-      "source": "이투데이",
-      "pubDate": "2026-05-03T12:28:00+00:00",
-      "description": "ADB, 아태 전력·디지털에 700억달러 투입⋯서울에 'AI 혁신센터' 세운다 [ADB총회] 이투데이",
+      "id": "f6c6a2423547",
+      "title": "ADB, 아태 전력·디지털에 700억달러 투입⋯서울에 'AI 혁신센터' 세운다 [ADB총회] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DdTNyRHoyakRFelo1RHFZLWRMN3VpU0Z3aTFJN3VOcmFqWFZuZzEwdnR6TGZZZXczc0xsTWJjZjNmVFhpLXVCWW1lbjYtZmhNR3c4cg?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "2026-05-03T12:29:04+00:00",
+      "description": "ADB, 아태 전력·디지털에 700억달러 투입⋯서울에 'AI 혁신센터' 세운다 [ADB총회] v.daum.net",
       "category": "AI",
       "priority": false
     },
@@ -200,376 +540,6 @@
       "pubDate": "2026-05-03T08:39:13+00:00",
       "description": "AI가 끌어올린 전력·에너지주… ETF 수익률 ‘100% 돌파’ 아시아투데이",
       "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "d6169d773f10",
-      "title": "우리은행, 美 대형 가스복합화력발전소 자금 재조달 금융주선 성공 - ceodaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwU2s4TGhreFNoR05pSzJZa1pSSVoyU3J1WnpiRVhybUtsUlE3V3ROc214ZXNGUHY1aGVBT3JpazA1eEIzMDRCMFBSaThmOGpGQkNJa2tLTVA3S0haXzBRMVloc3hjSjI5UzBDODNSMjTSAXBBVV95cUxQcFNrOExoa3hTaEdOaUsyWWtaUklaMlNydVp6YkVYcm1LbFJRN1d0TnNteGVzRlB2NWhlQU9yaWswNXhCMzA0QjBQUmk4ZjhqRkJDSWtrS01QN0tIWl8wUTFZaHN4Y0oyOVMwQzgzUjI0?oc=5",
-      "source": "ceodaily.co.kr",
-      "pubDate": "2026-05-03T07:38:00+00:00",
-      "description": "우리은행, 美 대형 가스복합화력발전소 자금 재조달 금융주선 성공 ceodaily.co.kr",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "291edd827110",
-      "title": "페르미, 텍사스 ‘프로젝트 마타도르’ 전력계약 체결…11GW 민간 전력망 실행력 시험대 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiVTY2Ny1OR3UwZUhDOHpVOFpTeDRucXB3UE1ZeFZXYXZLMGczaVBRcVBRYWVLNVMtSUdSMWxzVG5EVWRxTHpWM2FPN0x6LTZOZkJsUUNhbTJsUFXSAVtBVV95cUxQYlU2NjctTkd1MGVIQzh6VThaU3g0bnFwd1BNWXhWV2F2SzBnM2lQUXFQUWFlSzVTLUlHUjFsc1RuRFVkcUx6VjNhTzdMei02TmZCbFFDYW0ybFBV?oc=5",
-      "source": "tokenpost.kr",
-      "pubDate": "2026-05-03T07:26:23+00:00",
-      "description": "페르미, 텍사스 ‘프로젝트 마타도르’ 전력계약 체결…11GW 민간 전력망 실행력 시험대 tokenpost.kr",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "f90fa05fb717",
-      "title": "K배터리 3사 1분기 '동반 적자'…\"ESS·고유가에 하반기 반등 예고\" - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13NC1yV3pHSXJDN0dGMWpaaVRBbkZndG5NVnpoWmp1YUJseV8tamJmWldNcWZWUTBMek9Wemx5MnJHTUpPMEpHQjZSNmUzNENCbHdzXw?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "2026-05-03T06:42:39+00:00",
-      "description": "K배터리 3사 1분기 '동반 적자'…\"ESS·고유가에 하반기 반등 예고\" v.daum.net",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "33d24b5bbb18",
-      "title": "비트코인·AI 품은 발전소…MARA의 2조원 빅딜 - 에너지안전신문",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRFY1R2JnMi1IMzlyazBlaFNXUm9FNzBhUUNqbTVWT1RVRGU5MlJXTW11UWNKY2RjME1idVVYNlJGczJEMm9EcUcyUFJ3OXpiWHlCZUVPV01mUGc2TmM3Z1J5d2I?oc=5",
-      "source": "에너지안전신문",
-      "pubDate": "2026-05-03T05:55:39+00:00",
-      "description": "비트코인·AI 품은 발전소…MARA의 2조원 빅딜 에너지안전신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "04d903bc7e2e",
-      "title": "우리은행, 美대형 발전소 1.1조 자금 재조달 금융주선 완료 - 스페셜경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvS0NFV09zdDNHd2xjby1qamFjeC14UjFVMXZaOUxOalgwVzBiNXN0ejR0LUNJM1dkWUs3OHNPXzhwTEotRnU5amxJV0FXYzdrZTJvOElJMHZLTjVmWUR2OF9iWDg2bXNBczJBNA?oc=5",
-      "source": "스페셜경제",
-      "pubDate": "2026-05-03T05:50:00+00:00",
-      "description": "우리은행, 美대형 발전소 1.1조 자금 재조달 금융주선 완료 스페셜경제",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "f054585a277f",
-      "title": "[지선 D-30]전남 영암·강진·장흥·보성…수성이냐, 교체냐 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jXzBSTW0xekZuTjFOejlkd3FrV2JLeDdsVHhSTjRSZ043dEdYcGhWYWdvc2RSSXQ0SV9HNVluVDVuam5iTlR4VjBsdEhILUpmVDc3MV9heTF6MWJWODR2YUxUeWdaWkZoVlVyZEM1b0pTUW42bV9HZ9IBeEFVX3lxTE5jXzBSTW0xekZuTjFOejlkd3FrV2JLeDdsVHhSTjRSZ043dEdYcGhWYWdvc2RSSXQ0SV9HNVluVDVuam5iTlR4VjBsdEhILUpmVDc3MV9heTF6MWJWODR2YUxUeWdaWkZoVlVyZEM1b0pTUW42bV9HZw?oc=5",
-      "source": "뉴시스",
-      "pubDate": "2026-05-03T05:00:00+00:00",
-      "description": "[지선 D-30]전남 영암·강진·장흥·보성…수성이냐, 교체냐 뉴시스",
-      "category": "VPP",
-      "priority": false
-    },
-    {
-      "id": "f7961b8dcd91",
-      "title": "배터리 소재 빅2 업체 `LFP 양극제 상용화` 엇갈린 승부수 - 매일신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMF9Cb1J5enE5QUw5UzZtQkZWZl83Y3BUcDNpNnYzVXpYRk1uV1luQURzMG41RVB4eHctSTZYNmZQbFQ1VC1vclJSM3RjTk1HZEdWaVQ1M1VXNFpUZHlFRWJ3?oc=5",
-      "source": "매일신문",
-      "pubDate": "2026-05-03T04:41:09+00:00",
-      "description": "배터리 소재 빅2 업체 `LFP 양극제 상용화` 엇갈린 승부수 매일신문",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "062199111ff2",
-      "title": "우리은행, 미국 가스복합화력발전소에 1.1조 규모 금융 주선 - 파이낸셜신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIbGZhU3ctZ3EtOVBXVlZyNk5ON0kzelZTcXFpT2Vrc2FVWW5UalVuaEFMdndRQ1V3Q1ZYbWtGOUx2U1hWVTNyZno5ZnFOUG12aFhPQnJfTmw0cDhjMDNObXpWZmRhQXgtcUVR?oc=5",
-      "source": "파이낸셜신문",
-      "pubDate": "2026-05-03T04:17:45+00:00",
-      "description": "우리은행, 미국 가스복합화력발전소에 1.1조 규모 금융 주선 파이낸셜신문",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "1ed7670a474f",
-      "title": "서기관서 고공단 직행한 해풍단지단장…전기요금·쓰봉 주역도 승진[세종백블] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9BNWpGV0M1UVk4WTF4ZmZFSGtybDNNWlE2UGl2NXIyQWFpcUtEMkVPQWNibEhiVG9oTG9NUW5JN3A1UXVvREE?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "2026-05-03T03:59:04+00:00",
-      "description": "서기관서 고공단 직행한 해풍단지단장…전기요금·쓰봉 주역도 승진[세종백블] v.daum.net",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "0fa08f770fbd",
-      "title": "우리은행, 美 오하이오 가스복한화력발전소에 8억 2500만 달러 금융주선...북미 에너지금융 시장 공략 본격화 - 퍼블릭타임스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zNkVPcXNpS3JlUGtpeWNxcVNaaWRWSUYwdmdPWlpmb1RpeUVjT2tiWTJGaWg1Umk4QkdrSS03bG4wQkhvekZ0R29iaDlDYmVfX3ZwY0hLXzEwUHRWWmVhU09hRkpzRVAzUWfSAW5BVV95cUxON0xlMlBGMnllOFNuMWtTZUtSTkZfSHFoWXZybzFiRHVoZHExOW4xZm1IM1NSZUhndDlyYUJBNVpjLWktcEszUFBudWVEYVU5SVVwYnA2ZjVRMDRqbFIzSE8zbkdTdnlMV1psQWxuZw?oc=5",
-      "source": "퍼블릭타임스",
-      "pubDate": "2026-05-03T03:22:21+00:00",
-      "description": "우리은행, 美 오하이오 가스복한화력발전소에 8억 2500만 달러 금융주선...북미 에너지금융 시장 공략 본격화 퍼블릭타임스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "90bdfb6abf5f",
-      "title": "우리은행, 美 가스복합화력발전소 8.25억달러 재조달 금융주선 - 더퍼블릭",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13eU9wNzBfMGUyeXlqM0JyZjE4cFVkMkhxLXZudFFfdDVYNjNNME5yc1RCY2huOXVlTlhiRDYwUEZ5RUs3NzJ4d1ZlNlRrSzhjTzRFSkNaNG16dE5MdWMxdWtkeXBNdEtpUE9Qbm5USdIBb0FVX3lxTE13eU9wNzBfMGUyeXlqM0JyZjE4cFVkMkhxLXZudFFfdDVYNjNNME5yc1RCY2huOXVlTlhiRDYwUEZ5RUs3NzJ4d1ZlNlRrSzhjTzRFSkNaNG16dE5MdWMxdWtkeXBNdEtpUE9Qbm5USQ?oc=5",
-      "source": "더퍼블릭",
-      "pubDate": "2026-05-03T03:04:58+00:00",
-      "description": "우리은행, 美 가스복합화력발전소 8.25억달러 재조달 금융주선 더퍼블릭",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "43aa8d506203",
-      "title": "4월 ETF 시장, AI 전력·반도체 '급등' 바이오·방산 '주춤' - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04QTZtZHRoX2dDRFdBdTBUNUF3c1F2dU12dU1Wb3d0eFhMMVc2Y3ZyNDA2T0dJa3dtUDg1WjdyM1JXRFhydGlkSGJqUkdSNEpMdXFmNUFSTi15VzNyMXBCZWJ6WlRiaFZiaF9hWW9jV2EtakXSAXdBVV95cUxQX3BxaU5GWTI0UzMycmRnRU1hcWRfTzJJcHM5aUQtNUVjc1ExMHNLZFBfbmh4bzkwS2FnQWV4TEFwUkVCRlJxbkctNlpkUjJuSnJFXzVNaTZRMk96eDJCWUlsRUR6MjhOSk9PWF9kZE81WVpvcHpVNA?oc=5",
-      "source": "핀포인트뉴스",
-      "pubDate": "2026-05-03T02:05:50+00:00",
-      "description": "4월 ETF 시장, AI 전력·반도체 '급등' 바이오·방산 '주춤' 핀포인트뉴스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "64bb11deba6b",
-      "title": "[산업·에너지] 전력 수요 폭증 시대… “원전 확대와 에너지 믹스 고도화 병행해야” - ainews1.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13VjRkT2FqQnNSdWFzc2tZaTZzZ09TY3B3cXhxUXNmRGxJWnRsa0NOdTl2YkYzSGhLdlpHTXhMd3FROGNTM3hPalF5SDdXbHZlQm8zSmpYTGVVZGFfRk1ZSXRILWdZM1RiUkhj?oc=5",
-      "source": "ainews1.co.kr",
-      "pubDate": "2026-05-03T02:03:51+00:00",
-      "description": "[산업·에너지] 전력 수요 폭증 시대… “원전 확대와 에너지 믹스 고도화 병행해야” ainews1.co.kr",
-      "category": "VPP",
-      "priority": false
-    },
-    {
-      "id": "7ad7bbd63040",
-      "title": "美 앨심에너지, 물리학 기반 AI 플랫폼 활용 'NA-시리즈' 배터리 개발 성공 - 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uYmNFV18zd0ZnVEtlYm5yREdjOGhWelRWU0pqRTBYRk9BblVlTVJOYlQxd1NKUG5QTklmZ2ZZdlhaS0t4Q3lqTTVrMFAyV3lITjd4THBwMmp1R1Vad0E?oc=5",
-      "source": "더구루",
-      "pubDate": "2026-05-03T01:36:59+00:00",
-      "description": "美 앨심에너지, 물리학 기반 AI 플랫폼 활용 'NA-시리즈' 배터리 개발 성공 더구루",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "06b759d8ee68",
-      "title": "전력망 안정성 확보 위해 기술기준 고도화 및 전력감독체계 개선 공감대 형성 - 서울Pn",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PWGFjOW9vd3hKd3MyRzU3SldzQnYxYUJVekVMVFp4NmgyOWMyTW10eGxiUnZ4STlheFhmbUpRVE10cTlJX2ROYnBnYVExTVBQNE5IX3dfeFlZbW9RaG4zeExn?oc=5",
-      "source": "서울Pn",
-      "pubDate": "2026-05-03T01:25:46+00:00",
-      "description": "전력망 안정성 확보 위해 기술기준 고도화 및 전력감독체계 개선 공감대 형성 서울Pn",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "9522c437d702",
-      "title": "우리銀, 美 발전 인프라 구축에 1,1조 금융 주선 - 스트레이트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kNmJEandRdU5mem04XzJKX0lZUzZVdy1scVNRTU5GRFBsNjhkSDcwQzlSbjdpY2VZaEkzSGNsYjJTWk8waHB3R18yc1RZc0NUZTVBTWp2SDJOcm5ZRkptZTdWYms5aGFqbHhJRXkydVdfenVpT3Jv0gF3QVVfeXFMTWQ2YkRqd1F1TmZ6bThfMkpfSVlTNlV3LWxxU1FNTkZEUGw2OGRINzBDOVJuN2ljZVloSTNIY2xiMlNaTzBocHdHXzJzVFlzQ1RlNUFNanZIMk5ybllGSm1lN1ZiazloYWpseElFeTJ1V196dWlPcm8?oc=5",
-      "source": "스트레이트뉴스",
-      "pubDate": "2026-05-03T01:22:39+00:00",
-      "description": "우리銀, 美 발전 인프라 구축에 1,1조 금융 주선 스트레이트뉴스",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "2a096e5b3f6d",
-      "title": "K-금융, 에너지 인프라 투자 경쟁 본격화 \"북미 발전소로 향한다\" - 프라임경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44akV3Z3FlYXJfTXdlYk9qMU9tS0ZGNlN3SEtHZWVfU0twcE9xN3lhOHBnekpieHNLbUxTTEhFM0lfQUVPemYxa0xtQzFORzUxalV3ZW5QbTlFeTQyRTJ0YThGMDhQTnhEUUR2Vg?oc=5",
-      "source": "프라임경제",
-      "pubDate": "2026-05-03T01:05:54+00:00",
-      "description": "K-금융, 에너지 인프라 투자 경쟁 본격화 \"북미 발전소로 향한다\" 프라임경제",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "30f5f56ad384",
-      "title": "K-전력기기, 유럽 전력망 심장 바꾼다 - 포쓰저널",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aYTQ0U0hhOEthSzU5SlZNQWlZcVdiREY5VkZmQ1Zzcm9LX1NFWklfdmwxcUpsUjZLaEdyckYzaXVORGRTUkI0SWk0UnQ1NzFzT1pNc0ZpUGg4TU9kTk4wbTkwT2Q?oc=5",
-      "source": "포쓰저널",
-      "pubDate": "2026-05-03T01:05:02+00:00",
-      "description": "K-전력기기, 유럽 전력망 심장 바꾼다 포쓰저널",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "c4372075582b",
-      "title": "동서발전-한화에너지, 분산E 시장 확대 뜻모아 - 에너지타임즈",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqaXZPUTEySGFuQWRLY2VKaURNYVExQW1tamlzWndScGJPaWVqbkh4WldfOThiMjVCLThsVTBGbGp1Z0tSMXN4UWlaZkdnTFZVa2JMajRmOWtOVjNEM0V1d0EyNWVQMEVEZXI0cQ?oc=5",
-      "source": "에너지타임즈",
-      "pubDate": "2026-05-03T00:45:00+00:00",
-      "description": "동서발전-한화에너지, 분산E 시장 확대 뜻모아 에너지타임즈",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "630d58a4a166",
-      "title": "AI가 키운 전력기기 시장…국내 업계, ‘친환경’ 강점 앞세워 유럽 공략 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUM19wWEpTX1laQVhMM2tEdGJBWmFpMHdUTTdMWmR5THpWTXFabHRrMURBZnNvV1dpemZ4VGUwSlNicTZjZmlSeUFBMUxabWw0VGNoQmIxUEhWMzZOdDRUUDhtUDJGc3E2V0pKWVFLYm9zZw?oc=5",
-      "source": "한겨레",
-      "pubDate": "2026-05-03T00:42:00+00:00",
-      "description": "AI가 키운 전력기기 시장…국내 업계, ‘친환경’ 강점 앞세워 유럽 공략 한겨레",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "346e3d1d9c73",
-      "title": "\"북미 에너지 시장에서의 입지 굳힌 성과\"... 우리銀, 미국 가스복합화력발전소에 K-금융 주선 완료 - 더글로벌기빙뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOWnlLaHpxNmt2Szl6WjRDSFYyUi1TOGJPMno0YlJSYlQzcEpuaUpFRUtONE9COGpGek5HenFTRXg1eHROdUttUmQ2aHdKdkJzQ1BKeA?oc=5",
-      "source": "더글로벌기빙뉴스",
-      "pubDate": "2026-05-03T00:30:00+00:00",
-      "description": "\"북미 에너지 시장에서의 입지 굳힌 성과\"... 우리銀, 미국 가스복합화력발전소에 K-금융 주선 완료 더글로벌기빙뉴스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "28ffa9d268f2",
-      "title": "우리은행, 美 가스복합발전 1.1조 재조달 주선…‘에너지금융’ 확대 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtdzd5R1dCbGQtMUVwWFluVjJPNEl6RjdjazRyc05oQlBCb1NLVUZzVE03MVB3ci1mSGY0OW5ZNWlTZkV4QXc?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "2026-05-03T00:28:04+00:00",
-      "description": "우리은행, 美 가스복합발전 1.1조 재조달 주선…‘에너지금융’ 확대 v.daum.net",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "9ee5465a9cb2",
-      "title": "반도체보다 더 뛰었다…전력 ETF 수익률 ‘불기둥’ - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JQTN0T2VveTFyUHRUbHRkclEyeDVPQWVJdENSUDhSaktpZlYtZGxkLWRIYlFBNExfR2hSTGNLUzNPcmFGVHBHeFNtUElvUnBMUnREM1JQNGNnVlNCNGJJa0taYjNES1l6R0ZzUmowTDVwRDg?oc=5",
-      "source": "마켓인",
-      "pubDate": "2026-05-03T00:26:11+00:00",
-      "description": "반도체보다 더 뛰었다…전력 ETF 수익률 ‘불기둥’ 마켓인",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "07cddaa5c752",
-      "title": "우리은행, 美 발전소 자금 재조달 주선…1조원 규모 금융 성사 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wR3NnN3BNSUFFZFNVXzdKS0ZiQ3A1SHFRRkhEZ1lDblZ2RlItUE1pSjRjeEFQa24tYWRNeFk0amI1Nm9PWmhNRlBNaw?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "2026-05-03T00:20:34+00:00",
-      "description": "우리은행, 美 발전소 자금 재조달 주선…1조원 규모 금융 성사 v.daum.net",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "4c1887bfa5ff",
-      "title": "우리은행, 美 가스화력발전소 운전개시 맞춰 1조 1000억원 자금 금융주선 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wWjRWSU50SWdDRDMwc09oYzEyNFZlb0xWbU5QS0JnUFRlblRjNy16a19iSVowQnloaVh0eTdXZEw1SnBiLWlmc2hYSExaNXhzUGdfZWp4SFl6TmRaYnFEV2hDTU5PcUROcWlqR0RsSnZzM1YySFdZYQ?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-05-03T00:02:00+00:00",
-      "description": "우리은행, 美 가스화력발전소 운전개시 맞춰 1조 1000억원 자금 금융주선 네이트",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "7603901d9352",
-      "title": "우리銀, 美 대형 가스복합화력발전소에 K-금융 주선 - 조세일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WYlBYdEtVYzRFcVBVNTFqbUlWRHRwcnlVd0lIYjVpNmdLR1pyN2pMam9NaEVJcEl6dlJub1plWGczdm1PWjRFT3ZkZGN2cUVjZHd0WlpZV05YaWl1TDdqNElqczFnS2RPVEhXUXRlSQ?oc=5",
-      "source": "조세일보",
-      "pubDate": "2026-05-03T00:00:10+00:00",
-      "description": "우리銀, 美 대형 가스복합화력발전소에 K-금융 주선 조세일보",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "82102d49230b",
-      "title": "우리은행, 美 950MW 발전소 1.1조 재조달 주선…AI 전력수요 올라탄 인프라금융 - 경인방송 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iMDZhdVRPUlRtN2J2OGVYS014X0lqTk9QWWFxclNaVmVQNnBobV9xakJ0Z1VYUG9tMmVIcUVfbVJ5d1dnT2x1NG5TWUQxZnI3RjBCRlE1UEo0bkM1NlRXZVdXQlnSAWhBVV95cUxNdDJUWlZCeE43QWZabnRPTWtFOEUtQTI1X2pnNE5FbzVGclg5Zk9XYXdpSWJoTWROaEpJQlBibEhmUkJldWo4YkN4aVozTHFDdTNtNHRWWUF6OXZNN0pkZUZhRlF5Y1JFeA?oc=5",
-      "source": "경인방송 뉴스",
-      "pubDate": "2026-05-03T00:00:00+00:00",
-      "description": "우리은행, 美 950MW 발전소 1.1조 재조달 주선…AI 전력수요 올라탄 인프라금융 경인방송 뉴스",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "142e4c962f23",
-      "title": "우리은행, 美 전력시장서 8.2억달러 금융 주선 - 월요신문",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ONW5DTTBRZGRZWUo4VlNHVnByV0FEQzNyWW5LQ05XN0tJUDJJdkhaa0JWLW9PV1VCX3Rrckc1VXcwWmVnelAxaVJieHp4Ql9CeGlLTGczeTc0cV9ZTzVhdTBYMXBwVlhOWmc?oc=5",
-      "source": "월요신문",
-      "pubDate": "2026-05-03T00:00:00+00:00",
-      "description": "우리은행, 美 전력시장서 8.2억달러 금융 주선 월요신문",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "e8dce91500be",
-      "title": "우리은행, 美 오하이오 950MW 발전소 8억 달러 금융주선 - jabon.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzdFdFX2l4bmtZR0ZNQVd0aU50eHpaTWhOQnhOVk5TN0N5aG5KMUJaWmhYa3pseENDa1RVUV80V0JES2JLdFJuLTVwTUVBT2Zablc1SlNKaVBqQkwzMG8wbkdmNmVCQUU?oc=5",
-      "source": "jabon.co.kr",
-      "pubDate": "2026-05-03T00:00:00+00:00",
-      "description": "우리은행, 美 오하이오 950MW 발전소 8억 달러 금융주선 jabon.co.kr",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "a684fe7c329a",
-      "title": "우리은행, 미 오하이오주 가스복합발전소 1.1조 원 규모 금융주선 성공 - BBS불교방송",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80bGNpMXRDd01FbDN0TWtJVU9DRm5rY0hEclQzeWdIbWVERzMxTmFlYzB2WlBuMlFpajhPWGV2Z1JtYk01dTU0Ulg5ODRyZWp1c1Z6QWZOMmdQRng3NHdTeTdaa1lTdDJKZ2xZ?oc=5",
-      "source": "BBS불교방송",
-      "pubDate": "2026-05-03T00:00:00+00:00",
-      "description": "우리은행, 미 오하이오주 가스복합발전소 1.1조 원 규모 금융주선 성공 BBS불교방송",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "e8bca812caf3",
-      "title": "우리은행, 美 발전 금융·투자설명회 병행 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02RFlSME0wdFcxQk9IVXJIR3dzWURpbVBjOW5udlpZNmxnSW15UkxES0laaDM4RWFoUGxZSXFhbERfWFJDcXRkdy0yX0pVbjFxcldSUUF5cEtUemRwMWpDR3BkdTV3VWpaUTFwbi1CNNIBb0FVX3lxTE02RFlSME0wdFcxQk9IVXJIR3dzWURpbVBjOW5udlpZNmxnSW15UkxES0laaDM4RWFoUGxZSXFhbERfWFJDcXRkdy0yX0pVbjFxcldSUUF5cEtUemRwMWpDR3BkdTV3VWpaUTFwbi1CNA?oc=5",
-      "source": "한국보험신문",
-      "pubDate": "2026-05-03T00:00:00+00:00",
-      "description": "우리은행, 美 발전 금융·투자설명회 병행 한국보험신문",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "aaab9547c0fc",
-      "title": "우리은행, 美 가스복합발전소 1조원 금융주선 - 직썰",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByOGEzMUh2cWdsY2ViVHEwQmh6TWY5TXU0QlQxUUNMMW5HamppSDg3RG1VSXNNT2MxNnV4Uy1PamFuZVU4WWNaenpGR0JicnJlM25HSU9ERUZBOTI2MEttamhNQWJCcnFW0gFsQVVfeXFMTXU3ek1wMzlMdnRwOUhjdjUzSi1SS1lsTW91d3pDakJsR05fMjE4RmxtejNRUUN3QjRYWjZ0aTdUbm0tbjhsejNqV0dMNVJtejF4VTFEdU96MThfZTRWeWJSSXNXdU5IaTA2ZWJu?oc=5",
-      "source": "직썰",
-      "pubDate": "2026-05-03T00:00:00+00:00",
-      "description": "우리은행, 美 가스복합발전소 1조원 금융주선 직썰",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "a5936a7dca44",
-      "title": "[위클리배터리] 1분기 저점 도달한 K-배터리…하반기 美 ESS·EU EV 효과 기대감 - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpeXhJSlMwcVJIMGN5M3BfQ1k3SjlnaUFXSFFPdlNabWdRVVBMcGR3aUlhYlFxU0lIUGtpOXJ5Zjl4cDdHR2x5Rzdqa3JmZHFqclQycEdERDN3YnVtNkFpelRIazc?oc=5",
-      "source": "디지털데일리",
-      "pubDate": "2026-05-03T00:00:00+00:00",
-      "description": "[위클리배터리] 1분기 저점 도달한 K-배터리…하반기 美 ESS·EU EV 효과 기대감 디지털데일리",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "56288d242c84",
-      "title": "[심층 분석] 우리은행, 美 트럼불 가스복합발전소 리파이낸싱 완료…북미 에너지 시장 금융 영토 확장 - 뉴스밸류",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NODVMeVRjX1NZaWN3d3lxRUZsOWJWeUhEdmVfWGhfN2tEb1dzdXRIUTRWR3FQdW54M1M1SmZBSm1JQmQ0bUVRQ0tUMTZQMmxla0l6QkxvLWNyb21HNk53LVR3TzZxcndZZGc?oc=5",
-      "source": "뉴스밸류",
-      "pubDate": "2026-05-03T00:00:00+00:00",
-      "description": "[심층 분석] 우리은행, 美 트럼불 가스복합발전소 리파이낸싱 완료…북미 에너지 시장 금융 영토 확장 뉴스밸류",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "dc49a00ef5a8",
-      "title": "우리은행, 미국 대형 가스발전소에 1조1000억원 ‘K-금융’ 주선 성공 - 스마트경제",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xM2p3MDZzNXd6SHNTb1NHNnFjSENuaDd0WGYzQktoblhXcS1oTXFONkhjejJXUEdsbmZzSmVmV3hKZC1WQ1hoUFAtdzV0MUVBeFV1cmQ3Y3VWcWhUZi1OSHVzazBXb3dNUEZjWG1CQQ?oc=5",
-      "source": "스마트경제",
-      "pubDate": "2026-05-03T00:00:00+00:00",
-      "description": "우리은행, 미국 대형 가스발전소에 1조1000억원 ‘K-금융’ 주선 성공 스마트경제",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "6fc6a28cb77f",
-      "title": "우리은행, 美 1.1조 규모 발전소 금융주선 성공…북미 에너지 시장 ‘K-금융’ 깃발 - thefairnews.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LamFHYVlWbEpFY1RoSFpTQ014LUtKZFF4VlA2Q2ZBUkJ2RktuN2FiUW5kM3pxa0xXamlnb2hrRFhsSGdIelpNOGlWdThEMGZhRmNpTzhWaDFERTZ5ZnBIY0dhOHRVd1N1b1lqOGR1QzbSAXRBVV95cUxPZGpmUTBDVmxLMXdhWlNNOUZDV01pb2VydjhGd21VMlRfODlPMEViNmp3ZFBaa2NMSFVlZlNCdG1uT1ROVjFtbjFUOEgtOTVzbFhIZ25DZE4xRzE3VGpPaXZ0aElJQ3M5c0xVNHlMYnVJRmdsaw?oc=5",
-      "source": "thefairnews.co.kr",
-      "pubDate": "2026-05-03T00:00:00+00:00",
-      "description": "우리은행, 美 1.1조 규모 발전소 금융주선 성공…북미 에너지 시장 ‘K-금융’ 깃발 thefairnews.co.kr",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "163638d6d433",
-      "title": "빅테크가 직접 러브콜…데이터센터 배터리 시장 뜬다 - 지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uZUpKVFFMYTcyVFNRYzJxRTFMM1FONG5OTmhFVEdUeklYT2VSTmxQTnVNNy1PdlExcjJRZlM5dVZCS2Z1OHhyOU1kWkVyMGlJRThYallB?oc=5",
-      "source": "지디넷코리아",
-      "pubDate": "2026-05-02T23:56:08+00:00",
-      "description": "빅테크가 직접 러브콜…데이터센터 배터리 시장 뜬다 지디넷코리아",
-      "category": "ESS",
       "priority": false
     }
   ]
